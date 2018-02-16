@@ -7,6 +7,7 @@
   "description" : "^cyan;If all else fails, add more stuff onto it and try again.^reset;
   ^red;Still a primitive hunting weapon^reset;",
   "shortdescription" : "Improved Primitive Spear",
+  "radioMessagesOnPickup" : [ "PickupWebbert1spear" ],
   "tooltipKind" : "sword",
   "category" : "spear",
   "twoHanded" : true,
