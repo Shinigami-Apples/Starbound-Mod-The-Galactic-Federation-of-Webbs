@@ -80,7 +80,7 @@
     },
     "PickupWebbert1spear" : {
         "type" : "tutorial",
-        "text" : "This still ^red;primitive^reset; weapon in two of your eight legs still has a 0.9% of saving your life. Your own fangs are doing a better job than your brain, you ninnyhammer."
+        "text" : "This still ^red;primitive^reset; weapon in two of your eight legs still has a 0.9% chance of saving your life. Your own fangs are doing a better job than your brain, you ninnyhammer."
     },
     "PickupWebberswordupgrade1" : {
         "type" : "tutorial",
