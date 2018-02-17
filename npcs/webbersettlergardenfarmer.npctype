@@ -1,5 +1,5 @@
 {
-  "type" : "webbersettlergarden",
+  "type" : "webbersettlerfarmergarden",
   "baseType" : "base",
 
   "levelVariance" : [3, 3],
