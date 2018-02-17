@@ -9,10 +9,14 @@
   "shortdescription" : "Sleeveless Farm Shirt",
   "tooltipKind" : "armor",
   "maleFrames" : {
-    "body" : "chestM.png"
+    "body" : "chestM.png",
+    "backSleeve" : "",
+    "frontSleeve" : ""
   },
   "femaleFrames" : {
-    "body" : "chestF.png"
+    "body" : "chestF.png",
+    "backSleeve" : "",
+    "frontSleeve" : ""
   },
   "colorOptions" : [
     // BLUE
