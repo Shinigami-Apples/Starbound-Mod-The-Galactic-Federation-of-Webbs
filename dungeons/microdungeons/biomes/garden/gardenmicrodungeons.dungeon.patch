@@ -28,7 +28,7 @@
   "path": "/parts/-",
   "value":
     {
-      "name" : "classicwebberhouse",
+      "name" : "classicwebberfarmhouse",
       "rules" : [
         [ "maxSpawnCount", [2] ]
       ],
