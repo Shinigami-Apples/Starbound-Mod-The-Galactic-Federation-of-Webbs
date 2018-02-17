@@ -1,8 +1,8 @@
 # Starbound---Webbers
 Adds in Webber(s) to Starbound
 <----->
-# WARNING: 
-I am in NO WAY responsible for your saves with this modded Starbound race. If your saves get corrupted, you play with (possibly) conflicting mods, your spider friends go missing, your cat dies, your pizza doesn't get delivered, or net neutrality ends, I AM NOT LIABLE for the damages that may be associated with this mod. That being said, IF YOU EVER GET A CRASH WITH THIS MOD IN YOUR STARBOUND, send me the log and I'll determine if it's ACTUALLY my fault or you're bothering me with something not related to this mod. This mod is already large, and it's as unstable as it is huge to the power of six. 
+# WARNING:
+I am in NO WAY responsible for your saves with this modded Starbound race. If your saves get corrupted, you play with (possibly) conflicting mods, your spider friends go missing, your cat dies, your pizza doesn't get delivered, or net neutrality ends, I AM NOT LIABLE for the damages that may be associated with this mod. That being said, IF YOU EVER GET A CRASH WITH THIS MOD IN YOUR STARBOUND, send me the log and I'll determine if it's ACTUALLY my fault or you're bothering me with something not related to this mod. This mod is already large, and it's as unstable as it is huge to the power of six.
 
 FOR THOSE PLAYING WEBBERS LIKE THEY'RE FULLY COMPLETE AND DON'T WANT TO LOSE ANYTHING IF THIS MOD HAS A MAJOR UPDATE:
 
@@ -16,7 +16,7 @@ Thank you for listening to my warnings.
 <----->
 # FEATURES:
 
-- Webbers DO have FR support as of now. the sats are a bit wonky but they'll be fixed.
+- Webbers DO have FR support as of now. the stats are a bit wonky but they'll be fixed.
 
 - Partially incomplete custom ships, but hey, Tiers 0-3 aren't the recolors again.
 
@@ -34,7 +34,7 @@ Thank you for listening to my warnings.
 
 - Hurt soun- no. Please don't hurt these "endangered" species just to hear them cry. Don't. You'll make me cry.
 
-- Tenants: They're still not your annoying nextdoor neighbors, so they're disapointing.
+- Tenants: They're still not your annoying nextdoor neighbors, so they're disappointing.
 
 - Nyctophobia: Webbers are probably the first race to have a crippling fear of the dark. (PLAY WITH FRACKIN' RACES FOR FULL EFFECT)
 

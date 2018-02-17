@@ -2,19 +2,37 @@
 {
   "op": "add",
   "path": "/metadata/anchor/-",
-  "value":  
-	 "classicwebberhouse"	
+  "value":
+	 "classicwebberhouse"
+},
+{
+  "op": "add",
+  "path": "/metadata/anchor/-",
+  "value":
+	 "classicwebberfarmhouse"
 },
 {
   "op": "add",
   "path": "/parts/-",
-  "value":  
+  "value":
     {
       "name" : "classicwebberhouse",
       "rules" : [
         [ "maxSpawnCount", [1] ]
       ],
       "def" : [ "tmx", "classicwebberhouse.json" ]
-    }		
+    }
+},
+{
+  "op": "add",
+  "path": "/parts/-",
+  "value":
+    {
+      "name" : "classicwebberhouse",
+      "rules" : [
+        [ "maxSpawnCount", [2] ]
+      ],
+      "def" : [ "tmx", "classicwebberfarmhouse.json" ]
+    }
 }
 ]
