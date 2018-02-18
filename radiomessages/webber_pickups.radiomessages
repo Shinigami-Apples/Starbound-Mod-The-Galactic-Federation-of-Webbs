@@ -1,6 +1,6 @@
 {
     //vanilla objects
-    
+
     "PickupSilk" : {
         "type" : "tutorial",
         "text" : "A type of silk produced by alien moths. It is useful for making clothing and furniture."
@@ -33,9 +33,9 @@
         "type" : "tutorial",
         "text" : "Common FTL fuel type used for years. Obtained on moons. Supported by this ship's system. Nothing else to say."
     },
-    
+
     //pick up vanilla liquids
-    
+
     "PickupLiquidfuel" : {
         "type" : "tutorial",
         "text" : "Cheap, common, popular, and a ^red;poor fuel type^reset; for FTL systems. Obtained on moons. Supported by this ship's system. ^orange;It's the only fuel that the lower class can afford^reset;."
@@ -72,8 +72,14 @@
         "type" : "tutorial",
         "text" : "Do not get coconut milk mixed up with non-vegan sources of milk. Doesn't have much use, but is very tasty, albeit ^red;not suitable for carnivores^resert;."
     },
+    //modded items
+    "PickupWebberflag" : {
+        "type" : "tutorial",
+        "text" : "This is a flag. Unless if you had something particular in your head to place it here, congratulations! You've just wasted your time and resources. Just kidding. It's a one-way teleportation marker that I can beam you down from, but you can't beam up or anywhere else from this."
+    },
+
     //modded weapons
-    
+
     "PickupWebbert0spear" : {
         "type" : "tutorial",
         "text" : "The ^red;primitive^reset; weapon you have in your two legs is called a ^orange;hunting weapon^reset;. Hunting weapons are used to obtain food and other organic/non-organic resources, at a higher success rate."
