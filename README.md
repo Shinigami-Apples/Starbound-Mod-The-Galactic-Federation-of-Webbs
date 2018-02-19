@@ -14,6 +14,8 @@ Also, don't trust every single update on the GitHib repository. Like above, when
 Thank you for listening to my warnings.
 # FEATURES:
 
+- Custom ship pet!
+
 - Webbers DO have FR support as of now. the stats are a bit wonky but they'll be fixed.
 
 - Partially incomplete custom ships, but hey, Tiers 0-3 aren't the recolors again.
