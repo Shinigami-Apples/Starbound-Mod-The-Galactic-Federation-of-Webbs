@@ -1,0 +1,9 @@
+{
+  "name" : "elderitch",
+  "category" : "petskutzer",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "black.png"
+  }
+}
