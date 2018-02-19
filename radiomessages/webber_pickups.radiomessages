@@ -1,6 +1,13 @@
 {
     //vanilla objects
 
+    "PickupSolarpanel" : {
+        "type" : "tutorial",
+        "text" : "This is a piece of human technology called a ^cyan;solar panel^reset;. It converts light energy into electricity. It may prove useful for you one day."
+    },
+
+    //vanilla items
+
     "PickupSilk" : {
         "type" : "tutorial",
         "text" : "A type of silk produced by alien moths. It is useful for making clothing and furniture."
@@ -72,7 +79,9 @@
         "type" : "tutorial",
         "text" : "Do not get coconut milk mixed up with non-vegan sources of milk. Doesn't have much use, but is very tasty, albeit ^red;not suitable for carnivores^resert;."
     },
+
     //modded items
+
     "PickupWebberflag" : {
         "type" : "tutorial",
         "text" : "This is a flag. Unless if you had something particular in your head to place it here, congratulations! You've just wasted your time and resources. Just kidding. It's a one-way teleportation marker that I can beam you down from, but you can't beam up or anywhere else from this."
