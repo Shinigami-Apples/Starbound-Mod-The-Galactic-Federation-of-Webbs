@@ -35,7 +35,7 @@
     "/objects/spawner/techstation.lua"
   ],
   "scriptDelta" : 20,
-  "shipPetType" : "petbunny",
+  "shipPetType" : "petskutzer",
   "spawnOffset" : [2, -1],
   "chatPortrait" : "/ai/portraits/webberportrait.png:yell.1",
   "dialog" : {
