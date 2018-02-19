@@ -84,7 +84,7 @@
 
     "PickupWebberflag" : {
         "type" : "tutorial",
-        "text" : "This is a flag. Unless if you had something particular in your head to place it here, congratulations! You've just wasted your time and resources. Just kidding. It's a one-way teleportation marker that I can beam you down from, but you can't beam up or anywhere else from this."
+        "text" : "This is a flag to boast your presence. Unless if you had some particular reason on your mind to place it here, congratulations! You've just wasted your time and resources."
     },
 
     //modded weapons
