@@ -1,9 +1,9 @@
 {
-  "name" : "elderitch",
+  "name" : "darkgreenwhite",
   "category" : "petskutzer",
   "type" : "body",
 
   "frames" : {
-    "body" : "elderitch.png"
+    "body" : "darkgreenwhite.png"
   }
 }
