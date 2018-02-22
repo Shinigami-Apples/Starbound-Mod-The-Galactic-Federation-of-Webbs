@@ -1,5 +1,7 @@
 {
   "type" : "petskutzer",
+  "shortDescription": "Skutzer",
+  "Description" : "Skutzers are large, herbivourous, and passive insectoid dogs commonly found as pets in the Glactic Webber Federation. They originated at Alpha Waste-II-B.",
 
   "categories" : [ "petskutzer" ],
   "parts" : [ "body" ],
