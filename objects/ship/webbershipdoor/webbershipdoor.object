@@ -7,11 +7,11 @@
   "description" : "A door suitable for a spaceship.",
   "shortdescription" : "webber Ship Door",
   "race" : "webber",
-  "apexDescription" : "These doors are used on all our ships.",
-  "avianDescription" : "A spaceship door.",
+  "apexDescription" : "These doors are oddly different from the ones on the market...",
+  "avianDescription" : "A spaceship door, with extra legs.",
   "floranDescription" : "Ssspaceship door full of many legged arachnidsss.",
-  "glitchDescription" : "Proud. A nice ship door, if the spiders aren't included.",
-  "humanDescription" : "What a cool looking door. Now, how to get an exterminator...",
+  "glitchDescription" : "Disturbed. This would have been a nice ship door, if it wasn't for all of the spiders.",
+  "humanDescription" : "What a cool looking door! Now, how to get an exterminator...",
   "hylotlDescription" : "An ancient spaceship door.",
   "novakidDescription" : "A door full of nasty things.",
   "webberDescription" : "It's air tight and good for airlocks, but I wouldn't want to use it for that, because our friends might be in it!",
@@ -31,11 +31,11 @@
   "animationCustom" : {
     "sounds" : {
       "open" : {
-        "pool" : [ "/sfx/objects/apexcooldoor_open.ogg" ],
+        "pool" : [ "/sfx/objects/airlock_heavy_open.ogg" ],
         "rangeMultiplier" : 0.5
       },
       "close" : {
-        "pool" : [ "/sfx/objects/apexcooldoor_close.ogg" ],
+        "pool" : [ "/sfx/objects/airlock_heavy_close.ogg" ],
         "rangeMultiplier" : 0.5
       }
     }
