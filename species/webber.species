@@ -83,6 +83,7 @@
   "altOptionAsUndyColor" : true,
   "headOptionAsHairColor" : true,
   "altOptionAsHairColor" : true,
+  "bodyColorAsHairColor" : true,
   "genders" : [
     {
        "name" : "male",
