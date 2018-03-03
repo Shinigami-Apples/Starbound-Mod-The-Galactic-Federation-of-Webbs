@@ -93,7 +93,7 @@
       "hair" : [ "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11" ],
       "shirt" : [ "webberoutfit1chest", "webberoutfit2chest", "webberoutfit3chest", "webberoutfit4chest" ],
       "pants" : [ "webberoutfit1legs", "webberoutfit2legs", "webberoutfit3legs", "webberoutfit4legs" ],
-      "facialHairGroup" : "pattern",
+      "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
       "facialMask" : [ ]
@@ -105,7 +105,7 @@
       "hair" : [ "fem1", "fem2", "fem3", "fem4", "fem5", "fem6", "fem7", "fem8", "fem9", "fem10", "fem11" ],
       "shirt" : [ "webberoutfit1chest", "webberoutfit2chest", "webberoutfit3chest", "webberoutfit4chest" ],
       "pants" : [ "webberoutfit1legs", "webberoutfit2legs", "webberoutfit3legs", "webberoutfit4legs" ],
-      "facialHairGroup" : "pattern",
+      "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
       "facialMask" : [ ]
