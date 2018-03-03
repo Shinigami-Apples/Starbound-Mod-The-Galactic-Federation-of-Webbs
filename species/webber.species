@@ -7,7 +7,7 @@
   },
   "nameGen" : [ "/species/webbermalenamegen.config:names"],
   "ouchNoises" : [ "/sfx/humanoid/webberhurt.ogg"],
-  "charGenTextLabels" : [ "Hair colours", "Hair style", "Shirt", "Legwear", "Pattern", "<None>", "Shirt colour", "Legwear colour", "webber", "Personality" ],
+  "charGenTextLabels" : [ "Hair colours", "Hair style", "Shirt", "Legwear", "Pattern", "None", "Shirt colour", "Legwear colour", "webber", "Personality" ],
   "skull" : "/humanoid/webber/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
   "defaultBlueprints" : {
