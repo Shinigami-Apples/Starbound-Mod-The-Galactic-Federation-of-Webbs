@@ -83,7 +83,6 @@
   "altOptionAsUndyColor" : true,
   "headOptionAsBodyColor" : true,
   "hairColorAsBodyColor" : true,
-  "headOptionAsFacialhair" : true,
 
   "genders" : [
     {
@@ -133,11 +132,11 @@
     //First 3 layers will be base, 4th and 5th are for GREEN BOIS, or to hide green bois colors. Green bois have to use the proper base color for full view, since they have no black/grey colors.
     //Right now, layers 1 & 2 are blues on the sheet, 3 & 4 are green on the sheet.
     //Normal fur (use to hide on normal (black) fur color)
-    { "00d9d1" : "171717", "00fff6" : "121212", "00dc24" : "121212", "2b943c" : "171717" },
+    { "00d9d1" : "121212", "00fff6" : "171717", "00dc24" : "171717", "2b943c" : "121212" },
     //White fur (Hides it on white fur colors)
-    { "00d9d1" : "e7e7e7", "00fff6" : "d0d0d0", "00dc24" : "d0d0d0", "2b943c" : "e7e7e7" },
+    { "00d9d1" : "d0d0d0", "00fff6" : "e7e7e7", "00dc24" : "e7e7e7", "2b943c" : "d0d0d0" },
     //Warrior (Just yellow, use on normal color)
-    { "00d9d1" : "c8c455", "00fff6" : "e1dd63", "00dc24" : "121212", "2b943c" : "171717" },
+    { "00d9d1" : "c8c455", "00fff6" : "e1dd63", "00dc24" : "171717", "2b943c" : "121212" },
     //Super rare highly toxic green dont touch ok srsly dont touch these kinda guys their bite will kill you instantly lolol jk theyre softies but they still are venomous
     { "00d9d1" : "c8c455", "00fff6" : "e1dd63", "00dc24" : "00dc24", "2b943c" : "2b943c" }
   ],
