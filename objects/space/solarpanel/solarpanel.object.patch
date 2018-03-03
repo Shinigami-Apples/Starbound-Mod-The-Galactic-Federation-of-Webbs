@@ -1,7 +1,8 @@
-
 [
     {
-        "op": "add", "path": "/webberDescription", "value": "I've never heard of these, but they might be useful.",
+        "op": "add", "path": "/webberDescription", "value": "I've never heard of these, but they might be useful."
+    },
+    {
         "op": "add", "path": "/radioMessagesOnPickup", "value": [ "PickupSolarpanel" ]
     }
 ]
