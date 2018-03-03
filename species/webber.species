@@ -7,7 +7,7 @@
   },
   "nameGen" : [ "/species/webbermalenamegen.config:names"],
   "ouchNoises" : [ "/sfx/humanoid/webberhurt.ogg"],
-  "charGenTextLabels" : [ "Hair colours", "Hair style", "Shirt", "Legwear", "Pattern", "Eye colour", "Shirt colour", "Legwear colour", "webber", "Personality" ],
+  "charGenTextLabels" : [ "Hair colours", "Hair style", "Shirt", "Legwear", "Pattern", "<None>", "Shirt colour", "Legwear colour", "webber", "Personality" ],
   "skull" : "/humanoid/webber/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
   "defaultBlueprints" : {
@@ -83,6 +83,8 @@
   "altOptionAsUndyColor" : true,
   "headOptionAsBodyColor" : true,
   "hairColorAsBodyColor" : true,
+  "headOptionAsFacialhair" : true,
+
   "genders" : [
     {
        "name" : "male",
@@ -91,7 +93,7 @@
       "hair" : [ "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11" ],
       "shirt" : [ "webberoutfit1chest", "webberoutfit2chest", "webberoutfit3chest", "webberoutfit4chest" ],
       "pants" : [ "webberoutfit1legs", "webberoutfit2legs", "webberoutfit3legs", "webberoutfit4legs" ],
-      "facialHairGroup" : "",
+      "facialHairGroup" : "pattern",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
       "facialMask" : [ ]
@@ -103,7 +105,7 @@
       "hair" : [ "fem1", "fem2", "fem3", "fem4", "fem5", "fem6", "fem7", "fem8", "fem9", "fem10", "fem11" ],
       "shirt" : [ "webberoutfit1chest", "webberoutfit2chest", "webberoutfit3chest", "webberoutfit4chest" ],
       "pants" : [ "webberoutfit1legs", "webberoutfit2legs", "webberoutfit3legs", "webberoutfit4legs" ],
-      "facialHairGroup" : "",
+      "facialHairGroup" : "pattern",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
       "facialMask" : [ ]
@@ -127,16 +129,17 @@
     { "1a1a1a" : "efefef", "171717" : "e7e7e7", "121212" : "d0d0d0", "101010" : "bcbcbc", "222222" : "c1c1c1", "ededed" : "f15252", "ffffff" : "f69898" }
   ],
   "undyColor" : [
-    { "dc1f00" : "4d76ad", "be1b00" : "395187", "951500" : "20325b" },
-    { "dc1f00" : "7c41b8", "be1b00" : "6c2f90", "951500" : "471962" },
-    { "dc1f00" : "c63442", "be1b00" : "9b2724", "951500" : "6a1210" },
-    { "dc1f00" : "eaa245", "be1b00" : "b47020", "951500" : "834a0c" },
-    { "dc1f00" : "e3e13a", "be1b00" : "a8a614", "951500" : "848008" },
-    { "dc1f00" : "6ab841", "be1b00" : "45902f", "951500" : "296219" },
-    { "dc1f00" : "535353", "be1b00" : "363636", "951500" : "111111" },
-    { "dc1f00" : "e6e6e6", "be1b00" : "979797", "951500" : "6f6f6f" },
-    { "dc1f00" : "9e9e9e", "be1b00" : "6e6e6e", "951500" : "434343" },
-    { "dc1f00" : "f794f8", "be1b00" : "d355c1", "951500" : "b72c95" }
+    //Actually the pattern(s) but okay.
+    //First 3 layers will be base, 4th and 5th are for GREEN BOIS, or to hide green bois colors. Green bois have to use the proper base color for full view, since they have no black/grey colors.
+    //Right now, layers 1 & 2 are blues on the sheet, 3 & 4 are green on the sheet.
+    //Normal fur (use to hide on normal (black) fur color)
+    { "00d9d1" : "171717", "00fff6" : "121212", "00dc24" : "121212", "2b943c" : "171717" },
+    //White fur (Hides it on white fur colors)
+    { "00d9d1" : "e7e7e7", "00fff6" : "d0d0d0", "00dc24" : "d0d0d0", "2b943c" : "e7e7e7" },
+    //Warrior (Just yellow, use on normal color)
+    { "00d9d1" : "c8c455", "00fff6" : "e1dd63", "00dc24" : "121212", "2b943c" : "171717" },
+    //Super rare highly toxic green dont touch ok srsly dont touch these kinda guys their bite will kill you instantly lolol jk theyre softies but they still are venomous
+    { "00d9d1" : "c8c455", "00fff6" : "e1dd63", "00dc24" : "00dc24", "2b943c" : "2b943c" }
   ],
   "hairColor" : [
     //Normal Fur (Black)
