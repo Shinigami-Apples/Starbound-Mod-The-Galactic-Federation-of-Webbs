@@ -125,7 +125,9 @@
     //White fur, redhue2 eyes
     { "1a1a1a" : "efefef", "171717" : "e7e7e7", "121212" : "d0d0d0", "101010" : "bcbcbc", "222222" : "c1c1c1", "ededed" : "f69898", "ffffff" : "f1d9d9" },
     //White fur, redhue3 eyes
-    { "1a1a1a" : "efefef", "171717" : "e7e7e7", "121212" : "d0d0d0", "101010" : "bcbcbc", "222222" : "c1c1c1", "ededed" : "f15252", "ffffff" : "f69898" }
+    { "1a1a1a" : "efefef", "171717" : "e7e7e7", "121212" : "d0d0d0", "101010" : "bcbcbc", "222222" : "c1c1c1", "ededed" : "f15252", "ffffff" : "f69898" },
+    //Yellow fur, white eyes
+    { "1a1a1a" : "a2eab2", "171717" : "e1dd63", "121212" : "d4d065", "101010" : "c8c455", "222222" : "c1de7c", "ededed" : "ededed", "ffffff" : "ffffff" }
   ],
   "undyColor" : [
     //Actually the pattern(s) but okay.
