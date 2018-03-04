@@ -7,7 +7,7 @@
   "category" : "decorative",
   "lightColor" : [77, 111, 128],
   "lightPosition" : [-1, 0],
-  
+
   "flickerDistance" : 1.0,
   "flickerStrength" : 0.04,
   "flickerTiming" : 8,
@@ -15,13 +15,13 @@
   "shortdescription" : "S.A.I.L",
   "race" : "webber",
   "apexDescription" : "When it's working, I can talk to SAIL through this console.",
-  "avianDescription" : "Rebooting this station should enable me to talk to SAIL.",
+  "avianDescription" : "Rebooting this station should enable me to talk to SAIL. Should.",
   "floranDescription" : "Floran fix thisss panel to wake ship up",
-  "glitchDescription" : "Distressed. I first need to reboot this station to communicate with SAIL.",
+  "glitchDescription" : "Distressed. I first need to reboot this station to communicate with the SAIL.",
   "humanDescription" : "If I can reboot this station SAIL should come back online",
   "hylotlDescription" : "This console will allow me to communicate with SAIL. I need to reboot it first.",
   "novakidDescription" : "Time to reboot this station so I can talk to SAIL.",
-  "webberDescription" : "Oh, so mommy-longlegs crashed again. Wonderful.",
+  "webberDescription" : "Oh, looks like the system had crashed.",
   "inventoryIcon" : "webbertechstationiconTier0.png",
   "orientations" : [
     {
