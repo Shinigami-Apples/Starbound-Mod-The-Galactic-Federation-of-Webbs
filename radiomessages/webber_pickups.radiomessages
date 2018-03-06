@@ -53,7 +53,7 @@
     },
     "PickupLiquidpoison" : {
         "type" : "tutorial",
-        "text" : "^red;This is pure poison,^reset; and ^orange;you may or may not be immune to it^reset;. May be proven as a useful crafting material."
+        "text" : "^red;This is pure poison,^reset; and ^orange;you may or may not be immune to it^reset;. May be proven as a useful crafting material, and can be used for making antidotes.”
     },
     "PickupSwampwater" : {
         "type" : "tutorial",
