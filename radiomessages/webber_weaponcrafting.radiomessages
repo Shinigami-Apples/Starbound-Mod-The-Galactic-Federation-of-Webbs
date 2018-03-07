@@ -1,0 +1,6 @@
+{
+  "pickupShotgunClipT1" : {
+    "type" : "tutorial",
+    "text" : "This is a home-made shotgun clip. It's performance may vary based on the creator's craftsmanship, but it should work."
+    }
+}
