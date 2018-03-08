@@ -25,7 +25,6 @@
       { "item" : "humantier2chest" },
       { "item" : "humantier2pants" },
       { "item" : "webbersword" },
-      { "item" : "webbershotgunteir1" },
       { "item" : "webbert0spear" },
       { "item" : "ironshortsword" },
       { "item" : "ironbroadsword" },
@@ -79,7 +78,14 @@
       { "item" : "webberoutfit3chest" },
       { "item" : "webberoutfit3legs" },
       { "item" : "webberoutfit4chest" },
-      { "item" : "webberoutfit4legs" }
+      { "item" : "webberoutfit4legs" },
+
+      // Weapon workbench parts
+
+      { "item" : "webbershotgunclipt1" },
+
+      // Weapon workbench weapons
+      { "item" : "webbershotgunteir1" }
 	  ]
   },
 
