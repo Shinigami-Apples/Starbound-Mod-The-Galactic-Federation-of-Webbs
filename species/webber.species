@@ -83,6 +83,7 @@
       // Weapon workbench parts
 
       { "item" : "webbershotgunclipt1" },
+      { "item" : "webbershotgunbarrelt1" },
 
       // Weapon workbench weapons
       { "item" : "webbershotgunteir1" }
