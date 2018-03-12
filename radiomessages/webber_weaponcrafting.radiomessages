@@ -3,6 +3,10 @@
     "type" : "tutorial",
     "text" : "This is a home-made shotgun clip. It's performance may vary based on the creator's craftsmanship, but it should work with most buckshot shotguns."
     },
+  "pickupShotgunStockT1" : {
+    "type" : "tutorial",
+    "text" : "This is a home-made shotgun stock. A stock is meant to steady your hold on the gun, and dampens the recoil."
+  },
   "pickupShotgunBarrelT1" : {
     "type" : "tutorial",
     "text" : "This is a home-made shotgun barrel. This one is meant to hold 4 buckshot-like bullets for firing at once."
