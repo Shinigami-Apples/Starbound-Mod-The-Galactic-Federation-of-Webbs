@@ -4,20 +4,5 @@
     "PickupWebberflag" : {
         "type" : "tutorial",
         "text" : "This is a flag to boast your presence. Unless if you had some particular reason on your mind to place it here, congratulations! You've just wasted your time and resources."
-    },
-
-    //modded weapons
-
-    "PickupWebbert0spear" : {
-        "type" : "tutorial",
-        "text" : "The ^red;primitive^reset; weapon you have in your two legs is called a ^orange;hunting weapon^reset;. Hunting weapons are used to obtain food and other organic/non-organic resources, at a higher success rate."
-    },
-    "PickupWebbert1spear" : {
-        "type" : "tutorial",
-        "text" : "This still ^red;primitive^reset; weapon in two of your eight legs still has a 0.9% chance of saving your life. Your own fangs are doing a better job than your brain, you ninnyhammer."
-    },
-    "PickupWebberswordupgrade1" : {
-        "type" : "tutorial",
-        "text" : "Be careful where you strike, because your melee weapon is slightly sharper now and can tear through fabric clothing. ^cyan;You don't want that happening to yourself^reset;."
     }
 }
