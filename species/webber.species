@@ -24,8 +24,6 @@
       { "item" : "humantier2head" },
       { "item" : "humantier2chest" },
       { "item" : "humantier2pants" },
-      { "item" : "webbersword" },
-      { "item" : "webbert0spear" },
       { "item" : "ironshortsword" },
       { "item" : "ironbroadsword" },
       { "item" : "tungstenaxe" },
@@ -87,7 +85,9 @@
       { "item" : "webbershotgunstockt1" },
 
       // Weapon workbench weapons
-      { "item" : "webbershotgunteir1" }
+      { "item" : "webbershotgunteir1" },
+      { "item" : "webbersword" },
+      { "item" : "webbert0spear" }
 	  ]
   },
 
