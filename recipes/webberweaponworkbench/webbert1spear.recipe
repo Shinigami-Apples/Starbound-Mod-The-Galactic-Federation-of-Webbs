@@ -6,5 +6,5 @@
     { "item" : "webbert0spear", "count" : 1 }
   ],
   "output" : { "item" : "webbert1spear", "count" : 1 },
-  "groups" : [ "craftinganvil", "weapons", "all" ]
+  "groups" : [ "webberweaponworkbench", "webberweapon" ]
 }

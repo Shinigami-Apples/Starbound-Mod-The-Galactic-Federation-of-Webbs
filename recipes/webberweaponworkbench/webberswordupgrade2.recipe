@@ -8,5 +8,5 @@
     { "item" : "webberswordupgrade1", "count" : 1 }
   ],
   "output" : { "item" : "webberswordupgrade2", "count" : 1 },
-  "groups" : [ "craftinganvil", "weapons", "all" ]
+  "groups" : [ "webberweaponworkbench", "webberweapon" ]
 }

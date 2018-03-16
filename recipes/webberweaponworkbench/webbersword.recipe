@@ -4,5 +4,5 @@
     { "item" : "silk", "count" : 6 }
   ],
   "output" : { "item" : "webbersword", "count" : 1 },
-  "groups" : [ "craftinganvil", "weapons", "all" ]
+  "groups" : [ "webberweaponworkbench", "webberweapon" ]
 }
