@@ -12,7 +12,7 @@
         "type" : "tutorial",
         "text" : "This is the monthly test of the emergency broadcasting station of the federation. If you are having trouble getting this message on time, please call 8234-293-2100 for technical support.",
         "senderName" : "Fedge Aquatosis",
-        "portraitImage" : "interface/chatbubbles/fedgetalk.png:<frame>",
+        "portraitImage" : "/interface/chatbubbles/fedgetalk.png:<frame>",
         "textSpeed" : 70,
         "persistTime" : 8.0
     },
@@ -26,7 +26,7 @@
         "type" : "tutorial",
         "text" : "This is the emergency broadcasting station. This is not a drill. An anomaly called \"0-0T\" has leaked into the area under Vanokk.",
         "senderName" : "Fedge Aquatosis",
-        "portraitImage" : "interface/chatbubbles/fedgetalk.png:<frame>",
+        "portraitImage" : "/interface/chatbubbles/fedgetalk.png:<frame>",
         "textSpeed" : 70,
         "persistTime" : 8.0
     },
@@ -34,21 +34,21 @@
         "type" : "tutorial",
         "text" : "Do not touch the liquid. If you do, find a therapist or run to your local correctional facility. We repeat: Do not touch the liquid.",
         "senderName" : "Fedge Aquatosis",
-        "portraitImage" : "interface/chatbubbles/fedgetalk.png:<frame>",
+        "portraitImage" : "/interface/chatbubbles/fedgetalk.png:<frame>",
         "textSpeed" : 70,
         "persistTime" : 8.0
     },
-    "latemessage1f" : {
     "latemessage1e" : {
     "type" : "tutorial",
     "text" : "You have obtained this message 13 days ago. It is a distress signal from Vanokk that should not be ignored.",
     "textSpeed" : 70,
     "persistTime" : 8.0
     },
+    "latemessage1f" : {
         "type" : "tutorial",
         "text" : "This is the emergency broadcasting station. This is not a drill. There are various mutants held for studying that have broken their way out into public areas.",
         "senderName" : "Fedge Aquatosis",
-        "portraitImage" : "interface/chatbubbles/fedgetalk.png:<frame>",
+        "portraitImage" : "/interface/chatbubbles/fedgetalk.png:<frame>",
         "textSpeed" : 70,
         "persistTime" : 8.0
     },
@@ -56,7 +56,7 @@
         "type" : "tutorial",
         "text" : "Do not panic. If the dangers do pose a threat to you, run. They are not fully understood, but we know they attack.",
         "senderName" : "Fedge Aquatosis",
-        "portraitImage" : "interface/chatbubbles/fedgetalk.png:<frame>",
+        "portraitImage" : "/interface/chatbubbles/fedgetalk.png:<frame>",
         "textSpeed" : 70,
         "persistTime" : 8.0
     },
