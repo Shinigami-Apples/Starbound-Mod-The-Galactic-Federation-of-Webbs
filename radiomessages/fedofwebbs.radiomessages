@@ -7,7 +7,7 @@
         "text" : "You have three messages left unheard while the system was down. I will open them up for you to hear.",
         "textSpeed" : 70,
         "persistTime" : 8.0
-    }
+    },
     "latemessage1a" : {
         "type" : "tutorial",
         "text" : "This is the monthly test of the emergency broadcasting station of the federation. If you are having trouble getting this message on time, please call 8234-293-2100 for technical support.",
