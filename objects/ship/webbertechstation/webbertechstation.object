@@ -55,5 +55,9 @@
       [ "Rebooting requires a conscious entity to interact with the S.A.I.L console.", "/ai/portraits/webberportrait.png:unique.1" ]
     ]
   },
-  "uniqueId" : "techstation"
+  "uniqueId" : "techstation",
+  "scripts" : ["/stagehands/radiomessage.lua"],
+  "scriptDelta" : 30,
+  "broadcastArea" : [-5, -5, 5, 5],
+  "radioMessage" : ["latemessage1", "latemessage1a", "latemessage1b", "latemessage1c", "latemessage1d", "latemessage1e", "latemessage1f", "latemessage1g", "latemessage1h"]
 }
