@@ -24,7 +24,7 @@
     },
     "latemessage1c" : {
         "type" : "tutorial",
-        "text" : "This is the emergency broadcasting station. This is not a drill. An anomaly called "0-0T" has leaked into the area under Vanokk.",
+        "text" : "This is the emergency broadcasting station. This is not a drill. An anomaly called \"0-0T\" has leaked into the area under Vanokk.",
         "senderName" : "Fedge Aquatosis",
         "portraitImage" : "interface/chatbubbles/fedgetalk.png:<frame>",
         "textSpeed" : 70,
