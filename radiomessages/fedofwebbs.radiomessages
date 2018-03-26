@@ -54,7 +54,7 @@
     },
     "latemessage1g" : {
         "type" : "tutorial",
-        "text" : "Do not panic. If the dangers do pose a threat to you, run. They are not fully understood, but we know they attack.",
+        "text" : "Do not panic. If the dangers do pose a threat to you, run. They are not fully understood, but we know that they do attack.",
         "senderName" : "Fedge Aquatosis",
         "portraitImage" : "/interface/chatbubbles/fedgetalk.png:<frame>",
         "textSpeed" : 70,
