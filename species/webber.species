@@ -138,7 +138,7 @@
     { "1a1a1a" : "d5eaa2", "171717" : "e1dd63", "121212" : "d4d065", "101010" : "c8c455", "222222" : "c1de7c", "ededed" : "ededed", "ffffff" : "ffffff" }
   ],
   "undyColor" : [
-    //Actually the pattern(s) but okay.
+    //Actually the pattern(s) but okay. I may merge this into the body color.
     //First 3 layers will be base, 4th and 5th are for poison, or to hide poison colors. Poison has to use the proper base color for full view, since they have no black/grey colors.
     //Right now, layers 1 & 2 are blues on the sheet, 3 & 4 are green on the sheet.
     //Normal fur (use to hide on normal (black) fur color)
