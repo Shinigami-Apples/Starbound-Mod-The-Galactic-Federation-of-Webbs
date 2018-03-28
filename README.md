@@ -7,18 +7,22 @@ FOR THOSE PLAYING WEBBERS LIKE THEY'RE FULLY COMPLETE AND DON'T WANT TO LOSE ANY
 
 I have a few personal warnings here.
 
-With the coloring methods the humanoid sprites have, I can not guarantee that your character will keep the old colors (black hair w/ white eyes) if the humanoid sprites ever do update. (Warning: That's very likely for a lore update.) If you want to keep the original colors in that case, then okay, don't update. You can always back up your characters at any time and store them for later use. Shouldn't this be obvious already?
+With the coloring methods the humanoid sprites have- oops. That already happened. Sorry about bricking the appearance of your old characters, but as long as this warning is up here, your newer characters aren’t safe from the updates. Not. Yet.
+
+Sorry.
 
 Also, don't trust every single update on the GitHib repository. Like above, when I say this is unstable with the measurement of size^6, I mean it. I recommend waiting for the next stable release (In a .pak) if you aren't testing or collaborating on this.
 
 Thank you for listening to my warnings.
 # FEATURES:
 
+- An actual wiki in the making.
+
 - Custom ship pet!
 
-- Webbers DO have FR support as of now. the stats are a bit wonky but they'll be fixed.
+- Webbers DO have FR support as of now. the stats are a bit wonky but they'll be fixed. They’ve been reballanced, but not exactly in much of the lore-friendly way.
 
-- Partially incomplete custom ships, but hey, Tiers 0-3 aren't the recolors again.
+- Partially incomplete custom ships, but hey, Tiers 0-4 aren't the recolors again.
 
 - MOSTLY custom shape humanoids. They have big, weirdly shaped heads and an extra pixel or two on the feet. (No seriously, they can't wear most hats)
 
@@ -30,17 +34,17 @@ Thank you for listening to my warnings.
 
 - Custom dungeons/microdungeons/villages.
 
-- Character customization: Yeah, it's there. Webbers do like some nice hair styles, don't they?
+- Character customization: Yeah, it's there. Webbers do like some nice hair styles, don't they? Including fur colors and patterns.
 
-- Hurt soun- no. Please don't hurt these "endangered" species just to hear them cry. Don't. You'll make me cry.
+- Hurt soun- no. Please don't hurt these "endangered" species just to hear them cry. Don't. You'll make me cry. Speaking of which, the synthesizer falling from a flight of stairs has been replaced with the mist lovely phrase in existance: “HECK”
 
 - Tenants: They're still not your annoying next-door neighbors, so they're disappointing.
 
 - Nyctophobia: Webbers are probably the first race to have a crippling fear of the dark. (PLAY WITH FRACKIN' RACES FOR FULL EFFECT)
 
-- Custom S.A.I.L: Comes with Webber-specific dialogue. Also space humor.
+- Custom S.A.I.L: Comes with Webber-specific dialogue. Also space humor. Now with an annoying inbox for you to read.
 
-- Weapons and clothing/armors: Still a huge WIP.
+- Weapons and clothing/armors: Still a huge WIP. There’s already a customized weapon building system.
 
 <----->
 
@@ -49,4 +53,5 @@ DISCLAIMER: I do not own any IP of this mod if applicable. Some content and conc
 Thought I'd also need to make this statement.
 
 <----->
+
 PS: No log, no fix. Don't send empty bug reports unless if it is only a visual bug.
