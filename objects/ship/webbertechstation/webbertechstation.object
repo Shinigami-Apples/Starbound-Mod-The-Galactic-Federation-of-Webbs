@@ -12,7 +12,7 @@
   "race" : "webber",
   "apexDescription" : "Should I update this SAIL?",
   "avianDescription" : "That is one ugly spiderthing, and I thought I've I've seen worse.",
-  "floranDescription" : "Floran doessn't like sstrange ssix-legged arachnid.",
+  "floranDescription" : "Floran doessn't like sstrange arachnid.",
   "glitchDescription" : "Dissapointed, it's outdated so far that I can't use it.",
   "humanDescription" : "I have arachnophobia, and this SAIL is not helping with that.",
   "hylotlDescription" : "I don't see any beauty in this SAIL.",
@@ -46,8 +46,11 @@
       [ "Rebooting...", "/ai/portraits/webberportrait.png:unique.1" ],
       [ "I am S.A.I.L, your Ship-based Artificial Intelligence Lattice. I manage the maintainance of your ship.", "/ai/portraits/webberportrait.png:talk.0" ],
       [ "I am also programmed to offer you information and advice.", "/ai/portraits/webberportrait.png:talk.1" ],
-      [ "Earth was attacked by an unknown force, and was subsequently annihilated.", "/ai/portraits/webberportrait.png:talk.0" ],
-      [ "The ship's navigation systems were damaged in our escape. Our location is currently unknown.", "/ai/portraits/webberportrait.png:talk.1" ]
+      [ "The location of this ship can not be recognized.", "/ai/portraits/webberportrait.png:talk.0" ],
+      [ "The ship's navigation systems have been severely damaged. Our location is currently unknown.", "/ai/portraits/webberportrait.png:talk.1" ],
+      [ "Do not initiate space travel. The impulse drive has a 86% chance to explode.", "/ai/portraits/webberportrait.png:talk.0" ],
+      [ "The impulse and FTL drives needs to be fixed. There are no repair stations nearby.", "/ai/portraits/webberportrait.png:talk.1" ],
+      [ "For your safety, please do not repair said drives.", "/ai/portraits/webberportrait.png:talk.0" ]
     ],
     "wakePlayer" : [
       [ "System is down, please reboot.", "/ai/portraits/webberportrait.png:unique.1"],

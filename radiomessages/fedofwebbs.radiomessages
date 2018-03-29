@@ -39,10 +39,10 @@
         "persistTime" : 8.0
     },
     "latemessage1e" : {
-    "type" : "tutorial",
-    "text" : "You have obtained this message 13 days ago. It is a distress signal from Vanokk that should not be ignored.",
-    "textSpeed" : 70,
-    "persistTime" : 8.0
+        "type" : "tutorial",
+        "text" : "You have obtained this message 13 days ago. It is a distress signal from Vanokk that should not be ignored.",
+        "textSpeed" : 70,
+        "persistTime" : 8.0
     },
     "latemessage1f" : {
         "type" : "tutorial",
