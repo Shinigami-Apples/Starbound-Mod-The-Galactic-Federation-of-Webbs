@@ -1,11 +1,11 @@
 {
   "tags" : "Species",
   "author" : "Vetpetmon",
-  "description" : "Adds Webber(s) to your Starbound game!",
+  "description" : "***Current release title: Breeds!*** \n *Release version: 0.5* \n\n Adds in a strange, doomed, and likely otherworldly race of spider-human things into your Starbound. \n\n\n IF YOU DO NOT KNOW HOW TO REPORT BUGS FOR STARBOUND VIA starbound.log, DO NOT EVER CONSIDER SUBSCRIBING TO THIS MOD, PLEASE. The rest of the modding community is done with the 'UR MOD BROKE' s<3<3t as well. Please don't do that to me. Report bugs to the *official GitHub page @ https://github.com/Vetpetmon-Labs/Starbound---Webbers with your starbound.log.* \n\n WHAT DOES THIS MOD DO? \n\n This Starbound mod adds in a new playable species/race. It BARELY does anything to other species. \n\n FEATURES: \n -A playable species that are at least a bit far away from the title of reskined humans, while still being partially compatible with most vanilla clothing (except for the head, obviously.) \n -Ship Tiers 0 to 4 (more ship teirs will be made at a later date) \n -FR support! Webbers are unique so far, they're the ONLY race on it that has nyctophobic functions. \n -A custom weapon workbench system that is still in active development \n -Fully custom S.A.I.L \n -A few oldschool Sci-fi revivals here and there. \n -Lots of custom item descriptions. \n - And a lot more of race-exclusive things! \n\n\n ***NOTES:*** \n\n I am fully aware that there is another mod on this workshop that adds in Webber as well. That mod and mine *WILL* conflict like two galaxies colliding with each other. Choose one or the other. \n I DO NOT OWN ANY IP IN THIS MOD (if applicable), some of the IP belongs to Klei.",
   "friendlyName" : "Webber Race Mod",
   "link" : "",
   "name" : "WebberRaceMod",
   "path" : ".",
   "steamContentId" : "",
-  "version" : "0.4.9.5.4"
+  "version" : "0.5"
 }
