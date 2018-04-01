@@ -11,7 +11,7 @@
         {"item" : [ "cannedfood", 1 ]},
         {"item" : [ "cannedfood", 1 ]},
         {"item" : [ "cannedfood", 1 ]},
-        {"item" : [ "silk", 20 ]}
+        {"item" : [ "webbersilkcollector", 1 ]}
       ]
     }]]
   }

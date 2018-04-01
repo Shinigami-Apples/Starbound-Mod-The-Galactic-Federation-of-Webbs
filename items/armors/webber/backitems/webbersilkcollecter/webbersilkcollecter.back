@@ -8,8 +8,8 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "enviroProtectionPack",
-  "description" : "Silk Collecter 2000",
-  "shortdescription" : "Eventually pulls out some high quality silk from your body. However, said process is very slow.",
+  "shortdescription" : "Silk Collector 2000",
+  "description" : "Eventually pulls out some high quality silk from your body. However, said process is very slow.",
 
   "statusEffects" : [
     "webbersilkgenteir1"
