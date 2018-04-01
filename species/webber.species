@@ -5,8 +5,8 @@
 	"subTitle" : "O2",
 	"description" : "Humans trapped in mythical spider-like creatures. They're cute, but they tend to eat their fallen. Webbers are famous for being the only species without a known origin and without any way of reproducing other than external cloning."
   },
-  "nameGen" : [ "/species/webbermalenamegen.config:names"],
-  "ouchNoises" : [ "/sfx/humanoid/webberhurt.ogg"],
+  "nameGen" : [ "/species/webbernamegen.config:names", "/species/webbernamegen.config:names" ], //NOW SHUT THE FUCK UP SMILING CAT EMOJI DUDE
+  "ouchNoises" : [ "/sfx/humanoid/webberhurt.ogg", "/sfx/humanoid/webberhurt.ogg"], // SHUHUT UP.
   "charGenTextLabels" : [ "Hair colours", "Hair style", "Shirt", "Legwear", "None", "None", "Shirt colour", "Legwear colour", "WEBBER", "Personality" ],
   "skull" : "/humanoid/webber/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
@@ -111,15 +111,15 @@
     },
     {
       "name" : "female",
-      "image" : "/interface/title/webberfemico.png",
-      "characterImage" : "/interface/title/webberfemale.png",
-      "hair" : [ "fem1", "fem2", "fem3", "fem4", "fem5", "fem6", "fem7", "fem8", "fem9", "fem10", "fem11", "fem12", "fem13" ],
+      "image" : "/interface/title/webbermaleico.png",
+      "characterImage" : "/interface/title/webbermale.png",
+      "hair" : [ "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11", "male12", "male13" ],
       "shirt" : [ "webberoutfit1chest", "webberoutfit2chest", "webberoutfit3chest", "webberoutfit4chest" ],
       "pants" : [ "webberoutfit1legs", "webberoutfit2legs", "webberoutfit3legs", "webberoutfit4legs" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
-      "facialMask" : [ ]
+      "facialMask" : [ ] //THERE ARE NO DIFFERENCES. IM TOO LAZY TO RENAME FILES.
     }
   ],
   "bodyColor" : [
