@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "cobblestonematerial", "count" : 6 },
-    { "item" : "silk", "count" : 6 }
+    { "item" : "webberspidersilk", "count" : 6 }
   ],
   "output" : { "item" : "webbersword", "count" : 1 },
   "groups" : [ "webberweaponworkbench", "webberweapon" ]

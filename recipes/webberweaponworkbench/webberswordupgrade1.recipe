@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "moonstone", "count" : 30 },
     { "item" : "coalore", "count" : 12 },
-    { "item" : "silk", "count" : 1 },
+    { "item" : "webberspidersilk", "count" : 1 },
     { "item" : "webbersword", "count" : 1 }
   ],
   "output" : { "item" : "webberswordupgrade1", "count" : 1 },

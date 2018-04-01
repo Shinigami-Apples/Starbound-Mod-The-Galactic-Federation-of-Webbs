@@ -4,7 +4,7 @@
 
   "effectConfig" : {
     "refresh" : "10000", //Timer
-    "item" : "silk", //Placeholder object
+    "item" : "webberspidersilk", //Silk earned
     "amount" : 1, //Amount granted
     "maxAmount" : 1000
   },

@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "copperbar", "count" : 1 },
-    { "item" : "silk", "count" : 10 }
+    { "item" : "webberspidersilk", "count" : 50 }
   ],
   "output" : {
     "item" : "flagwebber",

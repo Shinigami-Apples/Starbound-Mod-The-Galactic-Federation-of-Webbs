@@ -3,7 +3,7 @@
     { "item" : "webbershotgunclipt1", "count" : 1 },
     { "item" : "webbershotgunbarrelt1", "count" : 1 },
     { "item" : "webbershotgunstockt1", "count" : 1 },
-    { "item" : "silk", "count" : 1 }
+    { "item" : "webberspidersilk", "count" : 1 }
   ],
   "output" : { "item" : "webbershotgunteir1", "count" : 1 },
   "groups" : [ "webberweaponworkbench", "webberweapon" ]

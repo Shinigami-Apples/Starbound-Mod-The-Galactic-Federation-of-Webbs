@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "moonstone", "count" : 400 },
     { "item" : "venomsample", "count" : 20 },
-    { "item" : "silk", "count" : 6 },
+    { "item" : "webberspidersilk", "count" : 6 },
     { "item" : "cellmatter", "count" : 6 },
     { "item" : "greenslime", "count" : 12 },
     { "item" : "webberswordupgrade1", "count" : 1 }
