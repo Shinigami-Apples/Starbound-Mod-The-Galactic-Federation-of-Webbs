@@ -5,7 +5,7 @@
 	"subTitle" : "O2",
 	"description" : "Humans trapped in mythical spider-like creatures. They're cute, but they tend to eat their fallen. Webbers are famous for being the only species without a known origin and without any way of reproducing other than external cloning."
   },
-  "nameGen" : [ "/species/webbernamegen.config:names", "/species/webbernamegen.config:names" ], //NOW SHUT THE FUCK UP SMILING CAT EMOJI DUDE
+  "nameGen" : [ "/species/webbermalenamegen.config:names", "/species/webbermalenamegen.config:names" ], //NOW SHUT THE FUCK UP SMILING CAT EMOJI DUDE
   "ouchNoises" : [ "/sfx/humanoid/webberhurt.ogg", "/sfx/humanoid/webberhurt.ogg"], // SHUHUT UP.
   "charGenTextLabels" : [ "Hair colours", "Hair style", "Shirt", "Legwear", "None", "None", "Shirt colour", "Legwear colour", "WEBBER", "Personality" ],
   "skull" : "/humanoid/webber/dead.png",
