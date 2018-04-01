@@ -10,7 +10,6 @@
   "category" : "enviroProtectionPack",
   "description" : "Silk Collecter 2000",
   "shortdescription" : "Eventually pulls out some high quality silk from your body. However, said process is very slow.",
-  "tooltipKind" : "armor",
 
   "statusEffects" : [
     "webbersilkgenteir1"
