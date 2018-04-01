@@ -1,11 +1,11 @@
 {
-  
+
   "name" : "webbersilkgenteir1",
 
   "effectConfig" : {
-    "refresh" : "3000",
-    "item" : "silk",
-    "amount" : 1,
+    "refresh" : "10000", //Timer
+    "item" : "silk", //Placeholder object
+    "amount" : 1, //Amount granted
     "maxAmount" : 1000
   },
 
