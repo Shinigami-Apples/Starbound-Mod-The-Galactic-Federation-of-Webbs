@@ -3,7 +3,7 @@
   "rarity": "common",
   "price": 5,
   "category": "craftingMaterial",
-  "inventoryIcon" : "webberwoodenstick.png",
+  "inventoryIcon" : "webberspidersilk.png",
   "description" : "It's a strand of spider silk. ^cyan;For use by Webbers.^white;",
   "shortdescription" : "Spider Silk Strand"
 }
