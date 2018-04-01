@@ -1,7 +1,10 @@
 {
   "itemName" : "webbersilkcollector",
   "price" : 0,
-  "inventoryIcon" : "back.png",
+  "inventoryIcon" : "webbersilkcollector.png",
+  "tooltipKind" : "baseaugment",
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "enviroProtectionPack",
