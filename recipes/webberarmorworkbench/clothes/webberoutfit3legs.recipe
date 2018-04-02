@@ -4,6 +4,6 @@
     { "item" : "cottonwool", "count" : 1 }
   ],
   "duration" : 5,
-  "output" : { "item" : "webberoutfit1legs", "count" : 1 },
-  "groups" : [ "craftingwheel", "clothes" ]
+  "output" : { "item" : "webberoutfit3legs", "count" : 1 },
+  "groups" : [ "webberarmorworkbench" ]
 }

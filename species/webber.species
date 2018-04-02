@@ -68,15 +68,6 @@
       { "item" : "webberstoragelocker" },
       { "item" : "webbershipdoor" },
       { "item" : "webbershiphatch" },
-// Spinning Wheel
-      { "item" : "webberoutfit1chest" },
-      { "item" : "webberoutfit1legs" },
-      { "item" : "webberoutfit2chest" },
-      { "item" : "webberoutfit2legs" },
-      { "item" : "webberoutfit3chest" },
-      { "item" : "webberoutfit3legs" },
-      { "item" : "webberoutfit4chest" },
-      { "item" : "webberoutfit4legs" },
 
       // Weapon workbench parts
 
@@ -88,7 +79,21 @@
       // Weapon workbench weapons
       { "item" : "webbershotgunteir1" },
       { "item" : "webbersword" },
-      { "item" : "webbert0spear" }
+      { "item" : "webbert0spear" },
+
+      //Clothing workbench EPPs
+      { "item" : "webbersilkcollector" },
+      { "item" : "webbersilkcollectort2" },
+
+      //Clothing workbench clothing
+      { "item" : "webberoutfit1chest" },
+      { "item" : "webberoutfit1legs" },
+      { "item" : "webberoutfit2chest" },
+      { "item" : "webberoutfit2legs" },
+      { "item" : "webberoutfit3chest" },
+      { "item" : "webberoutfit3legs" },
+      { "item" : "webberoutfit4chest" },
+      { "item" : "webberoutfit4legs" }
 	  ]
   },
 
