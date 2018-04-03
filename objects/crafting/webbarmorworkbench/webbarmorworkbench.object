@@ -4,7 +4,7 @@
   "rarity" : "Essential",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/webberweaponworkbench.config",
+    "config" : "/interface/windowconfig/webberarmorworkbench.config",
     "paneLayoutOverride" : {
       "windowtitle" : {
         "title" : "DIY Armor Workbench",
