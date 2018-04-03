@@ -36,7 +36,7 @@
   "inventoryIcon" : "webberarmorworkbenchicon.png",
   "orientations" : [
     {
-      "dualImage" : "webberarmorworkbenchicon.png:<color>",
+      "dualImage" : "webberarmorworkbench.png:<color>",
 
       "imagePosition" : [-16, 0],
       "frames" : 1,
