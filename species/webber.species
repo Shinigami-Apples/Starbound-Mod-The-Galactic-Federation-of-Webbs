@@ -16,6 +16,7 @@
   // Empty Hands
       { "item" : "flagwebber" },
       { "item" : "webberweaponworkbench"},
+      { "item" : "webberarmorworkbench"},
 
 // Anvil
       { "item" : "humantier1head" },
