@@ -5,5 +5,5 @@
     { "item" : "climbingrope", "count" : 2 }
   ],
   "output" : { "item" : "webbersilkcollector", "count" : 1 },
-  "groups" : [ "webberarmorworkbench" ]
+  "groups" : [ "webberarmorworkbench", "webberarmor" ]
 }

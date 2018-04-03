@@ -6,5 +6,5 @@
     { "item" : "cobblestonematerial", "count" : 5 }
   ],
   "output" : { "item" : "webberofficer1chest", "count" : 1 },
-  "groups" : [ "craftinganvil", "armours", "all" ]
+  "groups" : [ "webberarmorworkbench", "webberarmor" ]
 }

@@ -5,5 +5,5 @@
   ],
   "duration" : 5,
   "output" : { "item" : "webberoutfit1legs", "count" : 1 },
-  "groups" : [ "webberarmorworkbench" ]
+  "groups" : [ "webberarmorworkbench", "webberclothing" ]
 }
