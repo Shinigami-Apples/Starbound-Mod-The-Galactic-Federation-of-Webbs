@@ -1,5 +1,5 @@
 {
-  "objectName" : "webbarmorworkbench",
+  "objectName" : "webberarmorworkbench",
   "colonyTags" : [ "webber" ],
   "rarity" : "Essential",
   "interactAction" : "OpenCraftingInterface",
