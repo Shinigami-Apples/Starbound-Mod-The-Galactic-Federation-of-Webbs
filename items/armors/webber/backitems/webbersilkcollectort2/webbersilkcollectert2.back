@@ -9,7 +9,7 @@
   "rarity" : "Legendary",
   "category" : "enviroProtectionPack",
   "shortdescription" : "Silk Collector 3000",
-  "description" : "Eventually pulls out silk from your body. This silk collector is just a little more effiecient than the Silk Collector 2000",
+  "description" : "Eventually pulls out silk from your body. This silk collector is just a little more efficient than the Silk Collector 2000",
 
   "statusEffects" : [
     "webbersilkgenteir2"
