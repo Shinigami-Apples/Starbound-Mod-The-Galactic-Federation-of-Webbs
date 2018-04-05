@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "fabric", "count" : 10 },
-    { "item" : "cottonwool", "count" : 1 }
+    { "item" : "webberspidersilk", "count" : 1 }
   ],
   "duration" : 5,
   "output" : { "item" : "webberoutfit3legs", "count" : 1 },
