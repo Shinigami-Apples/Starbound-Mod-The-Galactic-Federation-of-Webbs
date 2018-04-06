@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "moonstone", "count" : 400 },
+    { "item" : "moonstone", "count" : 40 },
     { "item" : "venomsample", "count" : 20 },
     { "item" : "webberspidersilk", "count" : 6 },
     { "item" : "cellmatter", "count" : 6 },

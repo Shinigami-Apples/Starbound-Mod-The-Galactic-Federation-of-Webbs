@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "description" : "The substance of the ^green;poisonous^reset; spiders, now in a ^green;bioweaponizable^reset; form!",
-  "shortdescription" : "Venom Spider's Sword",
+  "shortdescription" : "Venom Fang Sword",
   "tooltipKind" : "sword",
   "category" : "broadsword",
   "twoHanded" : true,
@@ -23,7 +23,7 @@
   "primaryAbility" : {
     "statusEffects" : [ "weakpoison" ],
     "fireTime" : 0.59,
-    "baseDps" : 22
+    "baseDps" : 19
   },
   "altAbilityType" : "downstab",
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
