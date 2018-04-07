@@ -1,5 +1,5 @@
 [
-    { 
-        "op": "add", "path": "/webberDescription", "value": "A it's grasshopper, but in lava."
-    } 
+    {
+        "op": "add", "path": "/webberDescription", "value": "It's a grasshopper, but in lava."
+    }
 ]
