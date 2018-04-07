@@ -2,7 +2,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt2MFtwzAQRFGVkRbSkE8pUWVEfcU5BBAMIaak5c4s+Q\/\/ZgP0vANBb8uybM++yaJtl\/oss7cdpD7TzB15YOJlgYefR1WTj8bU57ziUcXkseuMx9931Odvtajg8XhpffbV0Hrw3Qoeziave971UJrgUdfD0eRoywgPhclZC0cTPPQG7yyiPDJNrlo4meDhZdL6xrgTHvN5RFg4mODhZTKCR7SF0mOE+xyP8T1UJtU9elkoTP7bMNKjpwkec3lkmlT3yLDAw88jywQPL4+Mt2CvN2GmRZYJHnhUtcgwwcPLo+p9rvToaVLRQ22BBx545Hu82y\/aI8JE7dDTBA8vk2oe6u3x8LaINsHDy+R3w8z3+TqoBR6ezeCh3hiPmhYRJi139Zn7vOUzo3vcMXH2UG+qMHH1UG+Jx1gWV13cPNTbqU3w8DJx8lDv5eDi4qHeyMXEwUO9jZOL2kO9h0ufJql3cCvzv6t96t\/tHBa+YeEb+\/uHAxERERERERHRGP0ASjhbhg==",
+         "data":"eJzt2MENwjAQRNGUQQs0lBMlpgx8oyjCAclCFrGT9c6sPYd\/I9KyL8EKaVmWtPdUFKUs9CyzlwqhZ5q5kodMuCzkwecR1eRWGXrOMx5RTNasFo\/vNej5ay0ieKw\/bXuPirbCtRE8mE1+93nVA2kij7gejCalXVp4IExaLRhN5IE3OLKw8vA0OWvBZCIPLpPad4wryWM+DwsLBhN5cJmM4GFtgfQY4TyXx\/geKJPoHr0sECb\/dmjp0dNEHnN5eJpE9\/CwkAefh5eJPLg8PN4Fe70Telp4mchDHlEtPEzkweUR9TxHevQ0ieiBtpCHPOTh73G0P2sPCxO0Q08TeXCZRPNA714e3BbWJvLgMvns0PP9fBvUQh6czeCB3rE8YlpYmNSc1S3nec1nRve4YsLsgd4pwoTVA71LeYxlcdaFzQO9O7SJPNp6FbI0YfJA7\/qMhbULi4flfYiwaDVi9mj5zlEcamdn87C+71gtjrqTZH2\/RbTI8\/zvKq\/nb0BkD4SJ9fwjWXjb9Jh5ZA9rG69ZZ\/C4YoSYbUYP5mZ9RpiTB1d6RriSB1\/y4ErPCFfy4EseXMmDK3nwle\/1DdTZf0o=",
          "encoding":"base64",
          "height":70,
          "name":"back",
@@ -15,7 +15,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJzt2sFtwzAMhWGP0aOvGSS3nrNRd8kcRjbpAF2hMRCVikpZlKwohPF\/AE+N6EAPqhIi03Rsy7vfAP4sUaGPW2MtSrX2guiVxZ5MIGr27TptZxHqWtkXojaPD0ORR7vSXl2imisqrCGPOpYsWu\/pi7EHxKuyqOkFsbWHPbKw9IN49dmw9IQYcTZKfSFGnI1Sb4hRZ2OrP0S6N+t3ua97ne\/1mdT58bf1NT9KWdeSR56Wh+X7t8a6ljzyyMMXLY+5UOtrvpWyriWPvNb7PLee+3wfPl\/5Qh6+pHs1Io\/0GRCtZ0O7z1vPCMTI\/1XkUUYevpCHL\/G+hPlTqUrzK8t68tCleVh\/P6Jp\/f0JBHn4kuYxG2rP\/CqsJw8d97kv5OELefhCHr7EezRyfhU\/C2L02dCeB0EevpCHL+ThS9gT6yywxzwxnSlCxHlYZk895lfpDAuCPHyJ85iNtXeeGHqQx39xHiPvc\/LQkYcv5OELefiU+8x0lOcdnfb5CgAAvMfpUda5bM86RYVn1jlg70IeWfhFFn6x\/\/6RAwAAAAAAwDH8AvMS1aM=",
+         "data":"eJztmsFtwzAMRT1Gj75mkNx6zkbdJXMYPXaLDtAVGgNRKai0Rcm0SDD\/Af\/USBb1qighMk2xWawXAP5YsgAdPjuzMOmdCxBaLo44AUTLvt2nfRcp98Z5AdHq400Q+Ointle3LHND0hj4aEPioveevgnnAMRZLlrmAsTeHmq4kMwHiLPPhmROQIw4G7V5ATHibNTmBsSos7E3PyDKvVm\/y308cn3kvcj1+bf1NT9MpGPhYxvOh+T7N4d0LHxsAx++4HzMlayv+WYiHQsf2\/Te51vjcZ8fA5+vfAEfvij3aoSP8hmA6D0b3H3ee0YAMfK9Cj7qwIcv4MMX+b6k\/lMttf6VZDx88JQ+pL8f4ej9\/Qkg4MMXpY9ZkCP9qzQePnhwn\/sCPnwBH76AD1\/kezSyf5U\/CxCjzwb3PEDAhy\/gwxfw4Yu0J9JeoEY\/sewpAiL3Iek9afSvyh4WIODDF7mPWZij\/cQ0B3z8J\/cx8j6HDx748AV8+AI+fLL1mSnK86LDfb56Jb6YABs4F6\/ixVu9NRcRHXmsr9eDh7X34Lk2TRe1XJ6R9mU1c8ni9f9tpIs80j6gdry\/B1j5sHCivX5tLF2MdnPGmrWxdnCmm1Fr1cR6389wZLE2Laz3OEo0sa4lSrSwriNKNLGuJUI0sa4lSrSwriNKNLGuJUI0sa4lSrSwriNKtLCuI0q0sK4jUnJ+AeCd6C8=",
          "encoding":"base64",
          "height":70,
          "name":"front",
@@ -777,39 +777,39 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/..\/assets\/packed\/tilesets\/packed\/materials.json"
+         "source":"..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/materials.json"
         }, 
         {
          "firstgid":196,
-         "source":"..\/..\/..\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
+         "source":"..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
         }, 
         {
          "firstgid":218,
-         "source":"..\/..\/..\/assets\/packed\/tilesets\/packed\/supports.json"
+         "source":"..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/supports.json"
         }, 
         {
          "firstgid":254,
-         "source":"..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-category\/light.json"
+         "source":"..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-category\/light.json"
         }, 
         {
          "firstgid":696,
-         "source":"..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-category\/furniture.json"
+         "source":"..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-category\/furniture.json"
         }, 
         {
          "firstgid":1042,
-         "source":"..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-category\/other.json"
+         "source":"..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-category\/other.json"
         }, 
         {
          "firstgid":1345,
-         "source":"..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-category\/decorative.json"
+         "source":"..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-category\/decorative.json"
         }, 
         {
          "firstgid":2761,
-         "source":"..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-category\/door.json"
+         "source":"..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-category\/door.json"
         }, 
         {
          "firstgid":2889,
-         "source":"..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-category\/farmable.json"
+         "source":"..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-category\/farmable.json"
         }],
  "tilewidth":8,
  "version":1,
