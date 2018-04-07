@@ -92,7 +92,7 @@
     "statusControllerSettings" : {
     "stats" : {
       "maxHealth" : {
-        "baseValue" : 100.0
+        "baseValue" : 120.0
       },
       "powerMultiplier" : {
         "baseValue" : 1.3
