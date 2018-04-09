@@ -5,7 +5,7 @@
     "value": [[0, {
       "fill" : [
 	    {"item" : [ "flashlight" ]},
-        {"item" : [ "torch", 10 ]},
+        {"item" : [ "torch", 15 ]},
         {"item" : [ "webbersword", 1 ]},
         {"item" : [ "cannedfood", 1 ]},
         {"item" : [ "cannedfood", 1 ]},
