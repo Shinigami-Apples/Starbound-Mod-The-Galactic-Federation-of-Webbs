@@ -23,7 +23,7 @@
   "primaryAbility" : {
     "statusEffects" : [ "weakpoison" ],
     "fireTime" : 0.59,
-    "baseDps" : 19
+    "baseDps" : 15
   },
   "altAbilityType" : "downstab",
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
