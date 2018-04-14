@@ -9,7 +9,7 @@
   "category" : "shotgun",
   "twoHanded" : true,
   "itemTags" : ["weapon","ranged","webber","shotgun"],
-  "level" : 3,
+  "level" : 2,
 
   "inventoryIcon" : "webbershotgunt1.png",
 
@@ -39,9 +39,9 @@
       "class" : "GunFire",
 
       "fireTime" : 1.5,
-      "baseDps" : 8.8,
-      "energyUsage" : 41.5,
-      "inaccuracy" : 0.3,
+      "baseDps" : 7.8,
+      "energyUsage" : 41,
+      "inaccuracy" : 0.4,
 
       "projectileCount" : 4,
       "fireType" : "auto",
@@ -49,7 +49,7 @@
       "projectileType" : "standardbullet",
       "projectileParameters" : {
         "damageKind" : "shotgunbullet",
-        "knockback" : 20
+        "knockback" : 8
       },
       "stances" : {
         "idle" : {
@@ -62,8 +62,8 @@
         },
         "fire" : {
           "duration" : 0,
-          "armRotation" : 8,
-          "weaponRotation" : 8,
+          "armRotation" : 10,
+          "weaponRotation" : 10,
           "twoHanded" : true,
 
           "allowRotate" : false,
