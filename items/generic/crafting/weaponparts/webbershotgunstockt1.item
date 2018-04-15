@@ -6,5 +6,6 @@
   "inventoryIcon" : "webbershotgunstockt1.png",
   "description" : "A poorly made stock for a shotgun of sorts. This allows the shotgun to be fired with less recoil and sit comfortly on the shoulder. ^cyan;For use by Webbers.^white;",
   "shortdescription" : "Sticky Shotgun Stock",
-  "radioMessagesOnPickup" : [ "pickupShotgunStockT1" ]
+  "radioMessagesOnPickup" : [ "pickupShotgunStockT1" ],
+  "itemTags" : [ "reagent" ]
 }

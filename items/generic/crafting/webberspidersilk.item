@@ -5,5 +5,6 @@
   "category": "craftingMaterial",
   "inventoryIcon" : "webberspidersilk.png",
   "description" : "It's a strand of spider silk. ^cyan;For use by Webbers.^white;",
-  "shortdescription" : "Spider Silk Strand"
+  "shortdescription" : "Spider Silk Strand",
+  "itemTags" : [ "reagent" ]
 }

@@ -6,5 +6,6 @@
   "inventoryIcon" : "webberwoodenstick.png",
   "description" : "A rod of wood. You put something on it to give it use. ^cyan;For use by Webbers.^white;",
   "learnBlueprintsOnPickup" : [ "webberlaminatedwoodenstick" ],
-  "shortdescription" : "Wooden Stick"
+  "shortdescription" : "Wooden Stick",
+  "itemTags" : [ "reagent" ]
 }

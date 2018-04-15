@@ -6,5 +6,6 @@
   "inventoryIcon" : "webbershotgunclipt1.png",
   "description" : "A poorly made gun clip for a shotgun of sorts. It's also made of 40% spider webs. Ew. ^cyan;For use by Webbers.^white;",
   "shortdescription" : "Sticky Shotgun Clip",
-  "radioMessagesOnPickup" : [ "pickupShotgunClipT1" ]
+  "radioMessagesOnPickup" : [ "pickupShotgunClipT1" ],
+  "itemTags" : [ "reagent" ]
 }

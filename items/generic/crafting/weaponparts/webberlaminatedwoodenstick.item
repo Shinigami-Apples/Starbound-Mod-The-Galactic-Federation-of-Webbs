@@ -5,5 +5,6 @@
   "category": "webberweaponpart",
   "inventoryIcon" : "webberlaminatedwoodenstick.png",
   "description" : "A very strong and shiny wood stick. ^cyan;For use by Webbers.^white;",
-  "shortdescription" : "Laminated Wooden Stick"
+  "shortdescription" : "Laminated Wooden Stick",
+  "itemTags" : [ "reagent" ]
 }
