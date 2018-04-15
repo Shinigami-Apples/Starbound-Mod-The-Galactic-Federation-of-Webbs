@@ -2,7 +2,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt2MENwjAQRNGUQQs0lBMlpgx8oyjCAclCFrGT9c6sPYd\/I9KyL8EKaVmWtPdUFKUs9CyzlwqhZ5q5kodMuCzkwecR1eRWGXrOMx5RTNasFo\/vNej5ay0ieKw\/bXuPirbCtRE8mE1+93nVA2kij7gejCalXVp4IExaLRhN5IE3OLKw8vA0OWvBZCIPLpPad4wryWM+DwsLBhN5cJmM4GFtgfQY4TyXx\/geKJPoHr0sECb\/dmjp0dNEHnN5eJpE9\/CwkAefh5eJPLg8PN4Fe70Telp4mchDHlEtPEzkweUR9TxHevQ0ieiBtpCHPOTh73G0P2sPCxO0Q08TeXCZRPNA714e3BbWJvLgMvns0PP9fBvUQh6czeCB3rE8YlpYmNSc1S3nec1nRve4YsLsgd4pwoTVA71LeYxlcdaFzQO9O7SJPNp6FbI0YfJA7\/qMhbULi4flfYiwaDVi9mj5zlEcamdn87C+71gtjrqTZH2\/RbTI8\/zvKq\/nb0BkD4SJ9fwjWXjb9Jh5ZA9rG69ZZ\/C4YoSYbUYP5mZ9RpiTB1d6RriSB1\/y4ErPCFfy4EseXMmDK3nwle\/1DdTZf0o=",
+         "data":"eJzt2MENwjAQRNGUQQs0lBMlpgx8oyjCAclCFrGT9c6sPYd\/I9KyL8EKaVmWtPdUFKUs9CyzlwqhZ5q5kodMuCzkwecR1eRWGXrOMx5RTNasFo\/vNej5ay0ieKw\/bXuPirbCtRE8mE1+93nVA2kij7gejCalXVp4IExaLRhN5IE3OLKw8vA0OWvBZCIPLpPad4wryWM+DwsLBhN5cJmM4GFtgfQY4TyXx\/geKJPoHr0sECb\/dmjp0dNEHnN5eJpE9\/CwkAefh5eJPLg8PN4Fe70Telp4mchDHlEtPEzkweUR9TxHevQ0ieiBtpCHPOTh73G0P2sPCxO0Q08TeXCZRPNA714e3BbWJvLgMvns0PP9fBvUQh6czeCB3rE8YlpYmNSc1S3nec1nRve4YsLsgd4pwoTVA71LeYxlcdaFzQO9O7SJPNp6FbI0YfJA7\/qMhbULi4flfYiwaDVi9mj5zlEcamdn9LC871gtjrqTZH2\/RbTI8\/zvKq\/nb0BkD4SJ9fwjWXjb9Jh5ZA9rG69ZZ\/C4YoSYbUYP5mZ9RpiTB1d6RriSB1\/y4ErPCFfy4EseXMmDK3nwle\/1Df0Kf0I=",
          "encoding":"base64",
          "height":70,
          "name":"back",
@@ -15,7 +15,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJztmsFtwzAMRT1Gj75mkNx6zkbdJXMYPXaLDtAVGgNRKai0Rcm0SDD\/Af\/USBb1qighMk2xWawXAP5YsgAdPjuzMOmdCxBaLo44AUTLvt2nfRcp98Z5AdHq400Q+Ointle3LHND0hj4aEPioveevgnnAMRZLlrmAsTeHmq4kMwHiLPPhmROQIw4G7V5ATHibNTmBsSos7E3PyDKvVm\/y308cn3kvcj1+bf1NT9MpGPhYxvOh+T7N4d0LHxsAx++4HzMlayv+WYiHQsf2\/Te51vjcZ8fA5+vfAEfvij3aoSP8hmA6D0b3H3ee0YAMfK9Cj7qwIcv4MMX+b6k\/lMttf6VZDx88JQ+pL8f4ej9\/Qkg4MMXpY9ZkCP9qzQePnhwn\/sCPnwBH76AD1\/kezSyf5U\/CxCjzwb3PEDAhy\/gwxfw4Yu0J9JeoEY\/sewpAiL3Iek9afSvyh4WIODDF7mPWZij\/cQ0B3z8J\/cx8j6HDx748AV8+AI+fLL1mSnK86LDfb56Jb6YABs4F6\/ixVu9NRcRHXmsr9eDh7X34Lk2TRe1XJ6R9mU1c8ni9f9tpIs80j6gdry\/B1j5sHCivX5tLF2MdnPGmrWxdnCmm1Fr1cR6389wZLE2Laz3OEo0sa4lSrSwriNKNLGuJUI0sa4lSrSwriNKNLGuJUI0sa4lSrSwriNKtLCuI0q0sK4jUnJ+AeCd6C8=",
+         "data":"eJztmsFtwzAMRT1Gj75mkNx6zkbdJXMYPXaLDtAVGgNRKai0Rcm0SDD\/Af\/USBb1qighMk2xWawXAP5YsgAdPjuzMOmdCxBaLo44AUTLvt2nfRcp98Z5AdHq400Q+Ointle3LHND0hj4aEPioveevgnnAMRZLlrmAsTeHmq4kMwHiLPPhmROQIw4G7V5ATHibNTmBsSos7E3PyDKvVm\/y308cn3kvcj1+bf1NT9MpGPhYxvOh+T7N4d0LHxsAx++4HzMlayv+WYiHQsf2\/Te51vjcZ8fA5+vfAEfvij3aoSP8hmA6D0b3H3ee0YAMfK9Cj7qwIcv4MMX+b6k\/lMttf6VZDx88JQ+pL8f4ej9\/Qkg4MMXpY9ZkCP9qzQePnhwn\/sCPnwBH76AD1\/kezSyf5U\/CxCjzwb3PEDAhy\/gwxfw4Yu0J9JeoEY\/sewpAiL3Iek9afSvyh4WIODDF7mPWZij\/cQ0B3z8J\/cx8j6HDx748AV8+AI+fLL1mSnK86LDfb56Jb6YABs4F6\/ixVu9NRcRHXmsr9eDh7X34rU2TRe1XJ6R9mU1c8ni9f9tpIs80j6gdry\/B1j5sHCivX5tLF2MdnPGmrWxdnCmm1Fr1cR6389wZLE2Laz3OEo0sa4lSrSwriNKNLGuJUI0sa4lSrSwriNKNLGuJUI0sa4lSrSwriNKtLCuI0q0sK4jUnJ+AWHC52M=",
          "encoding":"base64",
          "height":70,
          "name":"front",
@@ -747,7 +747,7 @@
                  "x":408,
                  "y":280
                 }],
-         "opacity":1,
+         "opacity":0.899999976158142,
          "type":"objectgroup",
          "visible":true,
          "width":100,
@@ -765,8 +765,35 @@
          "width":100,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "height":70,
+         "name":"anchors etc",
+         "objects":[
+                {
+                 "height":472,
+                 "id":69,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"objecttracker"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":384,
+                 "x":256,
+                 "y":0
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "width":100,
+         "x":0,
+         "y":0
         }],
- "nextobjectid":67,
+ "nextobjectid":70,
  "orientation":"orthogonal",
  "properties":
     {

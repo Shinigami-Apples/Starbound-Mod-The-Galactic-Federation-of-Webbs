@@ -309,8 +309,63 @@
          "width":100,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "height":70,
+         "name":"npcs",
+         "objects":[
+                {
+                 "height":8,
+                 "id":26,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"webber",
+                     "typeName":"webbersettlerfarmergarden"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":456.363636363636,
+                 "y":359.818181818182
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "width":100,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "height":70,
+         "name":"anchors etc",
+         "objects":[
+                {
+                 "height":240,
+                 "id":25,
+                 "name":"",
+                 "properties":
+                    {
+                     "stagehand":"objecttracker"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":704,
+                 "x":64,
+                 "y":214
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "width":100,
+         "x":0,
+         "y":0
         }],
- "nextobjectid":25,
+ "nextobjectid":27,
  "orientation":"orthogonal",
  "properties":
     {
