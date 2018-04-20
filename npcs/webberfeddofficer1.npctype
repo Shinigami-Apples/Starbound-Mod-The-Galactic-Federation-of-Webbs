@@ -5,10 +5,10 @@
   "levelVariance" : [3, 3],
   "persistent" : true,
 
+  "damageTeamType" : "friendly",
+
   "scriptConfig" : {
     "behavior" : "guard",
-
-  "damageTeamType" : "friendly",
 
     "behaviorConfig" : {
       "greetingChance" : 0.67,
