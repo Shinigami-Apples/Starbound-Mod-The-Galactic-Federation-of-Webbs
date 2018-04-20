@@ -5,8 +5,6 @@
   "levelVariance" : [3, 3],
   "persistent" : true,
 
-  "damageTeamType" : "friendly",
-
   "scriptConfig" : {
     "behavior" : "villager",
 

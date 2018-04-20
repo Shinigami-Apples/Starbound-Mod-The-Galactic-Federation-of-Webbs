@@ -713,7 +713,7 @@
                  "visible":true,
                  "width":8,
                  "x":448,
-                 "y":400
+                 "y":392
                 }, 
                 {
                  "height":8,
@@ -729,7 +729,7 @@
                  "visible":true,
                  "width":8,
                  "x":504,
-                 "y":400
+                 "y":392
                 }, 
                 {
                  "height":8,
@@ -746,6 +746,22 @@
                  "width":8,
                  "x":408,
                  "y":280
+                }, 
+                {
+                 "height":8,
+                 "id":71,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"webber",
+                     "typeName":"webberfeddsettler1"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":488,
+                 "y":280
                 }],
          "opacity":0.899999976158142,
          "type":"objectgroup",
@@ -758,7 +774,23 @@
          "draworder":"topdown",
          "height":70,
          "name":"npcs",
-         "objects":[],
+         "objects":[
+                {
+                 "height":8,
+                 "id":70,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"webber",
+                     "typeName":"webberfedpetmerchant"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":424,
+                 "y":176
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -788,12 +820,12 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
         }],
- "nextobjectid":70,
+ "nextobjectid":72,
  "orientation":"orthogonal",
  "properties":
     {
