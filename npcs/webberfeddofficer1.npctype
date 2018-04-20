@@ -8,6 +8,8 @@
   "scriptConfig" : {
     "behavior" : "guard",
 
+  "damageTeamType" : "friendly",
+
     "behaviorConfig" : {
       "greetingChance" : 0.67,
       "patrolTime" : 3,
