@@ -18,9 +18,13 @@ Thank you for listening to my warnings.
 
 - An actual wiki in the making.
 
-- Custom ship pet!
+- Pets!
 
-- Webbers DO have FR support as of now. the stats are a bit wonky but they'll be fixed. They’ve been reballanced, but not exactly in much of the lore-friendly way.
+- NPCs from villagers to tougher guards.
+
+- New microdungeons
+
+- Webbers DO have FR support as of now. the stats are a bit wonky but they'll be fixed. They’ve been rebalanced, but not exactly in much of the lore-friendly way.
 
 - Partially incomplete custom ships, but hey, Tiers 0-4 aren't the recolors again.
 
@@ -36,7 +40,7 @@ Thank you for listening to my warnings.
 
 - Character customization: Yeah, it's there. Webbers do like some nice hair styles, don't they? Including fur colors and patterns.
 
-- Hurt soun- no. Please don't hurt these "endangered" species just to hear them cry. Don't. You'll make me cry. Speaking of which, the synthesizer falling from a flight of stairs has been replaced with the mist lovely phrase in existance: “HECK”
+- Hurt soun- no. Please don't hurt these "endangered" species just to hear them cry. Don't. You'll make me cry. Speaking of which, the synthesizer falling from a flight of stairs has been replaced with the most lovely phrase in existance: “HECK”
 
 - Tenants: They're still not your annoying next-door neighbors, so they're disappointing.
 
