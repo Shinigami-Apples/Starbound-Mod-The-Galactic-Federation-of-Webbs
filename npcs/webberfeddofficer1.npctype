@@ -38,7 +38,9 @@
       "lostTarget" : "/dialog/webberfeddofficer1.config:lostTarget",
       "outOfSight" : "/dialog/webberfeddofficer1.config:outOfSight",
       "cheerOn" : "/dialog/webberfeddofficer1.config:cheerOn",
-      "cantReach" : "/dialog/webberfeddofficer1.config:cantReach"
+      "cantReach" : "/dialog/webberfeddofficer1.config:cantReach",
+
+      "accuse" : "/dialog/webberfeddofficer1.config:accuse"
       }
     },
     "items" : {
