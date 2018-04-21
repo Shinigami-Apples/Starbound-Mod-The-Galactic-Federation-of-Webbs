@@ -22,8 +22,6 @@ Thank you for listening to my warnings.
 
 - NPCs from villagers to tougher guards.
 
-- New microdungeons
-
 - Webbers DO have FR support as of now. the stats are a bit wonky but they'll be fixed. They’ve been rebalanced, but not exactly in much of the lore-friendly way.
 
 - Partially incomplete custom ships, but hey, Tiers 0-4 aren't the recolors again.
