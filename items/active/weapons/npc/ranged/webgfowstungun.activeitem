@@ -50,7 +50,7 @@
       "projectileParameters" : {
         "knockback" : 1,
         "speed" : 200,
-        "statusEffects" : [ "electrified" ]
+        "statusEffects" : [ "combatwebstunned1" ]
       },
       "stances" : {
         "idle" : {
