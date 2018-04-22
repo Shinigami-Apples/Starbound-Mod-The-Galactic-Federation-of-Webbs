@@ -4,13 +4,11 @@
 
   "effectConfig" : {},
 
-  "defaultDurration" : 40,
+  "defaultDuration" : 5,
 
   "scripts" : [
     "combatwebstunned1.lua"
   ],
-
-  "animationConfig" : "stun.animation",
 
   "label" : "Stunlocked - You've been shocked by a high-power stungun and can not move!",
   "icon" : "/interface/statuses/stunlock.png"
