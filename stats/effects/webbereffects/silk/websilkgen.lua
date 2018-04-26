@@ -7,9 +7,17 @@ function init()
     self.item = config.getParameter("item")
     self.maxAmount = config.getParameter("maxAmount")
     self.configAmount = config.getParameter("amount")
+
+    script.setUpdateDelta(5)
+
+    self.tickDamagePercentage = 0.030
+    self.tickTime = 2
+    self.tickTimer = self.tickTime
+
 end
 
 function update(dt)
+  if world.entitySpecies(entity.id()) == "webber" then --Player is a webber? give them goodies.
     if self.started then
         local count = world.entityHasCountOfItem(entity.id(), self.item)
         local maxDrop = math.min(self.configAmount, 1000)
@@ -22,5 +30,20 @@ function update(dt)
             world.spawnItem(self.item, entity.position(), math.min(self.configAmount, self.maxAmount - count), {price = 0})
         end
     end
+  else
+    if world.entitySpecies(entity.id()) ~= "webber" then --Is the player not a webber? Pun-ish them.
+      --world.sendEntityMessage(entity.id(), "queueRadioMessage", "wrongspeciesusingsilkcollector", 1.0) S.A.I.L. warns the player they they're going to die.
+      self.timerRadioMessage = 60
+      if (self.tickTimer <= 0) then
+          self.tickTimer = self.tickTime
+          status.applySelfDamageRequest({
+	         damageType = "IgnoresDef",
+	         damage = math.floor(status.resourceMax("health") * self.tickDamagePercentage) + 7, --deal a lot of damage.
+	         damageSourceKind = "poison",
+	         sourceEntityId = entity.id()
+          })
+      end
+    end
+  end
     self.started = true;
 end
