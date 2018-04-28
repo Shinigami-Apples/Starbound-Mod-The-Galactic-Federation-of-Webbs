@@ -1,13 +1,13 @@
 {
 
-  "name" : "webbersilkgenteir1",
+  "name" : "webbersilkgenteir3",
 
   "effectConfig" : {
-    "refresh" : "10000", //Timer
+    "refresh" : "7500", //Timer
     "item" : "webberspidersilk", //Silk earned
     "amount" : 1, //Amount granted
     "maxAmount" : 1000,
-    "foodDelta" : 1 //1 = no drain
+    "foodDelta" : 1.2 //light drain
   },
 
   "defaultDurration" : 1,

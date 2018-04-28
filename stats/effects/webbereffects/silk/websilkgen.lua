@@ -9,6 +9,7 @@ function init()
 	self.item = config.getParameter("item")
 	self.maxAmount = config.getParameter("maxAmount")
 	self.configAmount = config.getParameter("amount")
+	self.foodDelta = config.getParameter("foodDelta") --does pack change food delta from "1"? change this in json
 
 	script.setUpdateDelta(5)
 
@@ -17,6 +18,9 @@ function init()
 	self.tickTimer = self.tickTime
 
 	if world.entitySpecies(entity.id()) == "webber" then --Player is a webber?
+
+		effect.addStatModifierGroup({{stat = "foodDelta", baseMultiplier = self.foodDelta}}) --sets hunger drain via a variable. Normal value is "1"
+
 		world.sendEntityMessage(entity.id(), "queueRadioMessage", "silkcollectionstart", 1.0)
 
 		self.timerRadioMessage = 60

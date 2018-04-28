@@ -6,7 +6,8 @@
     "refresh" : "9000", //Timer
     "item" : "webberspidersilk", //Silk earned
     "amount" : 1, //Amount granted
-    "maxAmount" : 1000
+    "maxAmount" : 1000,
+    "foodDelta" : 1 //1 = no drain
   },
 
   "defaultDurration" : 1,

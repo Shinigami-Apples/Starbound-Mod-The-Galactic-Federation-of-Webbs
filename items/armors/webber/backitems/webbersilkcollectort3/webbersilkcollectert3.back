@@ -1,6 +1,6 @@
 {
-  "itemName" : "webbersilkcollectort2",
-  "price" : 500,
+  "itemName" : "webbersilkcollectort3",
+  "price" : 1000,
   "inventoryIcon" : "webbersilkcollectort2.png",
   "tooltipKind" : "baseaugment",
   "maleFrames" : "back.png",
@@ -8,11 +8,11 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "enviroProtectionPack",
-  "shortdescription" : "Silk Collector 3000",
-  "description" : "Eventually pulls out silk from your body. This silk collector is just a little more efficient than the Silk Collector 2000",
+  "shortdescription" : "Silk Collector 4000",
+  "description" : "This silk collector injects hormones in order to produce silk in larger ammounts, ^red;but has potential for side effects.^reset;",
 
   "statusEffects" : [
-    "webbersilkgenteir2"
+    "webbersilkgenteir3"
   ],
 
   "acceptsAugmentType" : "back",
