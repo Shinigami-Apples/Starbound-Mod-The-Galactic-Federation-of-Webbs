@@ -4,14 +4,11 @@
 --Further credit goes to ZimberZimber on the FU discord for further fixing!
 --Fixed the problem where stuff like Woggles weren't being damaged by the pack.
 function init()
-	script.setUpdateDelta(config.getParameter("refresh"))
 	self.started = false;
 	self.item = config.getParameter("item")
 	self.maxAmount = config.getParameter("maxAmount")
 	self.configAmount = config.getParameter("amount")
 	self.foodDelta = config.getParameter("foodDelta") --does pack change food delta from "1"? change this in json
-
-	script.setUpdateDelta(5)
 
 	self.tickDamagePercentage = 0.030
 	self.tickTime = 2
@@ -19,12 +16,15 @@ function init()
 
 	if world.entitySpecies(entity.id()) == "webber" then --Player is a webber?
 
+		script.setUpdateDelta(config.getParameter("refresh"))
+
 		effect.addStatModifierGroup({{stat = "foodDelta", baseMultiplier = self.foodDelta}}) --sets hunger drain via a variable. Normal value is "1"
 
 		world.sendEntityMessage(entity.id(), "queueRadioMessage", "silkcollectionstart", 1.0)
 
 		self.timerRadioMessage = 60
 	else --if not webber, then NO.
+
 		world.sendEntityMessage(entity.id(), "queueRadioMessage", "wrongspeciesusingsilkcollector", 1.0) --S.A.I.L. warns the player they they're going to die.
 
 		self.timerRadioMessage = 60
@@ -55,7 +55,7 @@ function update(dt)
 			self.tickTimer = self.tickTime
 			status.applySelfDamageRequest({
 				damageType = "IgnoresDef",
-				damage = math.floor(status.resourceMax("health") * self.tickDamagePercentage) + 7, --deal a lot of damage.
+				damage = math.floor(status.resourceMax("health") * self.tickDamagePercentage) * 2, --deal a lot of damage.
 				damageSourceKind = "poison",
 				sourceEntityId = entity.id()
 			})
