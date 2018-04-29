@@ -1,7 +1,7 @@
 {
   "itemName" : "webbersilkcollectort3",
   "price" : 1000,
-  "inventoryIcon" : "webbersilkcollectort2.png",
+  "inventoryIcon" : "webbersilkcollectort3.png",
   "tooltipKind" : "baseaugment",
   "maleFrames" : "back.png",
   "femaleFrames" : "back.png",

@@ -2,8 +2,6 @@
 
   "name" : "webbersilkgenteir2",
 
-  "scriptDelta" : 5,
-
   "effectConfig" : {
     "refresh" : "9000", //Timer
     "item" : "webberspidersilk", //Silk earned
