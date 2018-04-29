@@ -25,10 +25,12 @@ function init()
 
     world.sendEntityMessage(entity.id(), "queueRadioMessage", self.isWebber and "silkcollectionstart" or "wrongspeciesusingsilkcollector", 1.0)--if webber, message 1. if not, message2.
 end
- 
+
 function update(dt)
     if self.isWebber then
-        if not self.silkTimer or self.silkTimer > self.processRate then
+			if not self.silkTimer then
+	 				self.silkTimer=0.0
+			elseif self.silkTimer > self.processRate then
             local count = world.entityHasCountOfItem(entity.id(), self.item)
             local maxDrop = math.min(self.configAmount, 1000)
             for _, entityID in pairs (world.itemDropQuery(entity.position(), 5)) do
