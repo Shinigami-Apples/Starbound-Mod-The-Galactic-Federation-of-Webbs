@@ -7,6 +7,7 @@
 
 
 function init()
+    if not self.init then return end
     self.item = config.getParameter("item")
     self.maxAmount = config.getParameter("maxAmount")
     self.configAmount = config.getParameter("amount")
@@ -24,6 +25,7 @@ function init()
     end
 
     world.sendEntityMessage(entity.id(), "queueRadioMessage", self.isWebber and "silkcollectionstart" or "wrongspeciesusingsilkcollector", 1.0)--if webber, message 1. if not, message2.
+    self.init=true
 end
 
 function update(dt)

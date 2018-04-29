@@ -3,7 +3,7 @@
   "name" : "webbersilkgenteir3",
 
   "effectConfig" : {
-    "refreshWebber" : "7500", //Timer
+    "refreshWebber" : "150", //Timer
     "item" : "webberspidersilk", //Silk earned
     "amount" : 1, //Amount granted
     "maxAmount" : 1000,
