@@ -4,10 +4,9 @@
   "rarity" : "common",
   "printable" : true,
   "race" : "webber",
-  "category" : "crafting",
+  "category" : "Door",
   "price" : 150,
-  "description" : "door",
-  "subtitle" : "A curtain of Webber silk. It's strong and thick enough to keep all of the bad stuff out.",
+  "description" : "A curtain of Webber silk. It's strong and thick enough to keep all of the bad stuff out.",
   "shortdescription" : "Silk curtain",
 
   "apexDescription" : "It's a hidious way to keep the weather out.",
