@@ -86,8 +86,6 @@
 
       //Clothing workbench EPPs
       { "item" : "webbersilkcollector" },
-      { "item" : "webbersilkcollectort2" },
-      { "item" : "webbersilkcollectort3" },
 
       //Clothing workbench clothing
       { "item" : "webberoutfit1chest" },
