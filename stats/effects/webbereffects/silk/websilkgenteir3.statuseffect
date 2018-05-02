@@ -3,7 +3,7 @@
   "name" : "webbersilkgenteir3",
 
   "effectConfig" : {
-    "refreshWebber" : "150", //Timer
+    "refreshWebber" : 150, //Timer
     "item" : "webberspidersilk", //Silk earned
     "amount" : 1, //Amount granted
     "maxAmount" : 1000,
@@ -11,6 +11,7 @@
   },
 
   "defaultDurration" : 1,
+	"scriptDelta" : 0,
 
   "scripts" : [
     "websilkgen.lua"
