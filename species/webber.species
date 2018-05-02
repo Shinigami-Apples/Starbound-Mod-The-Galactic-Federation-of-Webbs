@@ -65,7 +65,9 @@
       { "item" : "feroziumstaff" },
       { "item" : "violiumshortsword" },
       { "item" : "violiumbroadsword" },
-// Furniture Table 2
+      //Furniture table 1
+      { "item" : "webbersilkdoor1" },
+      // Furniture Table 2
       { "item" : "webberstoragelocker" },
       { "item" : "webbershipdoor" },
       { "item" : "webbershiphatch" },
@@ -85,6 +87,7 @@
       //Clothing workbench EPPs
       { "item" : "webbersilkcollector" },
       { "item" : "webbersilkcollectort2" },
+      { "item" : "webbersilkcollectort3" },
 
       //Clothing workbench clothing
       { "item" : "webberoutfit1chest" },
@@ -94,7 +97,10 @@
       { "item" : "webberoutfit3chest" },
       { "item" : "webberoutfit3legs" },
       { "item" : "webberoutfit4chest" },
-      { "item" : "webberoutfit4legs" }
+      { "item" : "webberoutfit4legs" },
+      //Clothing workbench armor
+      { "item" : "webberofficer1chest" },
+      { "item" : "webberofficer1legs" }
 	  ]
   },
 
