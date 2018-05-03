@@ -97,6 +97,7 @@
       { "item" : "webberoutfit4chest" },
       { "item" : "webberoutfit4legs" },
       //Clothing workbench armor
+      { "item" : "webberofficer1head" },
       { "item" : "webberofficer1chest" },
       { "item" : "webberofficer1legs" }
 	  ]
