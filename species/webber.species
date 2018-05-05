@@ -83,6 +83,8 @@
       { "item" : "webbershotgunteir1" },
       { "item" : "webbersword" },
       { "item" : "webbert0spear" },
+      { "item" : "webstick" },
+      { "item" : "stickypistol1" },
 
       //Clothing workbench EPPs
       { "item" : "webbersilkcollector" },
