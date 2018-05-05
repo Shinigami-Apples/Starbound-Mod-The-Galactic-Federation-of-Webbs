@@ -43,5 +43,10 @@
       "knockback" : 20
     }
   },
+
+  //FU crit stats
+  "critChance" : 1,
+  "critBonus" : 2,
+
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }

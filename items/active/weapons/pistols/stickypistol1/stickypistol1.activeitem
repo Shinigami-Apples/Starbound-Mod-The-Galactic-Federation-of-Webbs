@@ -48,6 +48,7 @@
 
       "projectileType" : "standardbullet",
       "projectileParameters" : {
+        "damageSourceKind" : "bow",
         "knockback" : 6
       },
       "stances" : {
