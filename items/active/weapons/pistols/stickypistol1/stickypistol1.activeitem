@@ -1,34 +1,34 @@
 {
-  "itemName" : "webbershotgunteir1",
-  "price" : 360,
+  "itemName" : "stickypistol1",
+  "price" : 320,
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "For when you don't need to eat your enemies. Made just for webber use. Will not make your enemies blow up into bits and pieces, but will still ruin the overall animal resource quality.",
-  "shortdescription" : "Primitive Sticky Shotgun",
+  "description" : "A pistol with little impact torwards meaty animal treasures. ^cyan;Hunting weapon^reset;",
+  "shortdescription" : "Home-made Hunting Pistol",
   "tooltipKind" : "gun",
-  "category" : "shotgun",
-  "twoHanded" : true,
-  "itemTags" : ["weapon","ranged","webber","shotgun"],
+  "category" : "pistol",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","ranged","webber","pistol"],
   "level" : 2,
 
-  "inventoryIcon" : "webbershotgunt1.png",
+  "inventoryIcon" : "stickypistol1.png",
 
   "animation" : "/items/active/weapons/ranged/gun.animation",
 
     "animationParts" : {
       "butt" : "",
-      "middle" : "webbershotgunt1.png",
+      "middle" : "stickypistol1.png",
       "barrel" : "",
       "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
     },
 
     "animationCustom" : {
       "sounds" : {
-        "fire" : ["/sfx/gun/shotgun1.ogg"]
+        "fire" : ["/sfx/gun/pistol4.ogg"]
       }
   },
-  "baseOffset" : [0.5, 0.0],
-    "muzzleOffset" : [2, 0.125],
+  "baseOffset" : [0.5,0.2],
+"muzzleOffset" : [1.0, 0.3],
 
     "scripts" : ["/items/active/weapons/ranged/gun.lua"],
 
@@ -38,42 +38,41 @@
       "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
       "class" : "GunFire",
 
-      "fireTime" : 1.4,
-      "baseDps" : 7.8,
-      "energyUsage" : 31,
-      "inaccuracy" : 0.4,
+      "fireTime" : 0.7,
+      "baseDps" : 10.8,
+      "energyUsage" : 11,
+      "inaccuracy" : 0.05,
 
-      "projectileCount" : 4,
+      "projectileCount" : 1,
       "fireType" : "auto",
 
       "projectileType" : "standardbullet",
       "projectileParameters" : {
-        "damageKind" : "shotgunbullet",
-        "knockback" : 7
+        "knockback" : 6
       },
       "stances" : {
         "idle" : {
           "armRotation" : 0,
           "weaponRotation" : 0,
-          "twoHanded" : true,
+          "twoHanded" : false,
 
           "allowRotate" : true,
           "allowFlip" : true
         },
         "fire" : {
           "duration" : 0,
-          "armRotation" : 10,
-          "weaponRotation" : 10,
-          "twoHanded" : true,
+          "armRotation" : 3,
+          "weaponRotation" : 3,
+          "twoHanded" : false,
 
           "allowRotate" : false,
           "allowFlip" : false
         },
         "cooldown" : {
           "duration" : 0.15,
-          "armRotation" : 8,
-          "weaponRotation" : 8,
-          "twoHanded" : true,
+          "armRotation" : 2,
+          "weaponRotation" : 2,
+          "twoHanded" : false,
 
           "allowRotate" : false,
           "allowFlip" : false
@@ -82,10 +81,8 @@
     },
 
     //FU crit stats
-    "critChance" : 2,
-    "critBonus" : 6,
-
-    "altAbilityType" : "burstshot",
+    "critChance" : 1,
+    "critBonus" : 3,
 
     "builder" : "/items/buildscripts/buildunrandweapon.lua"
   }

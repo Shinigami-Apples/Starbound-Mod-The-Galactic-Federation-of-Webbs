@@ -26,6 +26,11 @@
     "fireTime" : 0.49,
     "baseDps" : 9
   },
+
+  //FU crit stats
+  "critChance" : 2,
+  "critBonus" : 2,
+
   "altAbilityType" : "downstab",
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }

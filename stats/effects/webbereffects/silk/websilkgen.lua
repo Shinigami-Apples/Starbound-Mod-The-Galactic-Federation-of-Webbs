@@ -64,7 +64,7 @@ function update(dt)
             end
 
             if count and count < self.maxAmount then
-                world.spawnItem(self.item, entity.position(), math.min(self.configAmount, self.maxAmount - count), {price = 0})
+                world.spawnItem(self.item, entity.position(), math.min(self.configAmount, self.maxAmount - count), {price = 50})
             end
 
             self.silkTimer=0.0

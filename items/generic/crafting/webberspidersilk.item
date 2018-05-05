@@ -1,7 +1,7 @@
 {
   "itemName": "webberspidersilk",
   "rarity": "common",
-  "price": 5,
+  "price": 100,
   "category": "craftingMaterial",
   "inventoryIcon" : "webberspidersilk.png",
   "description" : "It's a strand of spider silk. ^cyan;For use by Webbers.^white;",
