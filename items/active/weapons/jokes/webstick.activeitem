@@ -22,7 +22,7 @@
   "primaryAbilityType" : "broadswordcombo",
   "primaryAbility" : {
     "fireTime" : 0.3,
-    "baseDps" : 3
+    "baseDps" : 1
   },
 
   //FU crit stats
