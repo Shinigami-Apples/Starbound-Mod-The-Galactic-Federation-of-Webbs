@@ -1,19 +1,18 @@
 {
-  "itemName" : "webbersilkcollectort3",
-  "price" : 1000,
-  "inventoryIcon" : "webbersilkcollectort3.png",
+  "itemName" : "webbersilkcollectort4",
+  "price" : 2000,
+  "inventoryIcon" : "webbersilkcollectort4.png",
   "tooltipKind" : "baseaugment",
   "maleFrames" : "back.png",
   "femaleFrames" : "back.png",
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "enviroProtectionPack",
-  "shortdescription" : "Silk Collector 4000",
-  "description" : "This silk collector injects hormones in order to produce silk in larger ammounts, ^red;but has potential for side effects.^reset;",
-"learnBlueprintsOnPickup" : [ "webbersilkcollectort4" ],
+  "shortdescription" : "Silk Collector 5000",
+  "description" : "The Silk COllector 5000! More silk than normal! Every webber wants one! ^red;Serious side effects.^reset;",
 
   "statusEffects" : [
-    "webbersilkgenteir3"
+    "webbersilkgenteir4"
   ],
 
   "acceptsAugmentType" : "back",

@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "durasteelbar", "count" : 6 },
+    { "item" : "titaniumbar", "count" : 6 },
     { "item" : "webberspidersilk", "count" : 24 },
     { "item" : "webbersilkcollectort2", "count" : 1 }
   ],

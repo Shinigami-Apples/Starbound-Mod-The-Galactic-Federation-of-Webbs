@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 17 },
+    { "item" : "titaniumbar", "count" : 4 },
+    { "item" : "webberspidersilk", "count" : 18 },
+    { "item" : "webbersilkcollectort3", "count" : 1 }
+  ],
+  "output" : { "item" : "webbersilkcollectort4", "count" : 1 },
+  "groups" : [ "webberarmorworkbench", "webberarmor" ]
+}
