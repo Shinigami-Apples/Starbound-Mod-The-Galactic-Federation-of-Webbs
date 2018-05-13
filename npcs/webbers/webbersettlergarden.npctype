@@ -4,7 +4,9 @@
 
   "levelVariance" : [3, 3],
   "persistent" : true,
-  
+
+  "dropPools" : [ "webbermeats" ],
+
   "scriptConfig" : {
     "behavior" : "villager",
 

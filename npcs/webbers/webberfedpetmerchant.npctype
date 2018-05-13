@@ -5,6 +5,8 @@
   "levelVariance" : [3, 3],
   "persistent" : true,
 
+  "dropPools" : [ "webbermeats" ],
+
   "scripts" : [
     "/npcs/bmain.lua"
   ],

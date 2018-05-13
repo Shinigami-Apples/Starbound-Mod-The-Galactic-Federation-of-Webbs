@@ -5,6 +5,10 @@
   "levelVariance" : [3, 3],
   "persistent" : true,
 
+  "damageTeamType" : "friendly",
+
+  "dropPools" : [ "webbermeats" ],
+
   "scriptConfig" : {
     "behavior" : "villager",
 

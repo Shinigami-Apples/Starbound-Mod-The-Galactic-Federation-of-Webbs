@@ -7,6 +7,8 @@
 
   "damageTeamType" : "friendly",
 
+  "dropPools" : [ "webbermeats" ],
+
   "scriptConfig" : {
     "behavior" : "guard",
 

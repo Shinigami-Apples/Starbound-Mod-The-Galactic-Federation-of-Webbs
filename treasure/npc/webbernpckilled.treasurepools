@@ -1,0 +1,14 @@
+{
+  // ++++++++++++++++++++++++
+  //     Webber NPC drops
+  //    (Not for the sane)
+  // ++++++++++++++++++++++++
+  "webbermeats" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.9, "item" : "questionablemeatwebber"},
+        {"weight" : 0.1, "item" : "webberspidersilk"}
+      ]
+    } ]
+  ]
+}
