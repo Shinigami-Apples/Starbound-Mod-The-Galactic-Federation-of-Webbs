@@ -9,7 +9,7 @@
   "ouchNoises" : [ "/sfx/humanoid/webberhurt.ogg", "/sfx/humanoid/webberhurt.ogg"], // ECH
   "charGenTextLabels" : [ "Hair colours", "Hair style", "Shirt", "Legwear", "None", "None", "Shirt colour", "Legwear colour", "WEBBER", "Personality" ],
   "skull" : "/humanoid/webber/dead.png",
-  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
+  "effectDirectives" : "?replace=FEFFFFFF=1d1d1dFF?replace=9bd4ffFF=1a1a1aFF?replace=31a6ffFF=151515FF",
   "defaultBlueprints" : {
     "tier1" : [
 
