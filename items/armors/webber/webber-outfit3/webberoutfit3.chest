@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
-  "description" : "Your chest is warm, but what of your arms?",
-  "shortdescription" : "Sweater Vest",
+  "description" : "A thick sweater to keep you warm. It's not smart to wear this in a desert.",
+  "shortdescription" : "Sweater",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chestm.png",

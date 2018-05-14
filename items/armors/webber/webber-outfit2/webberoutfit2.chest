@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
-  "description" : "Wearing this faux-leather jacket fills you with confidence.",
-  "shortdescription" : "Stylish Jacket",
+  "description" : "It's not a real leather jacket, but it sure does fit you wonderfully.",
+  "shortdescription" : "Jacket",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chestm.png",

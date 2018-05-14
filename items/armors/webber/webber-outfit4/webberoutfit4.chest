@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
-  "description" : "A light breathable top suitable for working out. No pain, no gain, right?",
+  "description" : "It's a sleeveless shirt. Nothing else, except that your fur still appears to take up volume.",
   "shortdescription" : "Sleeveless Top",
   "tooltipKind" : "armor",
   "maleFrames" : {
