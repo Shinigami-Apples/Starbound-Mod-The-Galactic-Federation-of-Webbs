@@ -5,8 +5,8 @@
 	"subTitle" : "O2",
 	"description" : "Humans trapped in mythical spider-like creatures. They're cute, but they tend to eat their fallen. Webbers are famous for being the only species without a known origin and without any way of reproducing other than external cloning."
   },
-  "nameGen" : [ "/species/webbermalenamegen.config:names", "/species/webbermalenamegen.config:names" ], //NOW SHUT THE FUCK UP SMILING CAT EMOJI DUDE
-  "ouchNoises" : [ "/sfx/humanoid/webberhurt.ogg", "/sfx/humanoid/webberhurt.ogg"], // ECH
+  "nameGen" : [ "/species/webbermalenamegen.config:names", "/species/webbermalenamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/webberhurt.ogg", "/sfx/humanoid/webberhurt.ogg"],
   "charGenTextLabels" : [ "Hair colours", "Hair style", "Shirt", "Legwear", "None", "None", "Shirt colour", "Legwear colour", "WEBBER", "Personality" ],
   "skull" : "/humanoid/webber/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=1d1d1dFF?replace=9bd4ffFF=1a1a1aFF?replace=31a6ffFF=151515FF",
@@ -72,6 +72,10 @@
       { "item" : "webbershipdoor" },
       { "item" : "webbershiphatch" },
 
+      //food
+
+      { "item" : "webjunkfoodinacan" },
+
       // Weapon workbench parts
 
       { "item" : "webbershotgunclipt1" },
@@ -133,7 +137,7 @@
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
-      "facialMask" : [ ] //THERE ARE NO DIFFERENCES. IM TOO LAZY TO RENAME FILES.
+      "facialMask" : [ ]
     }
   ],
   "bodyColor" : [
@@ -145,8 +149,10 @@
     { "1a1a1a" : "efefef", "171717" : "e7e7e7", "121212" : "d0d0d0", "101010" : "bcbcbc", "222222" : "c1c1c1", "ededed" : "f15252", "ffffff" : "f69898", "00d9d1" : "d0d0d0", "00fff6" : "e7e7e7", "00dc24" : "e7e7e7", "2b943c" : "d0d0d0" },
     //Yellow fur, white eyes
     { "1a1a1a" : "1a1a1a", "171717" : "171717", "121212" : "121212", "101010" : "101010", "222222" : "222222", "ededed" : "ededed", "ffffff" : "ffffff", "00d9d1" : "c8c455", "00fff6" : "e1dd63", "00dc24" : "171717", "2b943c" : "121212" },
-    //Poison
-    { "1a1a1a" : "d5eaa2", "171717" : "e1dd63", "121212" : "d4d065", "101010" : "c8c455", "222222" : "c1de7c", "ededed" : "ededed", "ffffff" : "ffffff", "00d9d1" : "c8c455", "00fff6" : "e1dd63", "00dc24" : "00dc24", "2b943c" : "2b943c" }
+        //Poison
+    { "1a1a1a" : "d5eaa2", "171717" : "e1dd63", "121212" : "d4d065", "101010" : "c8c455", "222222" : "c1de7c", "ededed" : "ededed", "ffffff" : "ffffff", "00d9d1" : "c8c455", "00fff6" : "e1dd63", "00dc24" : "00dc24", "2b943c" : "2b943c" },
+    //White fur, grey markings, blue eyes
+    { "1a1a1a" : "969696", "171717" : "e7e7e7", "121212" : "d0d0d0", "101010" : "bcbcbc", "222222" : "c1c1c1", "ededed" : "9fcee3", "ffffff" : "ffffff", "00d9d1" : "d0d0d0", "00fff6" : "e7e7e7", "00dc24" : "e7e7e7", "2b943c" : "d0d0d0" }
   ],
   "undyColor" : [
     //literally nothing.

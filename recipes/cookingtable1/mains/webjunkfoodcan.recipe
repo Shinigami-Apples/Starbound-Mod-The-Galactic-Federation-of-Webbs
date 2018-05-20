@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "rottenfood", "count" : 2 },
+    { "item" : "snowball", "count" : 1 },
+    { "item" : "alienmeat", "count" : 1 },
+    { "item" : "ironbar", "count" : 1 }
+  ],
+  "output" : { "item" : "webjunkfoodinacan", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ]
+}

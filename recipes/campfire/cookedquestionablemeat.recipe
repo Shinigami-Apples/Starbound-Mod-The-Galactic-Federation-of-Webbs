@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "questionablemeatwebber", "count" : 1 }
+  ],
+  "output" : { "item" : "cookedquestionablemeatwebber", "count" : 1 },
+  "groups" : [ "campfire", "consumables", "all" ]
+}

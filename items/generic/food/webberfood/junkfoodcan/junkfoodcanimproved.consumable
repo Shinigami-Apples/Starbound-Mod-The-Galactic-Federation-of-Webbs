@@ -1,0 +1,25 @@
+
+{
+  "itemName" : "webjunkfoodinacanimproved",
+  "rarity" : "Common",
+  "price" : 5,
+  "category" : "preparedFood",
+  "inventoryIcon" : "junkfoodcanimproved.png",
+  "description" : "Junk food! Now with 100% more real rot! It's what everyone is cravin'!",
+  "shortdescription" : "Food(?) in a Can",
+  "effects" : [ [
+    {
+        "effect" : "webbermeat",
+        "duration" : 240
+    }
+  ] ],
+  "foodValue" : 80,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 3.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

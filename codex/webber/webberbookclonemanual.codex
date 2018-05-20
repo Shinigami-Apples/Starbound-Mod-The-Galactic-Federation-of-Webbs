@@ -12,8 +12,7 @@
 
     Webbers seemingly are humans biologically imbeded into the body of a spider. This strange occourance is unkown, but this can be reproduced in laboratory machines and bio-printers. They're both mammals and insects with a possibly in-body mutualism relationship, as observed in behavours being a mix of both creatures.",
 
-    "Their service-service relationship allows for intelligence and tool making on the human side, with a highly efficient digestive system and the added strength of the spider.",
-
+    "Their service-service relationship allows for intelligence and tool making on the human side, with a highly efficient digestive system and the added strength of the spider. Tests have shown that the two beings can not be seperated through any means, and that their DNA are fused together.",
 
     "Webbers are eusocial, but they usually tend to be solitary in less civilized environments. Curiously, Webbers have a dunbar's number of 550 to 700, most likely being that they have two equally shared minds, even though the more civilized one has dominance over the body. Studies have shown that they are pacifists to each other and many other intelligent-functioning species, as all tests have failed to promote natural agressive competition for resources such as food and land.",
 
@@ -21,9 +20,9 @@
 
     "^yellow;Health Issue Information^white;
 
-    If you're one of the few defects who came out of the bio-printer with ^red;problems^orange;, such as six or four legs, non-intelligent functioning, human only, fingerless, blind, deaf, hyperactive, heart problems, stomachless, two-eyed, closed-mouth disorder, two or more abdomen, long legged, spider only, unable to produce a silk beard, displaced body parts, dangerous hairs, sadistic behavours, bad-blooded, insanity and other mental disorders, brainless,",
+    If you're one of the few defects who came out of the bio-printer with ^red;problems^reset;^orange;, such as six or four legs, non-intelligent functioning, human only, fingerless, blind, deaf, hyperactive, heart problems, stomachless, two-eyed, closed-mouth disorder, two or more abdomen, long legged, spider only, unability to produce silk, displaced body parts, dangerous hairs, sadistic behavours, bad-blooded, insanity and other mental disorders, brainless,^reset;",
 
-    "extremely lethargic, overweight, underweight, smaller guts/digestive system, venomous, low muscle mass, arachnaphobia, any non-omivourous diet, albino, hairless, with any colors other than black and white,^red; or dead,^yellow; you should see a doctor, scientist, or surgeon for some (if not all) types of defects within you.^white;",
+    "^orange;extremely lethargic, overweight, underweight, smaller guts/digestive system, venomous, low muscle mass, arachnaphobia, any non-omivourous diet, albino, hairless, with any colors other than black and white,^reset;^red; or dead,^reset;^yellow; you should see a doctor, scientist, or surgeon for some (if not all) types of defects within you.^reset;",
 
     "^yellow;Biological information^white;
 
@@ -34,7 +33,7 @@
     Air needed: Oxygen
     Age: Undefinable
     Personality: Unknown
-    Health issues/ allergies: Unknown^white;"
+    Health issues/ allergies: Unknown^reset;"
 	],
 		"itemConfig" : {
 		"rarity" : "common",
