@@ -20,7 +20,6 @@
 
 // Anvil
       { "item" : "humantier1head" },
-      { "item" : "webberofficer1chest" },
       { "item" : "humantier1pants" },
       { "item" : "humantier2head" },
       { "item" : "humantier2chest" },
@@ -75,6 +74,9 @@
       //food
 
       { "item" : "webjunkfoodinacan" },
+      { "item" : "webcannedgrapes" },
+      { "item" : "webcannedpearlpea" },
+      { "item" : "webtomatopastecan" },
 
       // Weapon workbench parts
 
