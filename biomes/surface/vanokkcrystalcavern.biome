@@ -1,0 +1,36 @@
+{
+  "name" : "vanokkcrystals",
+  "friendlyName" : "Vanokk Crystal Cavern",
+  "hueShiftOptions" : [0],
+
+//  "weather" : [
+//    [0, [
+//      "/weather.config:forest"
+//    ]]
+//  ]
+"skyOptions" : [
+    {
+      // pitch black with a mild green glow
+      "mainColor" : [0, 0, 0],
+
+      "morningColors" : [ [0, 0, 0], [0, 0, 0] ],
+      "dayColors" : [ [0, 0, 0], [0, 0, 0] ],
+      "eveningColors" : [ [0, 0, 0], [0, 0, 0] ],
+      "nightColors" : [ [0, 0, 0, 0], [0, 0, 0, 0] ],
+
+      "morningLightColor" : [0, 0, 3],
+      "dayLightColor" : [0, 0, 3],
+      "eveningLightColor" : [0, 0, 3],
+      "nightLightColor" : [0, 0, 3]
+    }
+],
+"parallax" : "vanokkcrystal.parallax",
+"ambientNoises" : {
+  "day" : {
+    "tracks" : [ "/sfx/environmental/arid_underground.ogg" ]
+  },
+  "night" : {
+    "tracks" : [ "/sfx/environmental/arid_underground.ogg" ]
+  }
+}
+}

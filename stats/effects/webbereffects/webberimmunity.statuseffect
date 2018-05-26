@@ -1,0 +1,12 @@
+{
+
+  "name" : "webberimmunity",
+  "effectConfig" : {},
+
+  "defaultDurration" : 300,
+
+  "scripts" : [
+    "webberimmunity.lua"
+  ]
+
+}

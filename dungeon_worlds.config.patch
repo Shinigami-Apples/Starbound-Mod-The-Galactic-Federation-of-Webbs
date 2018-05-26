@@ -1,0 +1,36 @@
+[
+
+//Zone 48
+  {
+    "op": "add",
+    "path": "/vanokkunderzone48",
+    "value":
+      {
+      "primaryDungeon":"vanokkunderzone48",
+      "threatLevel":1,
+      "gravity":100,
+      "worldSize":[600,500],
+      "dungeonBaseHeight" : 1175,
+      "dungeonSurfaceHeight" : 750,
+      "ambientLightLevel":[0,0,0],
+      "biome" : "vanokkcrystals"
+      }
+    },
+
+    //Zone 48, in area A
+      {
+        "op": "add",
+        "path": "/vanokkunderzone48a",
+        "value":
+          {
+          "primaryDungeon":"vanokkunderzone48a",
+          "threatLevel":1,
+          "gravity":100,
+          "worldSize":[38,11],
+          "dungeonBaseHeight" : 1175,
+          "dungeonSurfaceHeight" : 750,
+          "ambientLightLevel":[0,0,0],
+          "biome" : "vanokkindoors"
+          }
+        }
+]
