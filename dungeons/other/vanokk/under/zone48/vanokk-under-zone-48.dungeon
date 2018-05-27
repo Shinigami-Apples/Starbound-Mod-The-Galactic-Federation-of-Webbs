@@ -13,7 +13,7 @@
   "parts" : [
     {
       "name" : "vanokkunderzone48",
-      "rules" : [],
+      "rules" : [ [ "maxSpawnCount", [1] ] ],
       "def" : [ "tmx", "vanokk-under-zone-48.json" ]
     }
   ]
