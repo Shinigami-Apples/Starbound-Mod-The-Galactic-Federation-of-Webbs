@@ -302,6 +302,22 @@
                  "width":16,
                  "x":8,
                  "y":72
+                }, 
+                {
+                 "gid":199,
+                 "height":8,
+                 "id":22,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":48,
+                 "y":56
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -312,7 +328,7 @@
         }, 
         {
          "draworder":"topdown",
-         "height":11,
+         "height":0,
          "name":"npcs",
          "objects":[
                 {
@@ -334,11 +350,11 @@
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
-         "width":38,
+         "width":0,
          "x":0,
          "y":0
         }],
- "nextobjectid":22,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "properties":
     {
