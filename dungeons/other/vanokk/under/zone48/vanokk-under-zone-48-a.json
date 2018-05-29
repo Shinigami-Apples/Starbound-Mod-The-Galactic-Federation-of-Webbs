@@ -118,7 +118,7 @@
                  "name":"",
                  "properties":
                     {
-                     "properties":"{\"destination\":Instanceworld:vanokkunderzone48}\n"
+                     "parameters":"{\"destination\":\"InstanceWorld:vanokkunderzone48\"}\n"
                     },
                  "rotation":0,
                  "type":"",
@@ -302,6 +302,22 @@
                  "width":16,
                  "x":8,
                  "y":72
+                }, 
+                {
+                 "gid":199,
+                 "height":8,
+                 "id":22,
+                 "name":"",
+                 "properties":
+                    {
+
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":48,
+                 "y":40
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -312,7 +328,7 @@
         }, 
         {
          "draworder":"topdown",
-         "height":11,
+         "height":0,
          "name":"npcs",
          "objects":[
                 {
@@ -334,11 +350,11 @@
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
-         "width":38,
+         "width":0,
          "x":0,
          "y":0
         }],
- "nextobjectid":22,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "properties":
     {
@@ -349,39 +365,39 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/materials.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/packed\/tilesets\/packed\/materials.json"
         }, 
         {
          "firstgid":196,
-         "source":"..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/packed\/tilesets\/packed\/miscellaneous.json"
         }, 
         {
          "firstgid":218,
-         "source":"..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/supports.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/packed\/tilesets\/packed\/supports.json"
         }, 
         {
          "firstgid":254,
-         "source":"..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-category\/light.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/packed\/tilesets\/packed\/objects-by-category\/light.json"
         }, 
         {
          "firstgid":696,
-         "source":"..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-category\/furniture.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/packed\/tilesets\/packed\/objects-by-category\/furniture.json"
         }, 
         {
          "firstgid":1042,
-         "source":"..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-category\/door.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/packed\/tilesets\/packed\/objects-by-category\/door.json"
         }, 
         {
          "firstgid":1170,
-         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/Users\/ELizabeth\/Documents\/GitHub\/Starbound---Webbers\/tilesets\/webbers-custom\/vanokk-doors.json"
+         "source":"..\/..\/..\/..\/..\/tilesets\/webbers-custom\/vanokk-doors.json"
         }, 
         {
          "firstgid":1171,
-         "source":"..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-colonytag\/humanvillage.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/packed\/tilesets\/packed\/objects-by-colonytag\/humanvillage.json"
         }, 
         {
          "firstgid":1187,
-         "source":"..\/..\/..\/..\/..\/..\/..\/assets\/packed\/tilesets\/packed\/objects-by-category\/decorative.json"
+         "source":"..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/Program Files (x86)\/Steam\/steamapps\/common\/Starbound\/assets\/packed\/tilesets\/packed\/objects-by-category\/decorative.json"
         }],
  "tilewidth":8,
  "version":1,
