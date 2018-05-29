@@ -27,6 +27,6 @@
   ],
   "scripts" : [ "/objects/webber/vanokk/doors/trailerparkdoor/trailerparkdoor.lua" ],
   "scriptDelta" : 20,
-  "destination" : "InstanceWorld:vanokkunder:%s:%s",
-  "vanishTime" : 15
+  "destination" : "InstanceWorld:vanokkunder:%s:%s"
+  //"vanishTime" : 15 - Do not want
 }

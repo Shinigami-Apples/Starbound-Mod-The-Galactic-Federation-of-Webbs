@@ -8,11 +8,12 @@ function init()
   storage.uuid = storage.uuid or sb.makeUuid()
   object.setInteractive(true)
 
-  message.setHandler("onTeleport", function(message, isLocal, data)
-      if not storage.vanishTime then
-        storage.vanishTime = world.time() + config.getParameter("vanishTime")
-      end
-    end)
+-- Do not want. causes vanishing
+--  message.setHandler("onTeleport", function(message, isLocal, data)
+--      if not storage.vanishTime then
+--        storage.vanishTime = world.time() + config.getParameter("vanishTime")
+--      end
+--    end)
 
 end
 
@@ -23,9 +24,9 @@ function update(dt)
       boundMode = "CollisionArea"
     })
 
-if storage.vanishTime and world.time() > storage.vanishTime then
-    object.smash()
-  end
+--if storage.vanishTime and world.time() > storage.vanishTime then
+--    object.smash()
+--  end
 
 end
 

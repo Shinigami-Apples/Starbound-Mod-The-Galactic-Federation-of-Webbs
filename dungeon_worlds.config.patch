@@ -9,10 +9,10 @@
       "primaryDungeon":"vanokkunderzone48",
       "threatLevel":1,
       "gravity":100,
-      "worldSize":[600,500],
-      "dungeonBaseHeight" : 1175,
-      "dungeonSurfaceHeight" : 750,
-      "ambientLightLevel":[0,0,0],
+      "worldSize":[2000,2000],
+      "dungeonBaseHeight" : 750,
+      "dungeonSurfaceHeight" : 650,
+      "ambientLightLevel":[0,0,3],
       "biome" : "vanokkcrystals"
       }
     },
@@ -26,10 +26,10 @@
           "primaryDungeon":"vanokkunderzone48a",
           "threatLevel":1,
           "gravity":100,
-          "worldSize":[38,11],
-          "dungeonBaseHeight" : 1175,
-          "dungeonSurfaceHeight" : 750,
-          "ambientLightLevel":[0,0,0],
+          "worldSize":[2000,2000],
+          "dungeonBaseHeight" : 750,
+          "dungeonSurfaceHeight" : 650,
+          "ambientLightLevel":[0,0,3],
           "biome" : "vanokkindoors"
           }
         }
