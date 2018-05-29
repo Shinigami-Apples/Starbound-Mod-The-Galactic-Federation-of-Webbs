@@ -304,9 +304,9 @@
                  "y":208
                 }, 
                 {
-                 "gid":2603,
+                 "gid":2602,
                  "height":40,
-                 "id":27,
+                 "id":28,
                  "name":"",
                  "properties":
                     {
@@ -338,6 +338,7 @@
                  "properties":
                     {
                      "npc":"webber",
+                     "seed":"21",
                      "typeName":"vanokkwebnorook"
                     },
                  "rotation":0,
@@ -354,7 +355,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":28,
+ "nextobjectid":29,
  "orientation":"orthogonal",
  "properties":
     {
