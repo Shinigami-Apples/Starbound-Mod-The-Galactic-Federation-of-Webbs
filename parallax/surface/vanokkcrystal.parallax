@@ -2,7 +2,7 @@
   "layers" : [
   {
       "kind" : "vanokkcrystalback",
-      "baseCount" : 3,
+      "baseCount" : 1,
       "offset" : [19, 340],
       "parallax" : 9,
       "nightCorrelation" : 0,
@@ -11,7 +11,7 @@
     },
     {
       "kind" : "vanokkcrystalfront",
-      "baseCount" : 2,
+      "baseCount" : 1,
       "offset" : [0, 360],
       "parallax" : 6,
       "nightCorrelation" : 0,
