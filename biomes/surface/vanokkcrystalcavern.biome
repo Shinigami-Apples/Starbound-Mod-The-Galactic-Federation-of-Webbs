@@ -24,7 +24,7 @@
       "nightLightColor" : [0, 0, 3]
     }
 ],
-"parallax" : "vanokkcrystal.parallax",
+"parallax" : "/parallax/surface/vanokkcrystal.parallax",
 "ambientNoises" : {
   "day" : {
     "tracks" : [ "/sfx/environmental/arid_underground.ogg" ]
