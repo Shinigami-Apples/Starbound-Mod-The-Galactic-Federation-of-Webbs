@@ -15,6 +15,19 @@
     },
     "skyParameters" : {
       "spaceLevel" : 3000,
+      "skyColoring" : {
+        "mainColor" : [2, 2, 10],
+
+        "morningColors" : [ [2, 2, 10], [2, 2, 10] ],
+        "dayColors" : [ [2, 2, 10], [2, 2, 10] ],
+        "eveningColors" : [ [2, 2, 10], [2, 2, 10] ],
+        "nightColors" : [ [2, 2, 10], [2, 2, 10] ],
+
+        "morningLightColor" : [10, 25, 10],
+        "dayLightColor" : [10, 25, 10],
+        "eveningLightColor" : [10, 25, 10],
+        "nightLightColor" : [10, 25, 10]
+      },
     "satellites" : [ {
       "pos" : [ 0.310561, 0.35497 ],
       "layers" : [ {
@@ -87,6 +100,19 @@
       },
       "skyParameters" : {
         "spaceLevel" : 3000,
+        "skyColoring" : {
+          "mainColor" : [2, 2, 10],
+
+          "morningColors" : [ [2, 2, 10], [2, 2, 10] ],
+          "dayColors" : [ [2, 2, 10], [2, 2, 10] ],
+          "eveningColors" : [ [2, 2, 10], [2, 2, 10] ],
+          "nightColors" : [ [2, 2, 10], [2, 2, 10] ],
+
+          "morningLightColor" : [0, 0, 0],
+          "dayLightColor" : [0, 0, 0],
+          "eveningLightColor" : [0, 0, 0],
+          "nightLightColor" : [0, 0, 0]
+        },
       "satellites" : [ {
         "pos" : [ 0.310561, 0.35497 ],
         "layers" : [ {

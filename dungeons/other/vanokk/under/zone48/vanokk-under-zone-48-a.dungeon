@@ -14,7 +14,7 @@
     {
       "name" : "vanokkunderzone48a",
       "rules" : [ [ "maxSpawnCount", [1] ] ],
-      "def" : [ "tmx", "vanokk-under-zone-48a.json" ]
+      "def" : [ "tmx", "vanokk-under-zone-48-a.json" ]
     }
   ]
 }

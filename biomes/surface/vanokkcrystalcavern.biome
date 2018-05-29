@@ -10,18 +10,18 @@
 //  ]
 "skyOptions" : [
     {
-      // pitch black with a mild green glow
-      "mainColor" : [0, 0, 0],
+      // dark with a mild green glow
+      "mainColor" : [2, 2, 10],
 
-      "morningColors" : [ [0, 0, 0], [0, 0, 0] ],
-      "dayColors" : [ [0, 0, 0], [0, 0, 0] ],
-      "eveningColors" : [ [0, 0, 0], [0, 0, 0] ],
-      "nightColors" : [ [0, 0, 0, 0], [0, 0, 0, 0] ],
+      "morningColors" : [ [2, 2, 10], [2, 2, 10] ],
+      "dayColors" : [ [2, 2, 10], [2, 2, 10] ],
+      "eveningColors" : [ [2, 2, 10], [2, 2, 10] ],
+      "nightColors" : [ [2, 2, 10], [2, 2, 10] ],
 
-      "morningLightColor" : [0, 0, 3],
-      "dayLightColor" : [0, 0, 3],
-      "eveningLightColor" : [0, 0, 3],
-      "nightLightColor" : [0, 0, 3]
+      "morningLightColor" : [15, 25, 15],
+      "dayLightColor" : [15, 25, 15],
+      "eveningLightColor" : [15, 25, 15],
+      "nightLightColor" : [15, 25, 15]
     }
 ],
 "parallax" : "/parallax/surface/vanokkcrystal.parallax",
