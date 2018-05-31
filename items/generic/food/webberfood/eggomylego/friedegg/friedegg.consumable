@@ -1,12 +1,12 @@
 
 {
-  "itemName" : "webcookedegg",
+  "itemName" : "webfriedegg",
   "rarity" : "Common",
   "price" : 0,
   "category" : "preparedFood",
-  "inventoryIcon" : "cookedegg.png",
-  "description" : "It's a cooked egg.",
-  "shortdescription" : "Cooked Egg",
+  "inventoryIcon" : "friedegg.png",
+  "description" : "It's a fried egg. Has no seasonings on it at all.",
+  "shortdescription" : "Fried Egg",
   //"effects" : [ ],
   "foodValue" : 15,
   "tooltipKind" : "food",
