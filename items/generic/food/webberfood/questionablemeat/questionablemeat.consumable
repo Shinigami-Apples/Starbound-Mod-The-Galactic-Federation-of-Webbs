@@ -15,6 +15,7 @@
   ] ],
   "foodValue" : 20,
   "tooltipKind" : "food",
+  "learnBlueprintsOnPickup" : [ "cookedquestionablemeatwebber" ],
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 5,
   "itemAgingScripts" : ["/scripts/items/rotting.lua"],
