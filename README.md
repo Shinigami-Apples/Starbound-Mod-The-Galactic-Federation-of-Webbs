@@ -1,5 +1,5 @@
-# Starbound---Webbers
-Adds in Webber(s) to Starbound
+# Starbound Mod: The Galactic Federation of Webbs
+Adds in Webbers to Starbound
 # WARNING:
 I am in NO WAY responsible for your saves with this modded Starbound race. If your saves get corrupted, you play with (possibly) conflicting mods, your spider friends go missing, your cat dies, your pizza doesn't get delivered, or net neutrality ends, I AM NOT LIABLE for the damages that may be associated with this mod. That being said, IF YOU EVER GET A CRASH WITH THIS MOD IN YOUR STARBOUND, send me the log and I'll determine if it's ACTUALLY my fault or you're bothering me with something not related to this mod. This mod is already large, and it's as unstable as it is huge to the power of six.
 
