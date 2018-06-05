@@ -73,11 +73,7 @@
 
       //food
 
-      { "item" : "webjunkfoodinacan" },
-      { "item" : "webcannedgrapes" },
-      { "item" : "webcannedpearlpea" },
-      { "item" : "webtomatopastecan" },
-      { "item" : "webfriedegg" },
+      //unique food tba
 
       // Weapon workbench parts
 

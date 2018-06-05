@@ -1,3 +1,13 @@
 [
-{ "op" : "add", "path" : "/defaultCodexes/webber", "value" : [ "webberbook1", "webberbookclonemanual" ] }
+  //regular food
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "webfriedegg" } },
+  //Vanokkian food
+  //  -nothing here right now lol
+  //canned food
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "webjunkfoodinacan" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "webcannedgrapes" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "webcannedpearlpea" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "webtomatopastecan" } },
+  //racial codex
+  { "op" : "add", "path" : "/defaultCodexes/webber", "value" : [ "webberbook1", "webberbookclonemanual" ] }
 ]
