@@ -4,17 +4,17 @@
   "rarity" : "Essential",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
-    "config" : "/interface/windowconfig/webberweaponworkbench.config",
+    "config" : "/interface/windowconfig/webbercanningtable.config",
     "paneLayoutOverride" : {
       "windowtitle" : {
         "title" : "Canning Table",
         "subtitle" : "Can produce to extend their self life.",
         "icon" : {
-          "file" : "/interface/crafting/craftingicon.png"
+          "file" : "/interface/crafting/webbercanningtableicon.png"
         }
       }
     },
-    "filter" : [ "webbercanningtable" ]
+    "filter" : [ "webcanned" ]
   },
   "printable" : false,
   "race" : "generic",

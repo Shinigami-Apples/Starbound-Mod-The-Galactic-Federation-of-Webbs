@@ -6,5 +6,5 @@
     { "item" : "ironbar", "count" : 1 }
   ],
   "output" : { "item" : "webjunkfoodinacan", "count" : 1 },
-  "groups" : [ "craftingfood", "mains" ]
+  "groups" : [ "webcanned" ]
 }
