@@ -4,7 +4,7 @@
   "price": 5000,
   "category": "craftingMaterial",
   "inventoryIcon" : "0-0t.png",
-  "description" : "A sample of weird, nearly solid, teal liquid that ^red;causes serious halucinations.^white; It could be proven useful for crafting.",
+  "description" : "A sample of weird, nearly solid, teal liquid that ^red;causes serious halucinations.^white;",
   "shortdescription" : "Anomaly 0-0T",
   "itemTags" : [ "reagent" ]
 }
