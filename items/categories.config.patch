@@ -4,5 +4,10 @@
      "op": "add",
      "path": "/labels/webberweaponpart",
      "value": "Weapon Part"
-  }
+  },
+  {
+    "op": "add",
+    "path": "/labels/handlegun",
+    "value": "Handlegun"
+ }
 ]
