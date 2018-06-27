@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "webberironbarrel", "count" : 3 },
+    { "item" : "webberironbarrel", "count" : 1 },
     { "item" : "webberwoodenplate", "count" : 3 },
     { "item" : "webbert1sights", "count" : 1 },
     { "item" : "webberammoclipsmall", "count" : 1 },
