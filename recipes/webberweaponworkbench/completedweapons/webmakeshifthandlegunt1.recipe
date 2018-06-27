@@ -1,9 +1,9 @@
 {
   "input" : [
-    { "item" : "webberwoddenplate", "count" : 12 },
+    { "item" : "webberwoodenplate", "count" : 12 },
     { "item" : "webberironbarrel", "count" : 2 },
     { "item" : "webbert1sights", "count" : 1 },
-    { "item" : "webberheavyweaponstucksmall", "count" : 1 },
+    { "item" : "webberheavyweaponstocksmall", "count" : 1 },
     { "item" : "webberammoclipsmall", "count" : 6 },
     { "item" : "webberspidersilk", "count" : 5 }
   ],
