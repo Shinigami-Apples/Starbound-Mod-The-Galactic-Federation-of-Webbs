@@ -1,9 +1,10 @@
 {
   "input" : [
-    { "item" : "copperore", "count" : 12 },
-    { "item" : "ironore", "count" : 12 },
-    { "item" : "webberammoclipsmall", "count" : 2 },
-    { "item" : "webberspidersilk", "count" : 3 }
+    { "item" : "webberironbarrel", "count" : 3 },
+    { "item" : "webberwoddenplate", "count" : 3 },
+    { "item" : "webbert1sights", "count" : 1 },
+    { "item" : "webberammoclipsmall", "count" : 1 },
+    { "item" : "webberspidersilk", "count" : 2 }
   ],
   "output" : { "item" : "stickypistol1", "count" : 1 },
   "groups" : [ "webberweaponworkbench", "webberweapon" ]
