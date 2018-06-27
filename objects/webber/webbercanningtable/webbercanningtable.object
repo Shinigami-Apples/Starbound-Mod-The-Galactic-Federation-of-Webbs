@@ -20,7 +20,7 @@
   "race" : "generic",
   "category" : "crafting",
   "price" : 250,
-  "description" : "Crafts weapon parts specialized for Webbers.",
+  "description" : "This table includes everything you need in order to preserve food.",
   "subtitle" : "This table includes everything you need in order to preserve food.",
   "shortdescription" : "^orange;Canning Table^reset;",
 
