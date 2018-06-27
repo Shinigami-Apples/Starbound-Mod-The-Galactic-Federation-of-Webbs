@@ -82,6 +82,10 @@
       { "item" : "webbershotgunstockt1" },
       { "item" : "webberwoodenstick" },
       { "item" : "webberammoclipsmall" },
+      { "item" : "webberheavyweaponstocksmall" },
+      { "item" : "webberironbarrel" },
+      { "item" : "webbert1sights" },
+      { "item" : "webberwoodenplate" },
 
       // Weapon workbench weapons
       { "item" : "webbershotgunteir1" },
@@ -89,6 +93,7 @@
       { "item" : "webbert0spear" },
       { "item" : "webstick" },
       { "item" : "stickypistol1" },
+      { "item" : "webmakeshifthandlegunt1" },
 
       //Clothing workbench EPPs
       { "item" : "webbersilkcollector" },
