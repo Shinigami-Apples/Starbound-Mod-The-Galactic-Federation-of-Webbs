@@ -17,6 +17,7 @@
       { "item" : "flagwebber" },
       { "item" : "webberweaponworkbench"},
       { "item" : "webberarmorworkbench"},
+      { "item" : "webbercanningtable" },
 
 // Anvil
       { "item" : "humantier1head" },
