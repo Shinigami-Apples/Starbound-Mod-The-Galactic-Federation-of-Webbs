@@ -20,11 +20,6 @@
       { "item" : "webbercanningtable" },
 
 // Anvil
-      { "item" : "humantier1head" },
-      { "item" : "humantier1pants" },
-      { "item" : "humantier2head" },
-      { "item" : "humantier2chest" },
-      { "item" : "humantier2pants" },
       { "item" : "ironshortsword" },
       { "item" : "ironbroadsword" },
       { "item" : "tungstenaxe" },
@@ -108,6 +103,7 @@
       { "item" : "webberoutfit3legs" },
       { "item" : "webberoutfit4chest" },
       { "item" : "webberoutfit4legs" },
+      { "item" : "webberprideshirtace" },
       //Clothing workbench armor
       { "item" : "webberofficer1head" },
       { "item" : "webberofficer1chest" },

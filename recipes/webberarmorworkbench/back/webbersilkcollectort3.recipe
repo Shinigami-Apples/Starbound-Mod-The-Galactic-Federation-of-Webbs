@@ -4,6 +4,7 @@
     { "item" : "webberspidersilk", "count" : 24 },
     { "item" : "webbersilkcollectort2", "count" : 1 }
   ],
+  "duration" : 7,
   "output" : { "item" : "webbersilkcollectort3", "count" : 1 },
   "groups" : [ "webberarmorworkbench", "webberarmor" ]
 }

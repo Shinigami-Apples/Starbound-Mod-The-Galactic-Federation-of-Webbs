@@ -4,6 +4,7 @@
     { "item" : "copperore", "count" : 11 },
     { "item" : "climbingrope", "count" : 4 }
   ],
+  "duration" : 3,
   "output" : { "item" : "webbersilkcollector", "count" : 1 },
   "groups" : [ "webberarmorworkbench", "webberarmor" ]
 }
