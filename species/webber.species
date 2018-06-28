@@ -62,6 +62,7 @@
       { "item" : "violiumbroadsword" },
       //Furniture table 1
       { "item" : "webbersilkdoor1" },
+      { "item" : "webberbookcase1" },
       // Furniture Table 2
       { "item" : "webberstoragelocker" },
       { "item" : "webbershipdoor" },
@@ -104,6 +105,7 @@
       { "item" : "webberoutfit4chest" },
       { "item" : "webberoutfit4legs" },
       { "item" : "webberprideshirtace" },
+      { "item" : "webberprideshirtaro" },
       //Clothing workbench armor
       { "item" : "webberofficer1head" },
       { "item" : "webberofficer1chest" },

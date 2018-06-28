@@ -1,12 +1,12 @@
 {
-  "itemName" : "webberprideshirtace",
+  "itemName" : "webberprideshirtaro",
   "price" : 100,
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
   "description" : "A sleeveless shirt made to show off your colors!",
-  "shortdescription" : "Ace Pride Shirt",
+  "shortdescription" : "Aro Pride Shirt",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chest.png",
