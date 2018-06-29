@@ -63,6 +63,7 @@
       //Furniture table 1
       { "item" : "webbersilkdoor1" },
       { "item" : "webberbookcase1" },
+      { "item" : "webberbed" },
       // Furniture Table 2
       { "item" : "webberstoragelocker" },
       { "item" : "webbershipdoor" },
