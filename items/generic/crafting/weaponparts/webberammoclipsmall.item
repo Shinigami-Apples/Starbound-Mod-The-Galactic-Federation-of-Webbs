@@ -5,6 +5,7 @@
   "category": "webberweaponpart",
   "inventoryIcon" : "webberammoclipsmall.png",
   "description" : "A small ammo clip for smaller generic guns. ^cyan;For use by Webbers.^white;",
+  "learnBlueprintsOnPickup" : [ "webberammoclipmedium" ],
   "shortdescription" : "Small Ammo Clip",
   "itemTags" : [ "reagent" ]
 }

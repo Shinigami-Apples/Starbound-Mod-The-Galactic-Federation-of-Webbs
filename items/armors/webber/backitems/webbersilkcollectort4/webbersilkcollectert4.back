@@ -9,7 +9,7 @@
   "rarity" : "Legendary",
   "category" : "enviroProtectionPack",
   "shortdescription" : "Silk Collector 5000",
-  "description" : "The Silk COllector 5000! More silk than normal! Every webber wants one! ^red;Serious side effects.^reset;",
+  "description" : "The Silk Collector 5000! More silk than normal! Every webber wants one! ^red;Serious side effects.^reset;",
 
   "statusEffects" : [
     "webbersilkgenteir4"

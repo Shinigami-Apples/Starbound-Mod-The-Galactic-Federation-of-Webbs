@@ -19,7 +19,7 @@
 
   "objectType" : "loungeable",
   "sitFlipDirection" : true,
-  "sitPosition" : [-8, 7],
+  "sitPosition" : [-5, 7],
   "sitOrientation" : "lay",
   "sitAngle" : 90,
   "sitCoverImage" : "/objects/webber/webberbed/webberbedlit.png",

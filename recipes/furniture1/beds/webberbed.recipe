@@ -5,5 +5,5 @@
     { "item" : "fabric", "count" : 2 }
   ],
   "output" : { "item" : "webberbed", "count" : 1 },
-  "groups" : [ "craftingfurniture", "doors", "all" ]
+  "groups" : [ "craftingfurniture", "beds", "all" ]
 }

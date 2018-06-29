@@ -8,6 +8,8 @@
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "webcannedgrapes" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "webcannedpearlpea" } },
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "webtomatopastecan" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "webcannedboneboo" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "webemptycan" } },
   //racial codex
   { "op" : "add", "path" : "/defaultCodexes/webber", "value" : [ "webberbook1", "webberbookclonemanual" ] }
 ]

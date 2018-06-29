@@ -5,6 +5,7 @@
   "category": "webberweaponpart",
   "inventoryIcon" : "webberheavyweaponstocksmall.png",
   "description" : "This holds a low amount of heavy ammo, for when explosions are prefered. ^cyan;For use by Webbers.^white;",
+  "learnBlueprintsOnPickup" : [ "webberheavyweaponstockmedium" ],
   "shortdescription" : "Small Heavy Stock",
   "itemTags" : [ "reagent" ]
 }
