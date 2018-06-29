@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "tomato", "count" : 5 },
     { "item" : "carrot", "count" : 1 },
-    { "item" : "ironbar", "count" : 1 }
+    { "item" : "webemptycan", "count" : 1 }
   ],
   "output" : { "item" : "webtomatopastecan", "count" : 1 },
   "groups" : [ "webcanned" ]

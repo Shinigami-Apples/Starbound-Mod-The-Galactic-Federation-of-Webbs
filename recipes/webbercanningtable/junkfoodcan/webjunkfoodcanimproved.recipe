@@ -3,7 +3,7 @@
     { "item" : "rottenfood", "count" : 4 },
     { "item" : "snowball", "count" : 10 },
     { "item" : "alienmeat", "count" : 2 },
-    { "item" : "ironbar", "count" : 1 }
+    { "item" : "webemptycan", "count" : 1 }
   ],
   "output" : { "item" : "webjunkfoodinacanimproved", "count" : 1 },
   "groups" : [ "webcanned" ]

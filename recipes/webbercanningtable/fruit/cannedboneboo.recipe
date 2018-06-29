@@ -1,9 +1,9 @@
 {
   "input" : [
-    { "item" : "grapes", "count" : 6 },
+    { "item" : "boneboo", "count" : 6 },
     { "item" : "rice", "count" : 1 },
     { "item" : "webemptycan", "count" : 1 }
   ],
-  "output" : { "item" : "webcannedgrapes", "count" : 1 },
+  "output" : { "item" : "webcannedboneboo", "count" : 1 },
   "groups" : [ "webcanned" ]
 }

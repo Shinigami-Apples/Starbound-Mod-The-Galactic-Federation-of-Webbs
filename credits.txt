@@ -1,0 +1,18 @@
+-----
+CREDITS FOR THOSE WHO HAVE WORKED ON AND HELPED WITH THE DEVELOPMENT OF GFOW
+-----
+
+Making the mod:
+
+Vetpetmon - Sprites, scripts, writing, lore, playtesting, the whole AU, and pretty much running the whole entire mod while sacrificing her sanity. Also, the memes.
+C0bra5 - fixes to the silk generation effect.
+ZimberZimber - Helping out with racial exceptions for the silk generation effect.
+Shinigami Apples - Sprites
+Valo - Sprites
+
+Special thanks:
+
+The Starbound and Frackin Universe community, for helping me out throughout the mod and teaching me how EVERYTHING in Starbound works.
+shadow_absorber, for giving GFOW a home on the FU Starbound server!
+Chucklefish, for making Starbound.
+Klei, for making Don't Starve.

@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "pearlpea", "count" : 6 },
     { "item" : "rice", "count" : 1 },
-    { "item" : "ironbar", "count" : 1 }
+    { "item" : "webemptycan", "count" : 1 }
   ],
   "output" : { "item" : "webcannedpearlpea", "count" : 1 },
   "groups" : [ "webcanned" ]
