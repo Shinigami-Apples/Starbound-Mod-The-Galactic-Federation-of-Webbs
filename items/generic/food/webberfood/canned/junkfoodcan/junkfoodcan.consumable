@@ -14,7 +14,7 @@
     }
   ] ],
   "learnBlueprintsOnPickup" : [ "webjunkfoodinacanimproved" ],
-  "foodValue" : 40,
+  "foodValue" : 35,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1,
