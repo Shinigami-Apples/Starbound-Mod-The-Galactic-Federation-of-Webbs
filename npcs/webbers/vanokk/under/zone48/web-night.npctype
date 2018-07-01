@@ -50,8 +50,7 @@
         "start" : {
           "default" : {
             "default" : [
-              "Take a look. You touch, you buy.",
-              "Don't dare to ask questions."
+              "Take a look. You touch, you buy."
             ]
           }
         },
