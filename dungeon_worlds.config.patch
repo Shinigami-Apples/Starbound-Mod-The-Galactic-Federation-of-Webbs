@@ -13,6 +13,7 @@
       "dungeonBaseHeight" : 750,
       "dungeonSurfaceHeight" : 650,
       "ambientLightLevel":[15,15,40],
+      "musicTrack" : "/music/vanokk-zone-48",
       "biome" : "vanokkcrystals"
       }
     },
