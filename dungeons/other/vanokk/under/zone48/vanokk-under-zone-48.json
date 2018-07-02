@@ -1776,22 +1776,6 @@
                  "y":1312
                 }, 
                 {
-                 "gid":621,
-                 "height":24,
-                 "id":141,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":3096,
-                 "y":1312
-                }, 
-                {
                  "gid":840,
                  "height":8,
                  "id":142,
@@ -1804,7 +1788,7 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":3128,
+                 "x":3120,
                  "y":1296
                 }, 
                 {
@@ -1943,6 +1927,40 @@
                  "width":8,
                  "x":3240,
                  "y":1440
+                }, 
+                {
+                 "height":8,
+                 "id":146,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"webber",
+                     "seed":"18",
+                     "typeName":"vanokkwebmarkwebbs"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":3080,
+                 "y":1232
+                }, 
+                {
+                 "height":8,
+                 "id":147,
+                 "name":"",
+                 "properties":
+                    {
+                     "npc":"webber",
+                     "seed":"18",
+                     "typeName":"vanokkwebtommy"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":2608,
+                 "y":1248
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1951,7 +1969,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":145,
+ "nextobjectid":148,
  "orientation":"orthogonal",
  "properties":
     {
