@@ -9,10 +9,10 @@
   -basic sights",
   "shortdescription" : "Tungsten Handlegun",
   "tooltipKind" : "gun",
-  "category" : "uniqueWeapon",
+  "category" : "handlegun",
   "twoHanded" : true,
   "itemTags" : ["weapon","ranged", "handlegun"],
-  "level" : 3,
+  "level" : 2,
 
   "inventoryIcon" : "webtungsteonhandlegunsmallclip.png",
 
@@ -46,7 +46,7 @@
 
       "fireTime" : 0.109,
       "baseDps" : 15.8,
-      "energyUsage" : 51,
+      "energyUsage" : 57,
       "inaccuracy" : 0.05,
 
       "projectileCount" : 2,

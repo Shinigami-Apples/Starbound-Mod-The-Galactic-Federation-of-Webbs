@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "durasteelbar", "count" : 17 },
+    { "item" : "durasteelbar", "count" : 7 },
     { "item" : "titaniumbar", "count" : 4 },
-    { "item" : "webberspidersilk", "count" : 18 },
+    { "item" : "webberspidersilk", "count" : 16 },
     { "item" : "webbersilkcollectort3", "count" : 1 }
   ],
   "duration" : 8,

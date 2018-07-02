@@ -2,6 +2,6 @@
   "input" : [
     { "item" : "ironbar", "count" : 1 }
   ],
-  "output" : { "item" : "webemptycan", "count" : 5 },
+  "output" : { "item" : "webemptycan", "count" : 10 },
   "groups" : [ "webcanned" ]
 }

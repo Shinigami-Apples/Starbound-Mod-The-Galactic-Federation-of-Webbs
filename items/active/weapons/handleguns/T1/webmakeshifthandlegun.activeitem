@@ -6,10 +6,10 @@
   "description" : "Made to be a strong and steady gun. Lightweight and easy to use. ^yellow;\"It's like a tiny minigun, it's cute but deadly.\" ",
   "shortdescription" : "Makeshift Handlegun",
   "tooltipKind" : "gun",
-  "category" : "uniqueWeapon",
+  "category" : "handlegun",
   "twoHanded" : true,
   "itemTags" : ["weapon","ranged", "handlegun"],
-  "level" : 2,
+  "level" : 1,
 
   "inventoryIcon" : "webmakeshifthandlegun.png",
 
@@ -43,7 +43,7 @@
 
       "fireTime" : 0.11,
       "baseDps" : 9.8,
-      "energyUsage" : 41,
+      "energyUsage" : 64,
       "inaccuracy" : 0.01,
 
       "projectileCount" : 2,
