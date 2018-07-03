@@ -45,7 +45,7 @@
             "leapState" : "jump",
             "fallState" : "fall",
 
-            "winddownTime" : 1
+            "winddownTime" : 0
           }
         }
       ],
@@ -98,11 +98,11 @@
 
     "touchDamage" : {
       "poly" : [ [0.575, 1.0], [0.875, 0.7], [0.875, -0.7], [0.575, -1.0], [-0.575, -1.0], [-0.875, -0.7], [-0.875, 0.7], [-0.575, 1.0] ],
-      "damage" : 7,
+      "damage" : 1,
 
       "teamType" : "enemy",
       "damageSourceKind" : "slash",
-      "knockback" : 5,
+      "knockback" : 2,
       "statusEffects" : [ ]
     },
 
@@ -112,9 +112,9 @@
     "movementSettings" : {
       "collisionPoly" : [ [0.575, 1.0], [0.875, 0.7], [0.875, -0.7], [0.575, -1.0], [-0.575, -1.0], [-0.875, -0.7], [-0.875, 0.7], [-0.575, 1.0] ],
 
-      "mass" : 1.0,
-      "walkSpeed" : 9,
-      "runSpeed" : 20,
+      "mass" : 0.8,
+      "walkSpeed" : 20,
+      "runSpeed" : 40,
 
       "airFriction" : 0,
 
@@ -165,13 +165,13 @@
           "baseValue" : 0.3
         },
         "powerMultiplier" : {
-          "baseValue" : 0.9
+          "baseValue" : 0.6
         },
         "physicalResistance" : {
-          "baseValue" : 0.0
+          "baseValue" : 0.1
         },
         "fireResistance" : {
-          "baseValue" : 0.0
+          "baseValue" : 0.2
         },
         "fireStatusImmunity" : {
           "baseValue" : 0.0
@@ -195,7 +195,7 @@
           "baseValue" : 0.0
         },
         "insanityImmunity" : {
-          "baseValue" : 1.0
+          "baseValue" : 0.0
         },
         "biooozeImmunity" : {
           "baseValue" : 0.0
@@ -225,7 +225,7 @@
     },
 
     "mouthOffset" : [0, 0],
-    "feetOffset" : [0, -8],
+    "feetOffset" : [0, 4],
     "capturable" : false,
     "nametagColor" : [64, 200, 255]
   }

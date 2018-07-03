@@ -7,16 +7,17 @@
         "states" : {
           "idle" : {
             "frames" : 4,
-            "cycle" : 0.25
+            "cycle" : 0.55,
+            "mode" : "loop"
           },
           "walk" : {
             "frames" : 4,
-            "cycle" : 0.15,
+            "cycle" : 0.55,
             "mode" : "loop"
           },
           "jump" : {
             "frames" : 2,
-            "cycle" : 0.25,
+            "cycle" : 0.45,
             "mode" : "transition",
             "transition" : "jumploop",
             "properties" : {
@@ -34,16 +35,16 @@
           },
           "jumploop" : {
             "frames" : 1,
-            "cycle" : 0.16,
+            "cycle" : 1.0,
             "mode" : "loop"
           },
           "fall" : {
             "frames" : 1,
-            "cycle" : 1.0
+            "cycle" : 0.1
           },
           "leapwinddown" : {
             "frames" : 4,
-            "cycle" : 0.25,
+            "cycle" : 0.95,
             "mode" : "loop"
           }
         }

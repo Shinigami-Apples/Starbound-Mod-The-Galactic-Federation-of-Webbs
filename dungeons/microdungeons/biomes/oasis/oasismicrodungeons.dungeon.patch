@@ -1,0 +1,20 @@
+[
+{
+  "op": "add",
+  "path": "/metadata/anchor/-",
+  "value":
+	 "webmonolith1"
+},
+{
+  "op": "add",
+  "path": "/parts/-",
+  "value":
+    {
+      "name" : "webmonolith1",
+      "rules" : [
+        [ "maxSpawnCount", [2] ]
+      ],
+      "def" : [ "tmx", "webmonolith1.json" ]
+    }
+}
+]
