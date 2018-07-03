@@ -7,14 +7,15 @@
       [ null, "idle.1", "idle.2", "idle.3", "idle.4" ],
       [ null, "jump.1", "jump.2", "hurt.1", null],
       [ null, "landloop.1", "land.1", null, null ],
-      [ null, "run.1", "run.2", "run.3", "run.4" ]
+      [ null, "walk.1", "walk.2", "walk.3", "walk.4" ]
     ]
-  },
- "aliases": {
+  }
+/* "aliases": {
     "idle" : "idle.1",
     "jump" : "jump.1",
+    "landloop" : "landloop.1",
     "land" : "land.1",
     "hurt" : "hurt.1",
-    "run" : "run.1"
-  }
+    "walk" : "walk.1"
+  }*/
 }

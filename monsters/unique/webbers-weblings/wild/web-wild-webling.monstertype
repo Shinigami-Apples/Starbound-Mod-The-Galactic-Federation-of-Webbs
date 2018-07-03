@@ -3,7 +3,7 @@
   "shortdescription" : "Wild Webling",
   "description" : "It's an extremely hostile (for it's age) webling that wants to eat your face off.",
 
-  "categories" : [ "wildwebling" ],
+  "categories" : [ "webwildwebling" ],
   "parts" : [ "body" ],
 
   "animation" : "web-wild-webling.animation",
@@ -43,7 +43,7 @@
             "collisionCheck" : true,
             "highArc" : true,
             "leapState" : "jump",
-            "fallState" : "land",
+            "fallState" : "fall",
 
             "winddownTime" : 1
           }
