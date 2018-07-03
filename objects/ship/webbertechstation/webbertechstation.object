@@ -11,13 +11,13 @@
   "shortdescription" : "S.A.I.L",
   "race" : "webber",
   "apexDescription" : "Should I update this SAIL?",
-  "avianDescription" : "That is one ugly spider, and I thought I've I've seen worse.",
+  "avianDescription" : "That is one ugly spiderthing, and I thought I've I've seen worse.",
   "floranDescription" : "Floran doessn't like sstrange ssix-legged arachnid.",
   "glitchDescription" : "Dissapointed, it's outdated so far that I can't use it.",
   "humanDescription" : "I have arachnophobia, and this SAIL is not helping with that.",
   "hylotlDescription" : "I don't see any beauty in this SAIL.",
   "novakidDescription" : "This SAIL system is far beyond dated.",
-  "webberDescription" : "It's mommy-longlegs!",
+  "webberDescription" : "It's Viviana!",
   "inventoryIcon" : "webbertechstationicon.png",
   "orientations" : [
     {
@@ -32,12 +32,15 @@
   "offeredQuests" : [ "gaterepair" ],
   "animation" : "/objects/ship/techstation.animation",
   "scripts" : [
-    "/objects/spawner/techstation.lua"
+    "/objects/spawner/techstation.lua",
+    "/stagehands/radiomessage.lua"
   ],
   "scriptDelta" : 20,
-  "shipPetType" : "petbunny",
+  "shipPetType" : "petskutzer",
   "spawnOffset" : [2, -1],
   "chatPortrait" : "/ai/portraits/webberportrait.png:yell.1",
+  "broadcastArea" : [-5, -5, 5, 5],
+  "radioMessages" : ["latemessage1", "latemessage1a", "latemessage1b", "latemessage1c", "latemessage1d", "latemessage1e", "latemessage1f", "latemessage1g", "latemessage1h"],
   "dialog" : {
     "wakeUp" : [
       [ "Rebooting...", "/ai/portraits/webberportrait.png:unique.1" ],

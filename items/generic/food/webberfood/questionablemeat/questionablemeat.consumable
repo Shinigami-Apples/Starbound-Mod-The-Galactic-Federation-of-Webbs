@@ -19,7 +19,7 @@
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 5,
   "itemAgingScripts" : ["/scripts/items/rotting.lua"],
-  "rottingMultiplier" : 0.3,
+  "rottingMultiplier" : 0.2,
   "blockingEffects" : [
     "wellfed"
   ]
