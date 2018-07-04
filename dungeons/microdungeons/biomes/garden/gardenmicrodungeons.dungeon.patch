@@ -13,6 +13,24 @@
 },
 {
   "op": "add",
+  "path": "/metadata/anchor/-",
+  "value":
+	 "webmonolith1"
+},
+{
+  "op": "add",
+  "path": "/parts/-",
+  "value":
+    {
+      "name" : "webmonolith1",
+      "rules" : [
+        [ "maxSpawnCount", [2] ]
+      ],
+      "def" : [ "tmx", "monolith1.json" ]
+    }
+},
+{
+  "op": "add",
   "path": "/parts/-",
   "value":
     {

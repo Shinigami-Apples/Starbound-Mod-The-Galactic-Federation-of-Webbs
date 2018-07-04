@@ -14,7 +14,7 @@
       "rules" : [
         [ "maxSpawnCount", [2] ]
       ],
-      "def" : [ "tmx", "webmonolith1.json" ]
+      "def" : [ "tmx", "monolith1.json" ]
     }
 }
 ]
