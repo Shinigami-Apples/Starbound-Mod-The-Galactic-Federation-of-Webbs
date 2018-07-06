@@ -1,0 +1,36 @@
+{
+  "objectName" : "webbercabinet",
+  "colonyTags" : [ "webber", "storage" ],
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A dusty old cabinet. There are spider webs inside.",
+  "shortdescription" : "Webbed Cabinet",
+  "race" : "generic",
+  "category" : "storage",
+  "health" : 1.5,
+
+  "inventoryIcon" : "webbercabineticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "webbercabinet.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 24,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

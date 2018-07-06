@@ -1,0 +1,32 @@
+{
+  "objectName" : "webbercushionlarge",
+  "colonyTags" : [ "webber" ],
+  "rarity" : "Common",
+ 
+  "description" : "A sticky cushion made of webbing.",
+  "shortdescription" : "Large Webbed Cushion",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 18,
+  "printable" : false,
+  "retainObjectParametersInItem" : true,
+  
+  "inventoryIcon" : "webbercushionlargeicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "webbercushionlarge.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitPosition" : [3, 24]
+
+}
