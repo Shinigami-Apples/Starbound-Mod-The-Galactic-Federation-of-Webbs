@@ -8,16 +8,16 @@
 
   "backgroundOverlays" : [
     {
-      "image" : "apexT8.png",
+      "image" : "fiiT8.png",
       "position" : [5.875, 13.5],
       "fullbright" : true
     },
     {
-      "image" : "apexT8lit.png",
+      "image" : "fiiT8lit.png",
       "position" : [5.875, 13.5]
     }
   ],
 
   "blockKey" : "blockKey.config:blockKey",
-  "blockImage" : "apexT8blocks.png"
+  "blockImage" : "fiiT8blocks.png"
 }
