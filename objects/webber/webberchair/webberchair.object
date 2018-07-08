@@ -7,7 +7,8 @@
   "sitFlipDirection" : false,
   "description" : "A wooden chair with a cushion made from spider silk.",
   "shortdescription" : "Webbed Chair",
-  "race" : "generic",
+  "race" : "webber",
+  "price" : 300,
 
   "inventoryIcon" : "webberchairicon.png",
   "orientations" : [
@@ -18,7 +19,7 @@
       "animationCycle" : 0.5,
       "flipImages" : true,
       "direction" : "left",
-      "sitPosition" : [2, 18],
+      "sitPosition" : [2, 22],
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
@@ -29,7 +30,7 @@
       "frames" : 1,
       "animationCycle" : 0.5,
       "direction" : "right",
-      "sitPosition" : [2, 18],
+      "sitPosition" : [2, 22],
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]

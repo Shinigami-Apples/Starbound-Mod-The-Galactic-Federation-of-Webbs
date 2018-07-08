@@ -5,8 +5,9 @@
   "rarity" : "Common",
   "description" : "A soft and slightly sticky spider silk couch.",
   "shortdescription" : "Webbed Couch",
-  "race" : "generic",
+  "race" : "webber",
   "category" : "furniture",
+  "price" : 500,
 
   "objectType" : "loungeable",
   "sitFlipDirection" : false,
@@ -21,8 +22,8 @@
 
       "sitPositions" : [
         // Positions from front to back.
-        [-17, 8], // Right
-        [6, 8] // Left
+        [-6, 20], // Right
+        [6, 20] // Left
       ],
 
       "spaceScan" : 0.1,
@@ -35,8 +36,8 @@
 
       "sitPositions" : [
         // Positions from front to back.
-        [-6, 8], // Left
-        [17, 8] // Right
+        [-4, 20], // Left
+        [8, 20] // Right
       ],
 
       "spaceScan" : 0.1,

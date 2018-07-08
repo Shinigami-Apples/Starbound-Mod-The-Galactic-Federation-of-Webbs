@@ -12,5 +12,19 @@
 			"/ships/webber/webbert7.structure",
 			"/ships/webber/webbert8.structure"
 		]
+	},
+	{ "op" : "add",
+		"path" : "/speciesShips/fii",
+		"value" : [
+		    "/ships/fii/fiiT0.structure",
+			"/ships/fii/fiiT1.structure",
+			"/ships/fii/fiiT2.structure",
+			"/ships/fii/fiiT3.structure",
+			"/ships/fii/fiiT4.structure",
+			"/ships/fii/fiiT5.structure",
+			"/ships/fii/fiiT6.structure",
+			"/ships/fii/fiiT7.structure",
+			"/ships/fii/fiiT8.structure"
+		]
 	}
 ]

@@ -10,6 +10,7 @@
   "race" : "generic",
   "category" : "storage",
   "health" : 1.5,
+  "price" : 300,
 
   "inventoryIcon" : "webbercabineticon.png",
   "orientations" : [
@@ -19,6 +20,20 @@
       "imagePosition" : [-16, 0],
       "frames" : 1,
       "animationCycle" : 1.0,
+      "direction" : "left",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    },
+    {
+      "dualImage" : "webbercabinet.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "direction" : "right",
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ],

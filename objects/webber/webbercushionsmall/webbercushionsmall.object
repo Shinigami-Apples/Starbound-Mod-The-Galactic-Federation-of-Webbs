@@ -3,16 +3,17 @@
   "colonyTags" : [ "webber" ],
   "rarity" : "Common",
   "category" : "furniture",
-  "price" : 11,
+  "price" : 310,
   "printable" : false,
   "description" : "A small cushion made from webbing. Perfect to sit on.",
   "shortdescription" : "Small Webbed Cushion",
   "race" : "generic",
   "retainObjectParametersInItem" : true,
-  
+
   "objectType" : "loungeable",
-  "sitFlipDirection" : true,
-  "sitPosition" : [8, 7],
+  "sitFlipDirection" : false,
+  "sitOrientation" : "lay",
+  "sitAngle" : 80,
 
   "inventoryIcon" : "webbercushionsmallicon.png",
   "orientations" : [
@@ -21,6 +22,20 @@
       "imagePosition" : [-8, 0],
       "frames" : 1,
       "animationCycle" : 0.5,
+      "direction" : "right",
+      "sitPosition" : [8, 5],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    },
+    {
+      "dualImage" : "webbercushionsmall.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "direction" : "left",
+      "sitPosition" : [8, 5],
 
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]

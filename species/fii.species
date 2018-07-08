@@ -1,0 +1,111 @@
+{
+  "kind" : "fii",
+	"charCreationTooltip" : {
+	"title" : "FII",
+	"subTitle" : "O2",
+	"description" : "The Fii are strange plant-based creatures with mouth for a pupil. Created via accidental cross-contamination, the Fii are a relatively calm race, tiny but with great resistance to extreme conditions of space."
+  },
+  "humanoidConfig" : "/species/fiibody.config",
+  "nameGen" : [ "/species/webbermalenamegen.config:names", "/species/webbermalenamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/fii-hurt.ogg", "/sfx/humanoid/fii-hurt.ogg"],
+  "charGenTextLabels" : [ "None", "None", "None", "None", "None", "None", "None", "None", "FII", "Personality" ],
+  "skull" : "/humanoid/fii/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
+  "defaultBlueprints" : {
+    "tier1" : [
+
+      // Empty Hands
+          { "item" : "flaghuman" },
+
+      //Anvil1
+            { "item" : "humantier1head" },
+            { "item" : "humantier1chest" },
+            { "item" : "humantier1pants" },
+            { "item" : "humantier2head" },
+            { "item" : "humantier2chest" },
+            { "item" : "humantier2pants" },
+            { "item" : "webbersword" },
+            { "item" : "ironshortsword" },
+            { "item" : "ironbroadsword" },
+            { "item" : "tungstenaxe" },
+            { "item" : "tungstenhammer" },
+      // Anvil2
+            { "item" : "humantier3head" },
+            { "item" : "humantier3chest" },
+            { "item" : "humantier3pants" },
+            { "item" : "humantier4head" },
+            { "item" : "humantier4chest" },
+            { "item" : "humantier4pants" },
+            { "item" : "titaniumdagger" },
+            { "item" : "titaniumspear" },
+            { "item" : "durasteelbroadsword" },
+            { "item" : "durasteelshortsword" },
+      // Anvil3
+            { "item" : "humantier5ahead" },
+            { "item" : "humantier5achest" },
+            { "item" : "humantier5apants" },
+            { "item" : "humantier6ahead" },
+            { "item" : "humantier6achest" },
+            { "item" : "humantier6apants" },
+            { "item" : "humantier5mhead" },
+            { "item" : "humantier5mchest" },
+            { "item" : "humantier5mpants" },
+            { "item" : "humantier6mhead" },
+            { "item" : "humantier6mchest" },
+            { "item" : "humantier6mpants" },
+            { "item" : "humantier5shead" },
+            { "item" : "humantier5schest" },
+            { "item" : "humantier5spants" },
+            { "item" : "humantier6shead" },
+            { "item" : "humantier6schest" },
+            { "item" : "humantier6spants" },
+            { "item" : "aegisaltpistol" },
+            { "item" : "aegisaltbow" },
+            { "item" : "feroziumwand" },
+            { "item" : "feroziumstaff" },
+            { "item" : "violiumshortsword" },
+            { "item" : "violiumbroadsword" }
+	  ]
+  },
+
+  "genders" : [
+    {
+      "name" : "male",
+      "image" : "/interface/title/fiineutralicon.png",
+      "characterImage" : "/interface/title/fiineutral.png",
+      "hair" : [ "male1" ],
+      "head" : [ "gfowinvisiblehead" ],
+      "shirt" : [ "gfowinvisiblechest" ],
+      "pants" : [ "gfowinvisiblelegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/fiineutralicon.png",
+      "characterImage" : "/interface/title/fiineutral.png",
+      "hair" : [ "male1" ],
+      "head" : [ "gfowinvisiblehead" ],
+      "shirt" : [ "gfowinvisiblechest" ],
+      "pants" : [ "gfowinvisiblelegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  "bodyColor" : [
+    //literally nothing.
+    { "000000" : "000000"}
+  ],
+  "undyColor" : [
+    //literally nothing.
+    { "000000" : "000000"}
+  ],
+  "hairColor" : [
+    //literally nothing.
+    { "000000" : "000000"}
+  ]
+}
