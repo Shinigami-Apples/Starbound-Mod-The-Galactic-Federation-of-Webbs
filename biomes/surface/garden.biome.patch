@@ -1,0 +1,45 @@
+[
+  //microdungeons
+  { "op" : "add",
+    "path" : "/surfacePlaceables/items/-",
+    "value" : {
+      "mode" : "floor",
+      "priority" : 1.0,
+      "variants" : 1,
+      "distribution" : "/biomes/gfow-distributions.config:gfowmonolith-microdungeonuncommon",
+  "type" : "microdungeon",
+  "microdungeons" : [ "primitivewebberhouseclassic" ]
+    }
+  },
+  { "op" : "add",
+    "path" : "/surfacePlaceables/items/-",
+    "value" : {
+      "mode" : "floor",
+      "priority" : 1.0,
+      "variants" : 1,
+      "distribution" : "/biomes/gfow-distributions.config:gfowmonolith-microdungeonrare",
+  "type" : "microdungeon",
+  "microdungeons" : [ "webbermonoliths" ]
+    }
+  },
+  //add wild crops
+  { "op" : "add",
+	  "path" : "/surfacePlaceables/items/-",
+	  "value" : {
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:surfaceCrops",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [ [1, "wildstrawberry" ] ],
+            "parameters" : {
+              "startingStage" : 7
+            }
+          }
+        ]
+      }
+    }
+]

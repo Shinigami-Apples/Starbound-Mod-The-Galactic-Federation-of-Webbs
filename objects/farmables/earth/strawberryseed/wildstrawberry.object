@@ -1,5 +1,5 @@
 {
-  "objectName" : "webstrawberryseed",
+  "objectName" : "webwildstrawberry",
   "colonyTags" : ["nature", "farmer"],
   "rarity" : "Common",
   "category" : "seed",
@@ -8,6 +8,7 @@
   "objectType" : "farmable",
   "printable" : false,
   "price" : 15,
+  "hasObjectItem" : false,
 
   "apexDescription" : "From my research, strawberries contain important chemicals for medicine.",
   "avianDescription" : "Look! They have tiny little seeds on the outside!",
@@ -33,7 +34,7 @@
       "animationCycle" : 0.5,
 
       "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1] ],
-      "requireTilledAnchors" : true,
+      "requireTilledAnchors" : false,
       "anchors" : [ "bottom" ]
 
     }
@@ -69,6 +70,10 @@
       "resetToStage" : 5
     }
   ],
+  "breakDropOptions" : [
+    [ [ "strawberryseed", 1, { } ] ]
+],
 
-  "maxImmersion" : 0.125
+  "maxImmersion" : 0.125,
+  "consumeSoilMoisture" : false
 }
