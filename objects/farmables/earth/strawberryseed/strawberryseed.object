@@ -63,7 +63,7 @@
     {
       "alts" : 1,
       "harvestPool" : "webstrawberryHarvest", //7
-      "resetToStage" : 5
+      "resetToStage" : 4
     }
   ],
 

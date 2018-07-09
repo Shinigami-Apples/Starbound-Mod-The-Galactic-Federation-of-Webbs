@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "webstrawberry", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "webstrawberryseed",
+    "count" : 1
+  },
+  "groups" : [ "plain", "all" ]
+}

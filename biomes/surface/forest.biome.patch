@@ -34,9 +34,9 @@
         "type" : "object",
         "objectSets" : [
           {
-            "pool" : [ [1, "wildstrawberry" ] ],
+            "pool" : [ [1, "webwildstrawberry" ] ],
             "parameters" : {
-              "startingStage" : 7
+              "startingStage" : 5
             }
           }
         ]

@@ -7,8 +7,7 @@
 		  {"item" : "webstrawberryseed"}
 		],
 		"pool" : [
-		  {"weight" : 0.89, "item" : "webstrawberry"},
-		  {"weight" : 0.01, "item" : "webstrawberryseed"},
+		  {"weight" : 0.90, "item" : "webstrawberry"},
 		  {"weight" : 0.1, "item" : "plantfibre"}
 		],
 		"poolRounds" : [

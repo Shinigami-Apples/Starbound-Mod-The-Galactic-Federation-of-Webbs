@@ -67,11 +67,11 @@
     {
       "alts" : 1,
       "harvestPool" : "webstrawberryHarvest",
-      "resetToStage" : 5
+      "resetToStage" : 4
     }
   ],
   "breakDropOptions" : [
-    [ [ "strawberryseed", 1, { } ] ]
+    [ [ "webstrawberryseed", 1, { } ] ]
 ],
 
   "maxImmersion" : 0.125,
