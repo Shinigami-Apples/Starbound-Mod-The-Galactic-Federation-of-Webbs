@@ -61,11 +61,8 @@
       "duration" : [180, 240] //6
     },
     {
-      "duration" : [500, 600] //7
-    },
-    {
       "alts" : 1,
-      "harvestPool" : "webstrawberryHarvest",
+      "harvestPool" : "webstrawberryHarvest", //7
       "resetToStage" : 5
     }
   ],
