@@ -7,11 +7,12 @@
   "inventoryIcon" : "eggonaleggo.png",
   "description" : "EGGO MY LEGGO, AM I RIGHT?",
   "shortdescription" : "Egg on a Lego Brick",
-  "effects" : [ {
-    "effect" : "badtaste",
-    "duration" : 90
+  "effects" : [ [
+    {
+      "effect" : "badtaste",
+      "duration" : 90
     }
-  ],
+  ] ],
   "foodValue" : 15,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",

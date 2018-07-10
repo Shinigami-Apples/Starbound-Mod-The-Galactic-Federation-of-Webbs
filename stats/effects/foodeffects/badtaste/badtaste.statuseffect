@@ -5,7 +5,7 @@
   "effectConfig" : {
   },
 
-  "defaultDurration" : 30,
+  "defaultDuration" : 30,
 	"scriptDelta" : 0,
 
   "scripts" : [

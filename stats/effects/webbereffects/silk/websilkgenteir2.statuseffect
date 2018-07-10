@@ -10,7 +10,7 @@
     "foodDelta" : 1 //1 = no drain
   },
 
-  "defaultDurration" : 1,
+  "defaultDuration" : 1,
 	"scriptDelta" : 0,
 
   "scripts" : [

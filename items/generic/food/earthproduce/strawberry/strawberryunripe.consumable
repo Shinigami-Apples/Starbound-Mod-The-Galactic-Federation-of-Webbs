@@ -1,17 +1,18 @@
-
 {
   "itemName" : "webstrawberryunripe",
   "rarity" : "Common",
   "price" : 5,
   "category" : "food",
+  "eventCategory" : "eventCrop",
   "inventoryIcon" : "strawberryunripe.png",
   "description" : "There's no way this'll sell on the market, but they still have use. Maybe.",
   "shortdescription" : "Unripe Strawberry",
-  "effects" : [ {
-    "effect" : "badtaste",
-    "duration" : 50
+  "effects" : [ [
+    {
+      "effect" : "badtaste",
+      "duration" : 50
     }
-  ],
+  ] ],
   "foodValue" : 3,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
