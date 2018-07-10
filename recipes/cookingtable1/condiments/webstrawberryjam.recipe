@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "webstrawberry", "count" : 11 },
+    { "item" : "sugar", "count" : 1 }
+  ],
+  "output" : { "item" : "webstrawberryjam", "count" : 1 },
+  "groups" : [ "craftingfood", "condiments" ]
+}

@@ -19,7 +19,9 @@
   "humanDescription" : "What a way to broadcast your identity.",
   "hylotlDescription" : "I believe that this flag can still be used as a teleportation marker",
   "novakidDescription" : "Looks like somethin' likes it's own face to be posted for all to see.",
-  "webberDescription" : "It's my very own flag! We can use this to teleport back to this exact spot!",
+  "webberDescription" : "It's a flag! We can use this to teleport back to this exact spot!",
+  "fiiDescription" : "Click click, this would be only just one of their many mutations.",
+
   "interactAction" : "OpenTeleportDialog",
   "interactData" : "/interface/warping/destinationonly.config",
   "inventoryIcon" : "flagwebbericon.png",

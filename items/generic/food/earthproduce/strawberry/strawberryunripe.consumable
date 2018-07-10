@@ -1,0 +1,24 @@
+
+{
+  "itemName" : "webstrawberryunripe",
+  "rarity" : "Common",
+  "price" : 5,
+  "category" : "food",
+  "inventoryIcon" : "strawberryunripe.png",
+  "description" : "There's no way this'll sell on the market, but they still have use. Maybe.",
+  "shortdescription" : "Unripe Strawberry",
+  "effects" : [ {
+    "effect" : "badtaste",
+    "duration" : 50
+    }
+  ],
+  "foodValue" : 3,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 5,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 0.7,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

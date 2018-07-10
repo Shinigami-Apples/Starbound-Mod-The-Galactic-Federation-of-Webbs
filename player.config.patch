@@ -1,6 +1,8 @@
 [
   //regular food
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "webfriedegg" } },
+  //seeds
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "webstrawberryseed" } },
   //Vanokkian food
   //  -nothing here right now lol
   //canned food

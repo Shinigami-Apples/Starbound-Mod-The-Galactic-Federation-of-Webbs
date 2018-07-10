@@ -58,7 +58,10 @@
       "duration" : [140, 180] //5
     },
     {
-      "duration" : [180, 240] //6
+      "duration" : [180, 240], //6
+      "alts" : 1,
+      "harvestPool" : "webstrawberryunripeHarvest",
+      "resetToStage" : 4
     },
     {
       "alts" : 1,

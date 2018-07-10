@@ -32,6 +32,7 @@
   "hylotlDescription" : "Webbers can weave, but I'm also surprised to learn that they also value crafting their own custom weapons.",
   "novakidDescription" : "Ah, some part-by-part weapon assembling sounds exciting!",
   "webberDescription" : "We can make customized weapons here! All we need to do is make some parts and put them together! Factory-made weapons are so overrated.",
+  "fiiDescription" : "Click click, Blackwalli-related spdierthings build weapons part-by-part.",
 
   "inventoryIcon" : "webberweaponworkbenchicon.png",
   "orientations" : [

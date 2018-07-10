@@ -2,10 +2,10 @@
 {
   "itemName" : "webstrawberry",
   "rarity" : "Common",
-  "price" : 0,
+  "price" : 10,
   "category" : "preparedFood",
   "inventoryIcon" : "strawberry.png",
-  "description" : ".",
+  "description" : "Hydrating and sweet. Makes deserts healthy[ier]!",
   "shortdescription" : "Strawberry",
   //"effects" : [ ],
   "foodValue" : 3,
@@ -16,5 +16,6 @@
   "rottingMultiplier" : 0.9,
   "blockingEffects" : [
     "wellfed"
-  ]
+  ],
+  "learnBlueprintsOnPickup" : [ "webstrawberryjam" ]
 }

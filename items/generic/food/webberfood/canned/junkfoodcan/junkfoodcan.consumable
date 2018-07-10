@@ -11,6 +11,10 @@
     {
         "effect" : "webbermeat",
         "duration" : 120
+    },
+    {
+        "effect" : "badtaste",
+        "duration" : 60
     }
   ] ],
   "learnBlueprintsOnPickup" : [ "webjunkfoodinacanimproved" ],

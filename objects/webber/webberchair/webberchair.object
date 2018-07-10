@@ -10,6 +10,17 @@
   "race" : "webber",
   "price" : 300,
 
+  "apexDescription" : "Sitting on this chair would be an insane thing to do.",
+  "avianDescription" : "I sat on these kinds of cushions once. I've lost too many feathers trying to get off of them.",
+  "floranDescription" : "Floran would not dare.",
+  "glitchDescription" : "Disgusted. Learned this the hard way before. Silk sticks to metal, even.",
+  "humanDescription" : "I'd totally sit on this for a hundred pixels. I'd seriously do it.",
+  "hylotlDescription" : "Smells a bit vile. The scent is strong, so this must be a lot of webber silk.",
+  "novakidDescription" : "Ain't gonna sit on this chair. Not ever.",
+
+  "webberDescription" : "Nothing ever beats the comfort of real silk.",
+  "fiiDescription" : "Click, chair has cushion made of spiderthing silk.",
+
   "inventoryIcon" : "webberchairicon.png",
   "orientations" : [
     {

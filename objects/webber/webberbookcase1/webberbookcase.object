@@ -20,6 +20,7 @@
   "hylotlDescription" : "I wonder why webbers prefer to place silk on their furnture. Is it a sign of ownership?",
   "novakidDescription" : "It'sa bookcase. I wonder what the books in it are about.",
   "webberDescription" : "I might just take a break and read a book. We haven't read anything in a long time.",
+  "fiiDescription" : "Click click, bookcases store books. Click, this also stores webbing.",
 
   "openSounds" : [ "/sfx/objects/bookcase_open.ogg" ],
   "closeSounds" : [ "/sfx/objects/bookcase_close.ogg" ],
