@@ -64,6 +64,11 @@
       { "item" : "webbersilkdoor1" },
       { "item" : "webberbookcase1" },
       { "item" : "webberbed" },
+      { "item" : "webberchair" },
+      { "item" : "webbercouch" },
+      { "item" : "webbercushionlarge" },
+      { "item" : "webbercushionsmall" },
+      { "item" : "webbercabinet" },
       // Furniture Table 2
       { "item" : "webberstoragelocker" },
       { "item" : "webbershipdoor" },
@@ -147,19 +152,21 @@
   "bodyColor" : [
     //After "222222", the colors THEN apply to the eyes.
     //After pure white (#ffffff), stripe colors.
-    //Normal fur (Black) and normal eyes
+    //Common
     { "1a1a1a" : "1a1a1a", "171717" : "171717", "121212" : "121212", "101010" : "101010", "222222" : "222222", "ededed" : "ededed", "ffffff" : "ffffff", "00d9d1" : "121212", "00fff6" : "171717", "00dc24" : "171717", "2b943c" : "121212" },
-    //Normal fur (Black) and yellow eyes
+    //Sun-eyed
     { "1a1a1a" : "1a1a1a", "171717" : "171717", "121212" : "121212", "101010" : "101010", "222222" : "222222", "ededed" : "ede73d", "ffffff" : "efec9a", "00d9d1" : "121212", "00fff6" : "171717", "00dc24" : "171717", "2b943c" : "121212" },
-    //Normal fur (Black) and purple eyes
+    //Nightshade
     { "1a1a1a" : "1a1a1a", "171717" : "171717", "121212" : "121212", "101010" : "101010", "222222" : "222222", "ededed" : "7627a4", "ffffff" : "a95bd5", "00d9d1" : "121212", "00fff6" : "171717", "00dc24" : "171717", "2b943c" : "121212" },
-    //White fur, red eyes
+    //Cherry-eyed
+    { "1a1a1a" : "1a1a1a", "171717" : "171717", "121212" : "121212", "101010" : "101010", "222222" : "222222", "ededed" : "700505", "ffffff" : "cf5a5a", "00d9d1" : "121212", "00fff6" : "171717", "00dc24" : "171717", "2b943c" : "121212" },
+    //Albino
     { "1a1a1a" : "efefef", "171717" : "e7e7e7", "121212" : "d0d0d0", "101010" : "bcbcbc", "222222" : "c1c1c1", "ededed" : "f15252", "ffffff" : "f69898", "00d9d1" : "d0d0d0", "00fff6" : "e7e7e7", "00dc24" : "e7e7e7", "2b943c" : "d0d0d0" },
-    //Yellow fur, white eyes
+    //Warrior
     { "1a1a1a" : "1a1a1a", "171717" : "171717", "121212" : "121212", "101010" : "101010", "222222" : "222222", "ededed" : "ededed", "ffffff" : "ffffff", "00d9d1" : "c8c455", "00fff6" : "e1dd63", "00dc24" : "171717", "2b943c" : "121212" },
-        //Poison
+    //Poison
     { "1a1a1a" : "d5eaa2", "171717" : "e1dd63", "121212" : "d4d065", "101010" : "c8c455", "222222" : "c1de7c", "ededed" : "ededed", "ffffff" : "ffffff", "00d9d1" : "c8c455", "00fff6" : "e1dd63", "00dc24" : "00dc24", "2b943c" : "2b943c" },
-    //White fur, grey markings, blue eyes
+    //Arctic
     { "1a1a1a" : "969696", "171717" : "e7e7e7", "121212" : "d0d0d0", "101010" : "bcbcbc", "222222" : "c1c1c1", "ededed" : "9fcee3", "ffffff" : "ffffff", "00d9d1" : "d0d0d0", "00fff6" : "e7e7e7", "00dc24" : "e7e7e7", "2b943c" : "d0d0d0" }
   ],
   "undyColor" : [
