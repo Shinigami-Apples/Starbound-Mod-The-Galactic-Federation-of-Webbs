@@ -167,7 +167,9 @@
     //Poison
     { "1a1a1a" : "d5eaa2", "171717" : "e1dd63", "121212" : "d4d065", "101010" : "c8c455", "222222" : "c1de7c", "ededed" : "ededed", "ffffff" : "ffffff", "00d9d1" : "c8c455", "00fff6" : "e1dd63", "00dc24" : "00dc24", "2b943c" : "2b943c" },
     //Arctic
-    { "1a1a1a" : "969696", "171717" : "e7e7e7", "121212" : "d0d0d0", "101010" : "bcbcbc", "222222" : "c1c1c1", "ededed" : "9fcee3", "ffffff" : "ffffff", "00d9d1" : "d0d0d0", "00fff6" : "e7e7e7", "00dc24" : "e7e7e7", "2b943c" : "d0d0d0" }
+    { "1a1a1a" : "969696", "171717" : "e7e7e7", "121212" : "d0d0d0", "101010" : "bcbcbc", "222222" : "c1c1c1", "ededed" : "9fcee3", "ffffff" : "ffffff", "00d9d1" : "d0d0d0", "00fff6" : "e7e7e7", "00dc24" : "e7e7e7", "2b943c" : "d0d0d0" },
+    //Sulfuric
+    { "1a1a1a" : "ffffa7", "171717" : "e2c344", "121212" : "6f6300", "101010" : "aea133", "222222" : "ffffdd", "ededed" : "ededed", "ffffff" : "ffffff", "00d9d1" : "6f6300", "00fff6" : "aea133", "00dc24" : "e2c344", "2b943c" : "6f6300" }
   ],
   "undyColor" : [
     //literally nothing.
