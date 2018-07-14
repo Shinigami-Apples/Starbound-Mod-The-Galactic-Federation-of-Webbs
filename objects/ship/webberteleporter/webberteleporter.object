@@ -19,6 +19,7 @@
   "flickerDistance" : 0.2,
   "flickerStrength" : 0.05,
   "flickerTiming" : 4,
+
   "particleEmitter" : {
     "emissionRate" : 3,
     "emissionVariance" : 0.5,
