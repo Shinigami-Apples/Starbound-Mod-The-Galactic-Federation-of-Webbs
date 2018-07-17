@@ -13,7 +13,9 @@
   "humanDescription" : "I don't like the vibes this teleporter gives off.",
   "hylotlDescription" : "This is too oudated for me to even want to teleport to or from it.",
   "novakidDescription" : "I wouldn't even use this teleporter, even if I was was bet a million pixels to do so.",
-  "webberDescription" : "This teleporter is super useful! Newer teleporters are scarry and we don't really like them.",
+
+  "webberDescription" : "The teleporter, a vital tool for exploration.",
+
   "category" : "light",
   "lightColor" : [99, 132, 153],
   "flickerDistance" : 0.2,

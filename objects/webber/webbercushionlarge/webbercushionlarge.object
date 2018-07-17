@@ -22,6 +22,16 @@
   "webberDescription" : "Nothing ever beats the comfort of real silk.",
   "fiiDescription" : "Click, it's a cushion made of spiderthing silk.",
 
+  "neonguetDescription" : "One day, this cusion will loose it's sticky properties.",
+  "sharakoDescription" : "This is a great source of webber silk. This should prove useful in the lab.",
+
+  //ERM support
+
+  "aegiDescription" : "TODO",
+  "avikanDescription" : "TODO",
+  "trinkDescription" : "TODO",
+  "drodenDescription" : "TODO",
+
   "objectType" : "loungeable",
   "sitFlipDirection" : true,
   "sitOrientation" : "lay",

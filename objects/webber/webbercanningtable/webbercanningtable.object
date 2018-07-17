@@ -1,6 +1,6 @@
 {
   "objectName" : "webbercanningtable",
-  "colonyTags" : [ "webber", "cooking", "foodfactory" ],
+  "colonyTags" : [ "webber", "foodfactory" ],
   "rarity" : "Essential",
   "interactAction" : "OpenCraftingInterface",
   "interactData" : {
@@ -31,8 +31,19 @@
   "humanDescription" : "The supermarkets back on Earth sold canned food. Perhaps I could can my own food here.",
   "hylotlDescription" : "It seems redundant to hide the beauty of a meal.",
   "novakidDescription" : "Hey, this might be somethin' I'd have to know about!",
+
   "webberDescription" : "We can preserve produce by canning on this table. It may not be perfect, but it still works wonders.",
   "fiiDescription" : "Click-clack, produce is saved from rot by canning processes.",
+
+  "neonguetDescription" : "Canning food ruins the flavor. I don't need to can it anyway.",
+  "sharakoDescription" : "Produce is meant to be refridgerated, not placed into a metal container and forgtten about.",
+
+  //ERM support
+
+  "aegiDescription" : "Canning food isn't efficient, but seems to be effective.",
+  "avikanDescription" : "TODO",
+  "trinkDescription" : "TODO",
+  "drodenDescription" : "TODO",
 
   "inventoryIcon" : "webbercanningtableicon.png",
   "orientations" : [

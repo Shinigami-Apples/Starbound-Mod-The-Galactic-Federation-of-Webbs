@@ -10,7 +10,7 @@
   "race" : "webber",
   "price" : 300,
 
-  "apexDescription" : "Sitting on this chair would be an insane thing to do.",
+  "apexDescription" : "This proves my hypothesis that webbers are too heavy for simple cushions, yet they still use the cushions they've squished. Must be the sign of proud ownership, perhaps?",
   "avianDescription" : "I sat on these kinds of cushions once. I've lost too many feathers trying to get off of them.",
   "floranDescription" : "Floran would not dare.",
   "glitchDescription" : "Disgusted. Learned this the hard way before. Silk sticks to metal, even.",
@@ -20,6 +20,16 @@
 
   "webberDescription" : "Nothing ever beats the comfort of real silk.",
   "fiiDescription" : "Click, chair has cushion made of spiderthing silk.",
+
+  "neonguetDescription" : "It's a chair covered in silk. Not much else to say.",
+  "sharakoDescription" : "The cushion on this chair is flattened out from holding so much weight over long periods of time. It's not exactly soft anymore.",
+
+  //ERM support
+
+  "aegiDescription" : "Looks a bit worn out.",
+  "avikanDescription" : "This chair's cushion is still sticking to the chair, despite being worn out.",
+  "trinkDescription" : "This chair has been poorly maintained.",
+  "drodenDescription" : "Report: this chair must be cleaned.",
 
   "inventoryIcon" : "webberchairicon.png",
   "orientations" : [

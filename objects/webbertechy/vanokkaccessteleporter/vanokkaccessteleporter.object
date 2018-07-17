@@ -6,6 +6,7 @@
   "description" : "This teleporter uses some of the most unusual teleportation technology. It's the only known way to hyperbeam in the universe.",
   "shortdescription" : "Vanokkian Teleporter",
   "race" : "webber",
+  
   "apexDescription" : "Vanokkian technology is rather impressive. But so is their habit of making technology using the unsafe power of the atom, too.",
   "avianDescription" : "A good way to loose feathers, almost.",
   "floranDescription" : "Floran would ussse odd teleporter if it looked sssafe.",
@@ -13,8 +14,20 @@
   "humanDescription" : "This teleporter looks fancy! Although I don't it's touchable.",
   "hylotlDescription" : "The lights on this teleporter aren't for show. They must be power generators to teleport with higher energy frequence than natural.",
   "novakidDescription" : "This 'ere is one odd teleporter. Somethin' seems fishy about it's tech.",
+
   "webberDescription" : "This is the only way how we can reach our homeworld once again, but not everyone gets to own a way out of it.",
   "fiiDescription" : "Click click, this is the 4th most powerful teleporter in the universe.",
+
+  "neonguetDescription" : "There's plenty of ways to hyperbream throughout space. This just happens to be the worst way to do so.",
+  "sharakoDescription" : "Webber technology is too unsafe for other species to use reasonably. NEO will have no interest in this hyperbeam teleporter.",
+
+  //ERM support
+
+  "aegiDescription" : "This teleporter breaks 48 security codes. It shouldn't be touched.",
+  "avikanDescription" : "The energy radiating from the teleporter could alone power a star ship. I wonder why it must use so much power.",
+  "trinkDescription" : "Teleportation should not use this much energy.",
+  "drodenDescription" : "Warning. Highly radioactive power source detected.",
+
   "category" : "light",
   "lightColor" : [10, 50, 10],
   "flickerDistance" : 0.2,

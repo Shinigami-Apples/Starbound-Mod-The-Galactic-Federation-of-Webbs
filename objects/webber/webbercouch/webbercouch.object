@@ -20,6 +20,16 @@
   "webberDescription" : "Nothing ever beats the comfort of real silk.",
   "fiiDescription" : "Click, couch has cushions made of spiderthing silk.",
 
+  "neonguetDescription" : "I wonder how webbers themselves can sit on this without getting stuck",
+  "sharakoDescription" : "Odd. This is what they sit and lay on all day. I wonder what that habbit is called.",
+
+  //ERM support
+
+  "aegiDescription" : "Webbers seem to be a lot like our ancestors. Lazy.",
+  "avikanDescription" : "Spider silk is too sticky to be sat on. It's not delicate, though.",
+  "trinkDescription" : "This couch has skillfully weaved spider silk cushions. Nothing else but arachnids can handle this type of silk withouth issues.",
+  "drodenDescription" : "Analysis. The cushions on the couch are made of spider silk and show evidence of long-term use, despite still being dated new. Further investigation requested.",
+
   "objectType" : "loungeable",
   "sitFlipDirection" : false,
 
