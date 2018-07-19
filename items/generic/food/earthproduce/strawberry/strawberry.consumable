@@ -8,10 +8,10 @@
   "description" : "Hydrating and sweet. Makes deserts healthy[ier]!",
   "shortdescription" : "Strawberry",
   //"effects" : [ ],
-  "foodValue" : 3,
+  "foodValue" : 1,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
-  "maxStack" : 5,
+  "maxStack" : 1000,
   "itemAgingScripts" : ["/scripts/items/rotting.lua"],
   "rottingMultiplier" : 0.9,
   "blockingEffects" : [

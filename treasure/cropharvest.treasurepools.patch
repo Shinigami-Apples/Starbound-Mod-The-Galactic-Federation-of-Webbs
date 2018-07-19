@@ -1,5 +1,25 @@
 [
   { "op" : "add",
+	"path" : "/webBreadonHarvest",
+	"value" : [
+	  [0, {
+		"pool" : [
+		  {"weight" : 0.40, "item" : ["webbreadon", 3]},
+      {"weight" : 0.30, "item" : ["webbreadon", 2]},
+      {"weight" : 0.20, "item" : ["webbreadon", 1]},
+      {"weight" : 0.001, "item" : ["webbreadonlorumdiseased", 1]},
+		  {"weight" : 0.1, "item" : ["plantfibre", 1]}
+		],
+		"poolRounds" : [
+		  [0.6, 1],
+		  [0.4, 2]
+		]
+	  } ]
+	]
+},
+
+
+  { "op" : "add",
 	"path" : "/webstrawberryHarvest",
 	"value" : [
 	  [0, {

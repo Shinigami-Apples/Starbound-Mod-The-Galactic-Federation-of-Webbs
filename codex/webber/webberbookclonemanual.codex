@@ -1,19 +1,25 @@
 {
 	"id" : "webberbookclonemanual",
-	"title" : "Manual for clones of the Webber species",
-	"description" : "A bio-factory produced and replicated manual for a species... Of human spiders?",
+	"title" : "Vanokkian Tag",
+	"description" : "This is the tag of a monolith-cloned webber, it MUST be important.",
 	"icon" : "webberlifeformtag.png",
 	"contentPages" : [
     "^yellow;Biological information^white;
 
     ^cyan;Species: webber
+		Gender: Male
     Biological kingdom: Mammalian/Insectoid
     Diet: Omnivore, hypercarnivore
-    Prefered environment(s): Forests.
+    Prefered environment(s): Forests
     Air needed: Oxygen
     Age: Undefinable
     Personality: Unknown
-    Health issues/allergies: Unknown^reset;"
+    Health issues/allergies: Unknown^reset;",
+
+		"^yellow;Location information^white;
+
+		^cyan;Homeworld: Vanokk of the Cirus-X system
+		ID: [REDACTED]^reset;"
 	],
 		"itemConfig" : {
 		"rarity" : "common",

@@ -8,12 +8,13 @@
   "price" : 0,
   "description" : "The door to a building.",
   "shortdescription" : "Breadon World Door",
+  "lightColor" : [40, 40, 40],
 
   "webberDescription" : "A push or a pull on this door works either way. At least that's what other species can't understand.",
-  "fiiDescriptio," : "Click, this is the door to a restaurant.",
+  "fiiDescription" : "Click, this is the door to a restaurant.",
 
   "neonguetDescription" : "Glass doors are popular in webber architcture.",
-  "sharakoDescription" : "This door could use see-through plastics instead of glass, but webbers don't recycle things anymore.",
+  "sharakoDescription" : "This door could use see-through plastics instead of glass.",
 
   //ERM support
 
