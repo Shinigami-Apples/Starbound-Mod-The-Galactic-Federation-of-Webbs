@@ -14,5 +14,7 @@
   { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "webemptycan" } },
   //racial codex
   { "op" : "add", "path" : "/defaultCodexes/webber", "value" : [ "webberbook1", "webberbookclonemanual" ] },
-  { "op" : "add", "path" : "/defaultCodexes/fii", "value" : [ "protectorate1", "protectorate2" ] }
+  { "op" : "add", "path" : "/defaultCodexes/fii", "value" : [ "protectorate1", "protectorate2" ] },
+  { "op" : "add", "path" : "/defaultCodexes/candavaswebber", "value" : [ "protectorate1", "protectorate2" ] }
+
 ]

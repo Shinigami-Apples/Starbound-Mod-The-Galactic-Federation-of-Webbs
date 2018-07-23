@@ -26,5 +26,19 @@
 			"/ships/fii/fiiT7.structure",
 			"/ships/fii/fiiT8.structure"
 		]
+	},
+	{ "op" : "add",
+		"path" : "/speciesShips/candavaswebber",
+		"value" : [
+		    "/ships/candavaswebber/candavaswebbert0.structure",
+			"/ships/candavaswebber/candavaswebbert1.structure",
+			"/ships/candavaswebber/candavaswebbert2.structure",
+			"/ships/candavaswebber/candavaswebbert3.structure",
+			"/ships/candavaswebber/candavaswebbert4.structure",
+			"/ships/candavaswebber/candavaswebbert5.structure",
+			"/ships/candavaswebber/candavaswebbert6.structure",
+			"/ships/candavaswebber/candavaswebbert7.structure",
+			"/ships/candavaswebber/candavaswebbert8.structure"
+		]
 	}
 ]

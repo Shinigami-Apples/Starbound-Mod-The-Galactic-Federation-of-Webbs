@@ -28,5 +28,20 @@
 			"male": "neutral",
 			"female": "neutral"
 		}
+	},
+	{
+	"op": "add",
+	"path": "/initialquests/candavaswebber",
+	"value": [
+		"protectorate"
+	]
+	},
+	{
+	"op": "add",
+	"path": "/pronounGenders/candavaswebber",
+	"value": {
+		"male": "neutral",
+		"female": "neutral"
+	}
 	}
 ]
