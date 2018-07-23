@@ -10,11 +10,11 @@
   "twoHanded" : true,
   "itemTags" : ["weapon","wand"],
   "inventoryIcon" : "froster.png",
-  "animation" : "/items/active/weapons/staff/staff.animation",
+  "animation" : "/items/active/weapons/wand/t0/froster/froster.animation",
   "animationParts" : {
     "staff" : "froster.png",
     "stone" : "",
-    "chargeEffect" : "/items/active/weapons/wand/t0/frostericeglow.png"
+    "chargeEffect" : "/items/active/weapons/wand/t0/froster/frosterglow.png"
   },
   "animationCustom" : {
     "lights" : {
@@ -87,7 +87,7 @@
     }
   },
   "elementalType" : "ice",
-  "primaryAbilityType" : "icewand",
+  "primaryAbilityType" : "guidedbolt",
   //"altAbilityType": "lastresort",
 
   "altAbility" : {

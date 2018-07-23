@@ -58,9 +58,9 @@ function lastresort:fire() --do attack, creates hitbox that deals damage
   self.weapon:setStance(self.stances.fire)
   self.weapon:updateAim()
 
-  animator.setAnimationState("altSwoosh", "fire")
+  animator.setAnimationState("altswoosh", "fire")
   animator.playSound(self.fireSound or "altFire")
-  animator.burstParticleEmitter("altSwoosh")
+  animator.burstParticleEmitter("altswoosh")
 
   util.wait(self.stances.fire.duration, function()
     local damageArea = partDamageArea("altSwoosh")
