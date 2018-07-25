@@ -7,12 +7,13 @@
   "shortdescription" : "Froster",
   "tooltipKind" : "staff",
   "category" : "wand",
-  "twoHanded" : true,
+  "twoHanded" : false,
   "itemTags" : ["weapon","wand"],
   "inventoryIcon" : "froster.png",
-  "animation" : "/items/active/weapons/wand/t0/froster/froster.animation",
+  
+  "animation" : "/items/active/weapons/staff/generated/generatedstaff.animation",
   "animationParts" : {
-    "staff" : "froster.png",
+    "handle" : "froster.png",
     "stone" : "",
     "chargeEffect" : "/items/active/weapons/wand/t0/froster/frosterglow.png"
   },
@@ -34,120 +35,57 @@
       }
     }
   },
+
   "scripts" : ["/items/active/weapons/staff/staff.lua"],
 
   "stances" : {
-  "idle" : {
-   "armRotation" : -90,
-   "weaponRotation" : 0,
-   "twoHanded" : false,
-   "weaponOffset" : [0, 1.0],
+    "idle" : {
+      "armRotation" : -90,
+      "weaponRotation" : 0,
+      "twoHanded" : false,
 
-   "allowRotate" : false,
-   "allowFlip" : true
-  },
-  "charge" : {
-   "duration" : 0.6,
-   "armRotation" : 20,
-   "weaponRotation" : -20,
-   "twoHanded" : false,
-   "weaponOffset" : [0, 1.5],
+      "allowRotate" : false,
+      "allowFlip" : true
+    },
+    "charge" : {
+      "duration" : 1.4,
+      "armRotation" : 20,
+      "weaponRotation" : -20,
+      "twoHanded" : true,
 
-   "allowRotate" : false,
-   "allowFlip" : true
-  },
-  "charged" : {
-   "armRotation" : 20,
-   "weaponRotation" : -20,
-   "twoHanded" : false,
-   "weaponOffset" : [0, 1.5],
+      "allowRotate" : false,
+      "allowFlip" : true
+    },
+    "charged" : {
+      "armRotation" : 20,
+      "weaponRotation" : -20,
+      "twoHanded" : true,
 
-   "allowRotate" : false,
-   "allowFlip" : true
-  },
-  "discharge" : {
-   "duration" : 0.35,
-   "armRotation" : -10,
-   "weaponRotation" : -50,
-   "twoHanded" : false,
-   "weaponOffset" : [0, 1.0],
+      "allowRotate" : false,
+      "allowFlip" : true
+    },
+    "discharge" : {
+      "duration" : 0.5,
+      "armRotation" : -10,
+      "weaponRotation" : -50,
+      "twoHanded" : true,
 
-   "allowRotate" : true,
-   "allowFlip" : true
-  },
-  "cooldown" : {
-   "duration" : 0.5,
-   "armRotation" : -45,
-   "weaponRotation" : 0,
-   "twoHanded" : false,
-   "weaponOffset" : [0, 1.75],
+      "allowRotate" : true,
+      "allowFlip" : true
+    },
+    "cooldown" : {
+      "duration" : 0.5,
+      "armRotation" : -45,
+      "weaponRotation" : 0,
+      "twoHanded" : true,
 
-   "allowRotate" : false,
-   "allowFlip" : true
+      "allowRotate" : false,
+      "allowFlip" : true
     }
   },
   "elementalType" : "ice",
-  "primaryAbilityType" : "guidedbolt",
-  //"altAbilityType": "lastresort",
+  "primaryAbilityType" : "webstaffarcticchill",
+  "primaryAbility" : {},
 
-  "altAbility" : {
-    "name" : "Last Resort", //"Last Resort" is an emergency move where the weapon's holder takes down threats by turning a ranged weapon into a melee wepon
-    "scripts" : ["/items/active/weapons/melee/abilities/stafflastresort.lua"],
-    "class" : "lastresort",
-    "fireTime" : 0.2,
-    "baseDps" : 8.5,
-    "damageConfig" : {
-      "damageSourceKind" : "spear",
-      "statusEffects" : [ ],
-      "knockbackMode" : "aim",
-      "knockback" : 10,
-      "timeoutGroup" : "primary"
-    },
- //fuckfuckfuckfuckfuckfuckfuckfuckfuckfuckfuckfuckfuckfuckfuckfuck
- //fuckfuckfuckfuckfuckfuckfuckfuckfuckfuckfuckfuckfuckfuckfuckfuck
- //fuckfuckfuckfuckfuckfuckfuckfuckfuckfuckfuckbrokenAFcodefuckfuck
-    "stances" : {
-      "windup" : {
-        "duration" : 0.15,
-        "armRotation" : -130,
-        "weaponRotation" : 80,
-        "twoHanded" : true,
-        "weaponOffset" : [0, 0],
-
-        "allowRotate" : false,
-        "allowFlip" : false
-      },
-      "preslash" : {
-        "duration" : 0.15,
-        "armRotation" : -130,
-        "weaponRotation" : 80,
-        "twoHanded" : true,
-        "weaponOffset" : [0, 0],
-
-        "allowRotate" : false,
-        "allowFlip" : false
-      },
-      "altSwoosh" : {
-        "duration" : 0.15,
-        "armRotation" : -130,
-        "weaponRotation" : 80,
-        "twoHanded" : true,
-        "weaponOffset" : [0, 0],
-
-        "allowRotate" : false,
-        "allowFlip" : false
-      },
-      "fire" : {
-        "duration" : 0.4,
-        "armRotation" : -10,
-        "weaponRotation" : 20,
-        "twoHanded" : true,
-        "weaponOffset" : [0.25, 0],
-
-        "allowRotate" : false,
-        "allowFlip" : false
-      }
-    }
-  },
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }
