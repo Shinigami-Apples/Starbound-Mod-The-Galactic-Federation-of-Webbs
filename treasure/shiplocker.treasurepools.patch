@@ -14,5 +14,20 @@
         {"item" : [ "webbersilkcollector", 1 ]}
       ]
     }]]
+  },
+  {
+    "op": "add",
+    "path": "/candavaswebberStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+	    {"item" : [ "flashlight" ]},
+        {"item" : [ "torch", 10 ]},
+        {"item" : [ "candafrosterstaff", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]}
+      ]
+    }]]
   }
 ]

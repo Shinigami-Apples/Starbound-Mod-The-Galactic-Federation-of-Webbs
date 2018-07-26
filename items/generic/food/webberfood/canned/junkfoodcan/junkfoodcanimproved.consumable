@@ -11,6 +11,10 @@
     {
         "effect" : "webbermeat",
         "duration" : 240
+    },
+    {
+        "effect" : "badtaste",
+        "duration" : 30
     }
   ] ],
   "foodValue" : 60,

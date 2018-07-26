@@ -1,0 +1,15 @@
+{
+
+  "name" : "combatwebstunned3",
+
+  "effectConfig" : {},
+
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "combatwebstunned3.lua"
+  ],
+
+  "label" : "Frozen solid",
+  "icon" : "/interface/statuses/frozen.png"
+}

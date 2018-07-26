@@ -1,1 +1,6 @@
-[ { "op" : "add", "path" : "/speciesOrdering/-", "value" : "webber" } ]
+[
+  { "op" : "add", "path" : "/speciesOrdering/-", "value" : "webber" },
+//  { "op" : "add", "path" : "/speciesOrdering/-", "value" : "fii" },
+//  Save the playable Fii for later. So far, they're only being a pain in the arse to make.
+  { "op" : "add", "path" : "/speciesOrdering/-", "value" : "candavaswebber" }
+]

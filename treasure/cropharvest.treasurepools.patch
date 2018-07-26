@@ -1,0 +1,53 @@
+[
+  { "op" : "add",
+	"path" : "/webBreadonHarvest",
+	"value" : [
+	  [0, {
+		"pool" : [
+		  {"weight" : 0.40, "item" : ["webbreadon", 3]},
+      {"weight" : 0.30, "item" : ["webbreadon", 2]},
+      {"weight" : 0.20, "item" : ["webbreadon", 1]},
+      {"weight" : 0.001, "item" : ["webbreadonlorumdiseased", 1]},
+		  {"weight" : 0.1, "item" : ["plantfibre", 1]}
+		],
+		"poolRounds" : [
+		  [0.6, 1],
+		  [0.4, 2]
+		]
+	  } ]
+	]
+},
+
+
+  { "op" : "add",
+	"path" : "/webstrawberryHarvest",
+	"value" : [
+	  [0, {
+		"pool" : [
+		  {"weight" : 0.90, "item" : ["webstrawberry", 4]},
+		  {"weight" : 0.1, "item" : ["plantfibre", 2]}
+		],
+		"poolRounds" : [
+		  [0.6, 1],
+		  [0.4, 2]
+		]
+	  } ]
+	]
+},
+{ "op" : "add",
+"path" : "/webstrawberryunripeHarvest",
+"value" : [
+  [0, {
+  "pool" : [
+    {"weight" : 0.50, "item" : ["webstrawberryunripe", 4]},
+    {"weight" : 0.40, "item" : ["webstrawberryunripe", 3]},
+    {"weight" : 0.1, "item" : ["plantfibre", 4]}
+  ],
+  "poolRounds" : [
+    [0.6, 1],
+    [0.4, 2]
+  ]
+  } ]
+]
+}
+]

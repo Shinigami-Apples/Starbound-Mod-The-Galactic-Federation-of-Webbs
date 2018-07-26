@@ -1,0 +1,15 @@
+{
+
+  "name" : "combatwebstunned2",
+
+  "effectConfig" : {},
+
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "combatwebstunned2.lua"
+  ],
+
+  "label" : "Chilled - Slowed down considerably.",
+  "icon" : "/interface/statuses/ice.png"
+}

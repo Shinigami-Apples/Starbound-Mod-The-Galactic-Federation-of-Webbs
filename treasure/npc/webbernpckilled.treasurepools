@@ -6,8 +6,9 @@
   "webbermeats" : [
     [1, {
       "pool" : [
-        {"weight" : 0.9, "item" : "questionablemeatwebber"},
-        {"weight" : 0.1, "item" : "webberspidersilk"}
+        {"weight" : 0.7, "item" : ["questionablemeatwebber", 3]},
+        {"weight" : 0.5, "item" : ["webwebbereye", 8]},
+        {"weight" : 0.1, "item" : ["webberspidersilk", 1 ]}
       ]
     } ]
   ]
