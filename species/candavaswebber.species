@@ -3,7 +3,7 @@
   "charCreationTooltip" : {
   "title" : "CANDAVAS WEBBER",
   "subTitle" : "O2",
-  "description" : "An odd and magical variation of the webber clones. Sweet and sugary from head to toe, these webbers are made of nothing but sugary ingredients. Their creation has gone completely unknown, and so has the sanity of those who attempt to understand them."
+  "description" : "An odd and \"magical\" variation of the webber clones. Sweet and sugary from head to toe, these webbers are made of nothing but sugary ingredients. Their creation has gone completely unknown, and so has the sanity of those who attempt to understand them."
   },
   "nameGen" : [ "/species/candavaswebbermalenamegen.config:names", "/species/candavaswebbermalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/candavaswebberhurt.ogg", "/sfx/humanoid/candavaswebberhurt.ogg"],
@@ -138,20 +138,20 @@
     { "ffc181" : "EF7674", "d39c6c" : "EC5766", "c7815b" : "DA344D" },
     //Grape
     { "ffc181" : "5A426B", "d39c6c" : "352A54", "c7815b" : "080628" },
-    //Forrest
+    //Forest
     { "ffc181" : "607744", "d39c6c" : "34623f", "c7815b" : "1e2f23" },
     //Gum
     { "ffc181" : "8fb8de", "d39c6c" : "1e485f", "c7815b" : "063753" },
     //[What] Pumpkin
     { "ffc181" : "DC6C29", "d39c6c" : "CB4D35", "c7815b" : "741D13" },
     //Peppermint
-    { "ffc181" : "F0F4F5", "d39c6c" : "EF7674", "c7815b" : "DA344D" },
+    { "ffc181" : "f9e9e8", "d39c6c" : "f1bfbe", "c7815b" : "ef7674" },
     //Lemon
     { "ffc181" : "fbed04", "d39c6c" : "dcc400", "c7815b" : "b2940e" },
     //Wasabi
     { "ffc181" : "9E9E00", "d39c6c" : "708200", "c7815b" : "303800" },
     //Pistachio
-    { "ffc181" : "CED2AF", "d39c6c" : "86B2A3", "c7815b" : "14C3A2" }
+    { "ffc181" : "CED2AF", "d39c6c" : "86b28d", "c7815b" : "66836b" }
   ],
   "undyColor" : [ //eye color
     //dc1f00 2nd shade

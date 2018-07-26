@@ -8,9 +8,10 @@ Vetpetmon - Sprites, scripts, writing, lore, playtesting, running the whole AU, 
 C0bra5 - fixes to the silk generation effect.
 ZimberZimber - Helping out with racial exceptions for the silk generation effect.
 Shinigami Apples - Sprites and code.
-Valo - Sprites
+Valo - Sprited Tungsten Handlegun
 TankSlayer2 - Concepts of the AU and beta tester.
 Arctic - lore
+Sky - Sprited the Candy Corn Assault Rifle
 
 Special thanks:
 

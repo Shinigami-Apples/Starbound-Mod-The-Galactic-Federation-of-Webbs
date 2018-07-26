@@ -10,11 +10,12 @@
   "twoHanded" : false,
   "itemTags" : ["weapon","wand"],
   "inventoryIcon" : "froster.png",
-  
+
   "animation" : "/items/active/weapons/staff/generated/generatedstaff.animation",
   "animationParts" : {
     "handle" : "froster.png",
-    "stone" : "",
+    "crown" : "frosterna.png",
+    "stone" : "frosterna.png",
     "chargeEffect" : "/items/active/weapons/wand/t0/froster/frosterglow.png"
   },
   "animationCustom" : {
