@@ -11,14 +11,14 @@
   "twoHanded" : false,
   "itemTags" : ["weapon", "melee", "dagger", "knife", "candavasian"],
   "inventoryIcon" : "candydagger1.png",
-  "animation" : "dagger.animation",
+  "animation" : "/items/active/weapons/melee/dagger/dagger.animation",
   "animationParts" : {
     "blade" : "candydagger1.png",
     "handle" : ""
   },
   "animationCustom" : {
     "animatedParts" : { "parts" : { "swoosh" : { "properties" : {
-      "offset" : [0.0, 1.75]
+      "offset" : [0.0, 0.75]
     }}}},
     "sounds" : {
       "fire" : [ "/sfx/melee/swing_dagger.ogg" ]

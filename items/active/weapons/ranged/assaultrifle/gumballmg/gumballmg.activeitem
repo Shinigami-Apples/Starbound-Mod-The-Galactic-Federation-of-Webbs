@@ -11,24 +11,24 @@
   "itemTags" : ["weapon","ranged","candavasian","assaultRifle"],
   "level" : 4,
 
-  "inventoryIcon" : "candycornar.png",
+  "inventoryIcon" : "gumballmg.png",
 
   "animation" : "/items/active/weapons/ranged/gun.animation",
 
     "animationParts" : {
       "butt" : "",
-      "middle" : "stickypistol1.png",
+      "middle" : "gumballmg.png",
       "barrel" : "",
       "muzzleFlash" : "/items/active/weapons/ranged/muzzleflash.png"
     },
 
     "animationCustom" : {
       "sounds" : {
-        "fire" : ["/sfx/gun/candylauncher.ogg"]
+        "fire" : ["/sfx/weapons/ranged/candylauncher.ogg"]
       }
   },
 
-  "baseOffset" : [0.4, 0.15],
+  "baseOffset" : [-0.5, -0.4],
   "muzzleOffset" : [2.3, 0.15],
 
     "scripts" : ["/items/active/weapons/ranged/gun.lua"],
@@ -39,17 +39,17 @@
       "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
       "class" : "GunFire",
 
-      "fireTime" : 0.30,
+      "fireTime" : 0.2,
       "baseDps" : 24.6,
       "energyUsage" : 41,
       "inaccuracy" : 0.1,
 
       "projectileCount" : 1,
-      "fireType" : ["auto", "burst"],
+      "fireType" : ["auto"],
 
       "projectileType" : "standardbullet",
       "projectileParameters" : {
-        "knockback" : 5
+        "knockback" : 10
       },
       "stances" : {
         "idle" : {
@@ -83,7 +83,7 @@
 
     //FU crit stats
     "critChance" : 2,
-    "critBonus" : 4,
+    "critBonus" : 5,
 
     "builder" : "/items/buildscripts/buildunrandweapon.lua"
   }

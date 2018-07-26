@@ -1,10 +1,10 @@
 {
-  "materialId" : 65211,
+  "materialId" : 25501,
   "materialName" : "candacandygirder",
   "frames" : "candacandygirder.png",
   "particleColor" : [89, 127, 52, 255],
   "variants" : 1,
-  "itemDrop" : "candacandygirdermaterial",
+  "itemDrop" : "candacandygirder",
   "description" : "A girder made out of rock candy. Not as edible as it looks.",
   "shortdescription" : "Candy Girder",
   "glitchDescription" : "Interested. It can hold up the most grand of buildings.",

@@ -1,9 +1,9 @@
 {
   "itemName" : "candacandygirder",
+  "price" : 0,
   "category" : "block",
   "rarity" : "Common",
   "inventoryIcon" : "candacandygirder.png",
-  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
   "description" : "A girder made out of rock candy. Not as edible as it looks.",
   "shortdescription" : "Candy Girder",
   "glitchDescription" : "Interested. It can hold up the most grand of buildings.",
@@ -12,5 +12,5 @@
   "webberDescription" : "Rock candy seems tasty, should we lick it?",
   "candavaswebberDescription": "Rock candy is a very useful contruction material.",
 
-  "materialId" : 65211
+  "materialId" : 25501
 }
