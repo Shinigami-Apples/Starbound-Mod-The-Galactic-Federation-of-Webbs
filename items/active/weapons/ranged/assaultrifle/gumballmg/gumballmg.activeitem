@@ -28,7 +28,7 @@
       }
   },
 
-  "baseOffset" : [-0.2, 0.4],
+  "baseOffset" : [-0.35, 0.4],
   "muzzleOffset" : [2.3, 0.15],
 
     "scripts" : ["/items/active/weapons/ranged/gun.lua"],
@@ -40,8 +40,8 @@
       "class" : "GunFire",
 
       "fireTime" : 0.2,
-      "baseDps" : 24.6,
-      "energyUsage" : 41,
+      "baseDps" : 34.6,
+      "energyUsage" : 141,
       "inaccuracy" : 0.1,
 
       "projectileCount" : 1,
